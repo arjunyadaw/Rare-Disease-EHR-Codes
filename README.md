@@ -35,9 +35,10 @@ In order to run this code(reproduce results), you will need following:
 * Electronic health record data table (version 154) in the OMOP data model
 * Rare disease patients cohort based on SNOMED-CT and ICD-10 codes
 * Rare disease linearization classification based on ORPHANET Linearization
+  
 ## Code for rare diseases identification & classification (Folders)
-* Rare disease identification by ICD-10 codes 
-* Rare disease identification by SNOMED-CT codes
+* Rare disease specific ICD-10 codes 
+* Rare disease specific SNOMED-CT codes
 * Rare disease classification based on ORPHANET Linearization
 * Rare disease misceleneous folder
 
