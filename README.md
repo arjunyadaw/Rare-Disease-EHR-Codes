@@ -43,5 +43,10 @@ In order to run this code(reproduce results), you will need following:
 * Rare disease misceleneous folder
 
 ## Rare disease cohort building at N3C enclave and analysis
-* Rare disease cohort code for different classes
+* Rare disease cohort 
 * Rare disease analysis codes
+* Cohort of COVID-19 positive patients
+
+## Running our model:
+To produce the results, One has create rare disease specific ICD-10 and SNOMED-CT codes for different rare disease classes by using (Rare disease classification based on ORPHANET Linearization) then use this code to N3C enclave to create rare disease cohort. Also create cohorts of cohort of COVID-19 positive patients (Cohort of COVID-19 positive patients) then run RD_model (Rare disease analysis codes) by using these input tables.
+  
