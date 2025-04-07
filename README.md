@@ -14,20 +14,20 @@ This code is designed to identify rare disease patients in electronic health rec
 ## Python Libraries Used:
 The following Python version and packages are required to execute this in palantir foundary:
 
-* Python 3.10.16
-* numpy 1.26.4
-* pandas 1.5.3
-* statsmodel 0.14.4
-* patsy 1.0.1
-* matplotlib 3.9.4
-* Seaborn 0.13.2
-* Spark SQL 3.4.1.34
+* Python (3.10.16)
+* numpy (1.26.4)
+* pandas (1.5.3)
+* statsmodel (0.14.4)
+* patsy (1.0.1)
+* matplotlib (3.9.4)
+* Seaborn (0.13.2)
+* Spark SQL (3.4.1.34)
 
 ## R Libraries Used:
-* gtsummary 2.1.0
-* tidyverse 2.0.0
-* gt 0.11.1
-* ggplot2 3.5.1
+* gtsummary (2.1.0)
+* tidyverse (2.0.0)
+* gt (0.11.1)
+* ggplot2 (3.5.1)
 
 ## Prerequisites: 
 In order to run this code(reproduce results), you will need following:
