@@ -2,7 +2,7 @@
 
 
 Full Citation:
-Arjun S. Yadaw, Eric Sid, Hythem Sidky,Chenjie Zeng, Qian Zhu, Ewy Mathé."Systematic identification of rare disease patients in electronic health records enables evaluation of clinical outcomes". (Journal details etc).
+Arjun S. Yadaw, Eric Sid, Hythem Sidky,Chenjie Zeng, Qian Zhu, Ewy Mathé."Systematic identification of rare disease patients in electronic health records enables evaluation of clinical outcomes". (MedRxiv doi: https://doi.org/10.1101/2025.05.02.25325348).
 
 ## Project Summary: 
 There are over 10,000 rare diseases. In fact, rare diseases are estimated to affect more than 30 million people in the United States and more than 300 million people across the world. In the United States, a rare disease is one that fewer than 200,000 people live with. (In other words, 6 per 10,000 individuals.). Each disease may be rare individually, but people with rare diseases often face similar challenges and there are more than 30 million people affected by rare diseases in USA. These challenges may include accessing information, getting a diagnosis, and finding resources (https://rarediseases.info.nih.gov/about). 
