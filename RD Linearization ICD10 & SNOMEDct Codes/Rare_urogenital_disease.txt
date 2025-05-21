@@ -1,0 +1,11 @@
+	Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+	75863	197834003	Chronic interstitial cystitis	Disorder	Standard	01/30/2002	12/30/2099	5,247,390	5,523,260	939,270	1,025,900	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
+	4263916	36139001	Chronic ulcerating interstitial cystitis	Disorder	Standard	01/30/2002	12/30/2099	70	70	30	30	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Chronic interstitial cystitis'">1
+	37397282	717459000	Congenital primary megaureter	Disorder	Standard	07/30/2016	12/30/2099	100	100	40	40	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
+	35622309	763716008	Familial vesicoureteral reflux	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
+	45763743	700242002	Fowler syndrome	Disorder	Standard	07/30/2014	12/30/2099	110	110	40	40	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
+	37018952	367661000119102	Hematuria co-occurrent and due to chronic interstitial cystitis	Disorder	Standard	01/30/2016	12/30/2099	275,800	275,800	86,600	86,600	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Chronic interstitial cystitis'">1
+	40479626	441575009	Ischemic priapism	Disorder	Standard	07/30/2009	12/30/2099	40	100	20	40	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
+	4111154	253904001	Megacystis-megaureter syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
+	4179391	429233001	Nonneurogenic neurogenic bladder dysfunction	Disorder	Standard	01/30/2008	12/30/2099	1,100	1,100	40	40	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
+	40484064	442584007	Stuttering priapism	Disorder	Standard	07/30/2009	12/30/2099	60	60	20	20	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Ischemic priapism'">1

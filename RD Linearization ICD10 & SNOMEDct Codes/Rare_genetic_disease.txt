@@ -1,0 +1,4 @@
+	Id	Code	Name	Class	Standard Concept Caption	RC	DRC	Domain	Vocabulary
+	37396772	716698007	Congenital deficiency of alpha-fetoprotein	Disorder	Standard	0	0	Condition	SNOMED
+	37396771	716697002	Hereditary persistence of alpha-fetoprotein	Disorder	Standard	0	0	Condition	SNOMED
+	35624270	766929007	Genetic hyperferritinemia without iron overload	Disorder	Standard	100	100	Condition	SNOMED

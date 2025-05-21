@@ -1,0 +1,8 @@
+	Id	Code	Name	Class	Standard Concept Caption	RC	DRC	Domain	Vocabulary
+	37311072	827174006	Cervicofacial fibrochondroma	Disorder	Standard	0	0	Condition	SNOMED
+	37162100	1186726000	Primary hyperplasia of mandibular condyle	Disorder	Standard	0	0	Condition	SNOMED
+	37116393	733091002	Isolated hereditary congenital facial paralysis	Disorder	Standard	0	0	Condition	SNOMED
+	36716396	722389002	Congenital hereditary facial paralysis with variable hearing loss syndrome	Disorder	Standard	0	0	Condition	SNOMED
+	35621926	763215008	Congenital ankylosis of temporomandibular joint	Disorder	Standard	0	0	Condition	SNOMED
+	4215883	81139004	Myospherulosis	Disorder	Standard	0	0	Condition	SNOMED
+	137322	32883009	Oral submucosal fibrosis	Disorder	Standard	40,830	40,830	Condition	SNOMED
