@@ -1,7 +1,0 @@
-	Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
-	4128551	236805000	Congenital impairment of spermatozoa motility	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
-	37160965	1172637002	Female infertility due to oocyte meiotic arrest	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
-	36674870	770726004	Female infertility due to zona pellucida defect	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
-	4032600	236806004	Infertility associated with multi-tailed spermatozoa and excessive DNA	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Congenital impairment of spermatozoa motility'">1
-	35607978	764096006	Male infertility with teratozoospermia due to single gene mutation	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
-	37397119	717158001	Partial chromosome Y deletion	Disorder	Standard	07/30/2016	12/30/2099	10	10	0	0	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
