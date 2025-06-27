@@ -1,2 +1,0 @@
-	Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
-	4302306	78250005	Ectopia cordis	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''">0
