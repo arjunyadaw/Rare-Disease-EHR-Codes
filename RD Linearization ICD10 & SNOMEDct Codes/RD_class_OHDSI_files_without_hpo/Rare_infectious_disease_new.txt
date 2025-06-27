@@ -1,0 +1,1296 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+192549	43894001	Abdominal actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	32,420	32,430	11,240	11,250	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+4345795	240459003	Abortive poliomyelitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infection caused by Human poliovirus'"">1"
+36716000	721807009	Abscess caused by Entamoeba histolytica	Disorder	Standard	01/30/2017	12/30/2099	0	26,930	0	7,350	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infection due to Entamoeba histolytica'"">1"
+46270143	14770001000004107	Abscess of abdomen caused by Nocardia	Disorder	Standard	07/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Nocardiosis'"">1"
+37160811	1163473005	Acanthameba keratoconjunctivitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acanthamoeba keratitis'"">1"
+4338871	231896005	Acanthamoeba keratitis	Disorder	Standard	01/30/2002	12/30/2099	10,950	10,950	1,850	1,850	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4183170	4340003	Acrodermatitis atrophicans chronica	Disorder	Standard	01/30/2002	12/30/2099	8,530	8,530	5,690	5,690	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Lyme disease'"">1"
+4300233	402993003	Actinomycetoma due to Actinomadura madurae	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Mycetoma'"">1"
+4298984	402994009	Actinomycetoma due to Actinomadura pelletieri	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Mycetoma'"">1"
+4300232	402986002	Actinomycetoma due to Nocardia asteroides	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'NocardiosisMycetoma'"">2"
+4293285	402985003	Actinomycetoma due to Nocardia brasiliensis	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'NocardiosisMycetoma'"">2"
+4290718	402129006	Actinomycetoma due to Nocardia infection	Disorder	Standard	07/30/2003	12/30/2099	30	40	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'NocardiosisMycetoma'"">2"
+4293286	402987006	Actinomycetoma due to Nocardia otitidis caviarum	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'NocardiosisMycetoma'"">2"
+4300234	402995005	Actinomycetoma due to Streptomyces somaliensis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Mycetoma'"">1"
+4034225	237448006	Actinomycosis of breast	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+4090695	186394003	Actinomycosis of cecum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+4130333	237048004	Actinomycosis of fallopian tube	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+4041676	230209006	Actinomycotic brain abscess	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+4034008	237085007	Actinomycotic cervicitis	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+37160737	1163145003	Actinomycotic colitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+37162493	1193731009	Actinomycotic enteritis of intestine	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+37162492	1193729000	Actinomycotic enteritis of small intestine	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+436020	11817007	Actinomycotic infection	Disorder	Standard	01/30/2002	12/30/2099	277,140	477,750	112,140	180,420	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4088233	186397005	Actinomycotic madura foot	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Mycetoma'"">1"
+4105195	192649000	Actinomycotic meningitis	Disorder	Standard	01/30/2002	12/30/2099	420	420	120	120	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+4087897	187089001	Actinomycotic mycetoma	Disorder	Standard	01/30/2002	12/30/2099	3,500	3,550	850	860	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Mycetoma'"">1"
+4112822	195908008	Actinomycotic pneumonia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+4056172	197964007	Actinomycotic prostatitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Actinomycotic infection'"">1"
+4085622	186116005	Acute amebic dysentery	Disorder	Standard	01/30/2002	12/30/2099	11,680	22,470	6,200	13,040	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infection due to Entamoeba histolytica'"">1"
+196623	111912001	Acute amebic dysentery without abscess	Disorder	Standard	01/30/2002	12/30/2099	10,790	10,790	6,840	6,840	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infection due to Entamoeba histolytica'"">1"
+4090674	186311005	Acute and fulminating melioidosis	Disorder	Standard	01/30/2002	12/30/2099	830	830	200	200	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Melioidosis'"">1"
+437899	266237004	Acute and subacute bacterial endocarditis	Disorder	Standard	01/30/2002	12/30/2099	1,041,010	1,041,010	198,120	198,120	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infective endocarditis'"">1"
+3654665	838358000	Acute and subacute endocarditis of left side of heart due to infection	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infective endocarditis'"">1"
+37167578	1268520007	Acute and subacute endocarditis of right side of heart due to infection	Disorder	Standard	03/30/2023	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infective endocarditis'"">1"
+435563	194926000	Acute and subacute infective endocarditis associated with another disorder	Disorder	Standard	01/30/2002	12/30/2099	41,740	41,740	15,260	15,260	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infective endocarditis'"">1"
+4009624	111286002	Acute bacterial endocarditis	Disorder	Standard	01/30/2002	12/30/2099	3,180	1,044,210	900	199,030	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infective endocarditis'"">1"
+40490363	446957000	Acute bulbar poliomyelitis due to Human poliovirus 1	Disorder	Standard	01/30/2011	12/30/2099	4,310	4,310	410	410	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infection caused by Human poliovirus'"">1"
+40487367	446311006	Acute bulbar poliomyelitis due to Human poliovirus 2	Disorder	Standard	01/30/2011	12/30/2099	550	550	190	190	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infection caused by Human poliovirus'"">1"
+4082034	240653009	Acute Chagas' disease	Disorder	Standard	01/30/2002	12/30/2099	20	9,000	10	3,040	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infection by Trypanosoma cruzi'"">1"
+4089976	186813004	Acute Chagas' disease with heart involvement	Disorder	Standard	01/30/2002	12/30/2099	1,750	1,750	570	570	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infection by Trypanosoma cruzi'"">1"
+36716726	722889008	Acute Chagas disease without heart involvement	Disorder	Standard	01/30/2017	12/30/2099	7,230	7,230	2,460	2,460	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infection by Trypanosoma cruzi'"">1"
+4346171	240800002	Acute clonorchiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Trematode infection'"">1"
+45757664	3071000119108	Acute coccidioidomycosis	Disorder	Standard	07/30/2014	12/30/2099	20	105,410	20	32,450	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Coccidioidomycosis'"">1"
+4080459	240730004	Acute disseminated classical histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	70	70	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Histoplasmosis'"">1"
+3654663	838356001	Acute endocarditis of right side of heart due to infection	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infective endocarditis'"">1"
+439673	186626002	Acute hepatitis B with delta-agent (coinfection) without hepatic coma	Disorder	Standard	01/30/2002	12/30/2099	27,310	27,310	9,820	9,820	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Viral hepatitis D'"">1"
+4341652	235864009	Acute hepatitis B with hepatitis D	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Viral hepatitis D'"">1"
+43020873	459056003	Acute infective endocarditis	Disorder	Standard	01/30/2013	12/30/2099	100	1,086,050	60	214,350	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infective endocarditis'"">1"
+37160727	1163134001	Acute juvenile paracoccidioidomycosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Paracoccidioidomycosis'"">1"
+37160684	1163089000	Acute left sided infective endocarditis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infective endocarditis'"">1"
+4345701	240390000	Acute localized suppurative melioidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4142570	426637005	Acute lyme disease	Disorder	Standard	07/30/2007	12/30/2099	640	640	420	420	Condition	SNOMED	
+4346181	240828008	Acute Malayan filarial abscess	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346180	240826007	Acute Malayan filariasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4148301	30595008	Acute necrotizing cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35607947	763310000	Acute necrotizing encephalopathy of childhood	Disorder	Standard	07/30/2018	12/30/2099	20	20	0	0	Condition	SNOMED	
+4347539	240463005	Acute neurological rabies	Disorder	Standard	01/30/2002	12/30/2099	0	20	0	20	Condition	SNOMED	
+136330	14535005	Acute nonparalytic poliomyelitis	Disorder	Standard	01/30/2002	12/30/2099	10,560	10,860	1,840	1,960	Condition	SNOMED	
+443566	429297003	Acute nonparalytic poliomyelitis due to human poliovirus 1	Disorder	Standard	01/30/2008	12/30/2099	300	300	120	120	Condition	SNOMED	
+4294711	403126006	Acute papular onchodermatitis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4091330	186476008	Acute paralytic non-bulbar poliomyelitis	Disorder	Standard	01/30/2002	12/30/2099	880	880	60	60	Condition	SNOMED	
+4347538	240460008	Acute paralytic poliomyelitis	Disorder	Standard	01/30/2002	12/30/2099	74,270	113,850	6,990	12,360	Condition	SNOMED	
+376901	64764001	Acute paralytic poliomyelitis, bulbar	Disorder	Standard	01/30/2002	12/30/2099	26,790	31,650	3,210	3,810	Condition	SNOMED	
+40490364	446958005	Acute paralytic poliomyelitis due to Human poliovirus 1	Disorder	Standard	01/30/2011	12/30/2099	2,410	6,720	440	850	Condition	SNOMED	
+40491869	447262002	Acute paralytic poliomyelitis due to Human poliovirus 2	Disorder	Standard	01/30/2011	12/30/2099	420	970	170	360	Condition	SNOMED	
+40492373	447378002	Acute paralytic poliomyelitis due to Human poliovirus 3	Disorder	Standard	01/30/2011	12/30/2099	180	180	90	90	Condition	SNOMED	
+4088245	186478009	Acute paralytic poliomyelitis, vaccine-associated	Disorder	Standard	01/30/2002	12/30/2099	3,000	3,000	580	580	Condition	SNOMED	
+4090828	186479001	Acute paralytic poliomyelitis, wild virus, imported	Disorder	Standard	01/30/2002	12/30/2099	450	450	100	100	Condition	SNOMED	
+4087441	186480003	Acute paralytic poliomyelitis, wild virus, indigenous	Disorder	Standard	01/30/2002	12/30/2099	590	590	120	120	Condition	SNOMED	
+45770911	184431000119108	Acute pneumonia due to coccidioidomycosis	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+378679	398102009	Acute poliomyelitis	Disorder	Standard	07/30/2003	12/30/2099	217,870	345,750	40,800	55,610	Condition	SNOMED	
+40487368	446312004	Acute poliomyelitis due to Human poliovirus 1	Disorder	Standard	01/30/2011	12/30/2099	3,170	10,190	490	1,460	Condition	SNOMED	
+4082065	240741002	Acute pulmonary African histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4087776	187027001	Acute pulmonary coccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	105,390	105,390	32,430	32,430	Condition	SNOMED	
+4241693	58524006	Acute pulmonary histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	18,350	18,350	8,750	8,750	Condition	SNOMED	
+4252713	409553007	Acute Q fever	Disorder	Standard	07/30/2004	12/30/2099	10	10	10	10	Condition	SNOMED	
+37160681	1163086007	Acute schistosomiasis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37167221	1264007008	Adenovirus infection in immunocompromised person	Disorder	Standard	02/27/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+608055	1156793005	Adult intestinal botulism	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+434581	78511005	African histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	3,990	5,940	1,780	2,780	Condition	SNOMED	
+4228934	406558002	African tick bite fever	Disorder	Standard	01/30/2004	12/30/2099	10	10	10	10	Condition	SNOMED	
+438344	27031003	African trypanosomiasis	Disorder	Standard	01/30/2002	12/30/2099	3,440	5,230	1,690	2,190	Condition	SNOMED	
+4080434	240631007	Airport malaria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+138347	72294005	Alastrim	Disorder	Standard	01/30/2002	12/30/2099	710	710	160	160	Condition	SNOMED	
+4084205	18342001	Algid malaria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+436024	186287003	Ambulatory plague	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4097678	26826005	Amebic appendicitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4173717	50227004	Amebic balanitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+194560	75119003	Amebic liver abscess	Disorder	Standard	01/30/2002	12/30/2099	19,020	19,020	5,440	5,440	Condition	SNOMED	
+256023	65095005	Amebic lung abscess	Disorder	Standard	01/30/2002	12/30/2099	7,910	7,910	1,910	1,910	Condition	SNOMED	
+4290720	402141004	American cutaneous/mucocutaneous Leishmaniasis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299007	403135004	American mucocutaneous leishmaniasis	Disorder	Standard	07/30/2003	12/30/2099	40	40	0	0	Condition	SNOMED	
+37162526	1193807005	Ancylostoma caninum eosinophilic enteritis of intestine	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162525	1193806001	Ancylostoma caninum eosinophilic enteritis of small intestine	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345911	240854000	Ancylostomal cutaneous larva migrans	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188108	63479002	Ancylostomiasis	Disorder	Standard	01/30/2005	12/30/2099	9,840	27,020	2,790	3,870	Condition	SNOMED	
+433703	22728002	Ancylostomiasis due to Ancylostoma braziliense	Disorder	Standard	01/30/2002	12/30/2099	580	580	300	300	Condition	SNOMED	
+444051	38725001	Ancylostomiasis due to Ancylostoma ceylonicum	Disorder	Standard	01/30/2002	12/30/2099	320	320	250	250	Condition	SNOMED	
+438070	7386008	Ancylostomiasis due to Ancylostoma duodenale	Disorder	Standard	01/30/2005	12/30/2099	16,280	16,280	530	530	Condition	SNOMED	
+4138257	32266007	Anicteric leptospirosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4004895	10093004	Anisakiasis caused by larva of Anisakis simplex	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4160185	398327006	Anterior acute poliomyelitis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+252548	195902009	Anthrax pneumonia	Disorder	Standard	01/30/2002	12/30/2099	1,590	1,590	530	530	Condition	SNOMED	
+4240364	58868000	Argentinian hemorrhagic fever	Disorder	Standard	01/30/2002	12/30/2099	350	350	140	140	Condition	SNOMED	
+3654667	838360003	Arthritis caused by Mycobacterium leprae	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+141791	186807008	Asian desert cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	260	260	190	190	Condition	SNOMED	
+4014884	10446001	Aspergilloma	Disorder	Standard	01/30/2002	12/30/2099	9,860	9,860	810	810	Condition	SNOMED	
+37017456	713732008	Aspergillosis co-occurrent with human immunodeficiency virus infection	Disorder	Standard	01/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162473	1193650002	Aspergillosis enteritis of intestine	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162472	1193649002	Aspergillosis enteritis of small intestine	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+40482019	445058002	Aspergillus bronchitis	Disorder	Standard	07/30/2010	12/30/2099	30	50	20	20	Condition	SNOMED	
+37160738	1163146002	Aspergillus colitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4186114	413583003	Aspergillus endophthalmitis	Disorder	Standard	01/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161137	1177039008	Aspergillus esophagitis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160724	1163130005	Aspergillus meningitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160845	1163536005	Aspergillus mycotic cerebral aneurysm	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4120323	302905001	Aspergillus otomycosis	Disorder	Standard	01/30/2002	12/30/2099	1,690	1,690	220	220	Condition	SNOMED	
+4294712	403128007	Atrophic onchodermatitis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716913	723147008	Autonomic disorder co-occurrent and due to Chagas disease	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+439730	21061004	Babesiosis	Disorder	Standard	01/30/2002	12/30/2099	214,750	217,690	58,930	60,090	Condition	SNOMED	
+197206	57725006	Balantidiasis	Disorder	Standard	01/30/2002	12/30/2099	36,380	36,380	25,660	25,660	Condition	SNOMED	
+4240301	91586009	Bancroftian elephantiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346041	240823004	Bancroftian filarial abscess	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4120798	234108004	Bancroftian filarial chylocele	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346179	240822009	Bancroftian filarial fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4169249	48982009	Bannwarth syndrome	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+3657775	15693201000119102	Bilateral keratitis of eyes caused by Acanthamoeba	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+437216	56625005	Black water fever	Disorder	Standard	01/30/2002	12/30/2099	700	700	430	430	Condition	SNOMED	
+3654610	838301001	Bladder disorder caused by Schistosoma	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3654611	838302008	Bladder disorder caused by Schistosoma japonicum	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4284824	67247008	Bolivian hemorrhagic fever	Disorder	Standard	01/30/2002	12/30/2099	680	680	550	550	Condition	SNOMED	
+4345219	240403008	Borderline lepromatous leprosy	Disorder	Standard	01/30/2002	12/30/2099	670	670	180	180	Condition	SNOMED	
+436902	400008009	Borderline leprosy	Disorder	Standard	07/30/2003	12/30/2099	2,210	3,270	360	740	Condition	SNOMED	
+4347522	240402003	Borderline tuberculoid leprosy	Disorder	Standard	01/30/2002	12/30/2099	320	320	200	200	Condition	SNOMED	
+435180	186774005	Boutonneuse fever	Disorder	Standard	01/30/2002	12/30/2099	1,080	1,080	700	700	Condition	SNOMED	
+4345816	240524001	Brazilian hemorrhagic fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+433145	47761007	Brill-Zinsser disease	Disorder	Standard	01/30/2002	12/30/2099	800	800	470	470	Condition	SNOMED	
+37161159	1177065007	Brucella canis spondylitis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4231975	406564009	Brucella infection of the central nervous system	Disorder	Standard	01/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161161	1177066008	Brucella melitensis spondylitis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4068619	202698007	Brucella spondylitis	Disorder	Standard	01/30/2002	12/30/2099	50	50	10	10	Condition	SNOMED	
+37161158	1177063000	Brucella suis spondylitis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+441497	75702008	Brucellosis	Disorder	Standard	01/30/2002	12/30/2099	27,870	37,740	7,870	10,680	Condition	SNOMED	
+4296066	402127008	Brucellosis of skin	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4186741	413716003	Brucellosis uveitis	Disorder	Standard	01/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+321212	50797007	Bubonic plague	Disorder	Standard	01/30/2002	12/30/2099	3,540	3,540	2,760	2,760	Condition	SNOMED	
+4311704	85658001	Buffalopox	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3654605	838295002	Bullous impetigo of napkin area	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082033	240648004	Bush yaws	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345829	240843005	Calabar swelling	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+141055	18116006	Cancrum oris	Disorder	Standard	01/30/2002	12/30/2099	8,840	8,840	6,760	6,760	Condition	SNOMED	
+433415	63553008	Candidal endocarditis	Disorder	Standard	01/30/2002	12/30/2099	53,580	53,580	10,570	10,570	Condition	SNOMED	
+4092838	186957004	Canicola fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4246729	60916008	Cardiopulmonary schistosomiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+440642	79974007	Cat scratch disease	Disorder	Standard	01/30/2002	12/30/2099	141,610	141,610	91,740	91,740	Condition	SNOMED	
+35622688	764811001	Cavitary myiasis	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345229	240431004	Cephalic tetanus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4203913	54043007	Cercarial dermatitis of freshwater avian type	Disorder	Standard	01/30/2002	12/30/2099	40	40	30	30	Condition	SNOMED	
+4191951	39524009	Cercarial dermatitis of freshwater mammalian type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4228674	88558006	Cercarial dermatitis of sea water avian type	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+37160725	1163131009	Cerebral abscess caused by Aspergillus	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160742	1163151008	Cerebral cryptococcoma	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4089362	187094001	Cerebral cryptococcosis	Disorder	Standard	01/30/2002	12/30/2099	185,200	185,200	10,950	10,950	Condition	SNOMED	
+4043898	230215006	Cerebral cysticercosis	Disorder	Standard	01/30/2002	12/30/2099	2,600	2,600	170	170	Condition	SNOMED	
+4041677	230214005	Cerebral hydatid cyst	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4347655	240845003	Cerebral loiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4202367	53622003	Cerebral malaria	Disorder	Standard	01/30/2002	12/30/2099	20	3,000	20	990	Condition	SNOMED	
+252544	23014006	Cervicofacial actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	22,710	22,740	7,340	7,350	Condition	SNOMED	
+4089977	186815006	Chagas' disease with digestive system involvement	Disorder	Standard	01/30/2002	12/30/2099	660	3,170	270	540	Condition	SNOMED	
+321502	998008	Chagas' disease with heart involvement	Disorder	Standard	01/30/2002	12/30/2099	2,910	16,580	690	3,060	Condition	SNOMED	
+4087745	186816007	Chagas' disease with nervous system involvement	Disorder	Standard	01/30/2002	12/30/2099	620	620	160	160	Condition	SNOMED	
+443960	31877008	Chagas' disease with other organ involvement	Disorder	Standard	01/30/2002	12/30/2099	2,470	2,470	500	500	Condition	SNOMED	
+4080614	240656001	Chagas' exanthem	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082036	240659008	Chagas' mega disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080440	240654003	Chagoma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396687	716584007	Chapare hemorrhagic fever	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4009926	111864006	Chikungunya fever	Disorder	Standard	01/30/2002	12/30/2099	5,880	5,880	2,740	2,740	Condition	SNOMED	
+200629	81020007	Cholera due to Vibrio cholerae El Tor	Disorder	Standard	01/30/2002	12/30/2099	21,590	21,590	7,230	7,230	Condition	SNOMED	
+4344638	240349003	Cholera due to Vibrio cholerae O1 Classical biotype	Disorder	Standard	01/30/2002	12/30/2099	274,880	274,880	116,270	116,270	Condition	SNOMED	
+4345353	240350003	Cholera - non-O1 group vibrio	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345205	240351004	Cholera - O139 group Vibrio cholerae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4213641	417405005	Chorioretinitis with coccidioidmycosis	Disorder	Standard	07/30/2005	12/30/2099	10	10	0	0	Condition	SNOMED	
+37116455	733170007	Chronic aspergillosis of paranasal sinus	Disorder	Standard	07/30/2017	12/30/2099	10	10	0	0	Condition	SNOMED	
+4330696	22462001	Chronic bacterial endocarditis	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+37160741	1163150009	Chronic cavitary pulmonary aspergillosis	Disorder	Standard	09/29/2021	12/30/2099	20	20	10	10	Condition	SNOMED	
+4084958	240658000	Chronic Chagas' disease	Disorder	Standard	01/30/2002	12/30/2099	220	14,650	30	2,100	Condition	SNOMED	
+36716727	722890004	Chronic Chagas disease with heart involvement	Disorder	Standard	01/30/2017	12/30/2099	11,920	11,920	1,800	1,800	Condition	SNOMED	
+4346172	240801003	Chronic clonorchiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+45757644	28791000119105	Chronic coccidioidomycotic pneumonia	Disorder	Standard	07/30/2014	12/30/2099	0	40	0	0	Condition	SNOMED	
+4082064	240732007	Chronic disseminated classical histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+36674398	773738009	Chronic Epstein-Barr virus infection syndrome	Disorder	Standard	01/30/2019	12/30/2099	590	590	320	320	Condition	SNOMED	
+37160739	1163147006	Chronic fibrosing pulmonary aspergillosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+3654685	838380002	Chronic hepatitis B co-occurrent with hepatitis C and hepatitis D	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345212	240374000	Chronic intestinal isosporiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4120259	234093002	Chronic Malayan filarial lymphadenitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346182	240829000	Chronic Malayan filariasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346042	240824005	Chronic obstructive bancroftian filariasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110669	194207002	Chronic otitis externa due to aspergillosis	Disorder	Standard	01/30/2002	12/30/2099	30	30	20	20	Condition	SNOMED	
+4299005	403127002	Chronic papular onchodermatitis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4221767	417688002	Chronic progressive coccidioidal pneumonia	Disorder	Standard	07/30/2005	12/30/2099	40	40	0	0	Condition	SNOMED	
+4084973	240742009	Chronic pulmonary African histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37118654	733171006	Chronic pulmonary aspergillosis	Disorder	Standard	07/30/2017	12/30/2099	220	220	40	40	Condition	SNOMED	
+260034	233615002	Chronic pulmonary coccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	63,250	63,290	16,120	16,120	Condition	SNOMED	
+4096917	26427008	Chronic pulmonary histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	10,850	10,850	2,840	2,840	Condition	SNOMED	
+4248099	409552002	Chronic Q fever	Disorder	Standard	07/30/2004	12/30/2099	10	10	0	0	Condition	SNOMED	
+4345446	240392008	Chronic suppurative melioidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169802	1163148001	Chronic suppurative otitis media caused by Aspergillus	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+192240	235869004	Chronic viral hepatitis B with hepatitis D	Disorder	Standard	01/30/2002	12/30/2099	182,150	182,150	76,620	76,620	Condition	SNOMED	
+42536529	735451005	Chronic viral hepatitis D	Disorder	Standard	01/30/2018	12/30/2099	0	182,150	0	76,620	Condition	SNOMED	
+3654910	840453009	Chylocele of tunica vaginalis caused by Loa loa	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4081259	240736005	Classical histoplasmosis intestinal ulceration	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4081384	240739003	Classical histoplasmosis mediastinal fibrosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080750	240738006	Classical histoplasmosis mediastinal granuloma	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4080748	240733002	Classical histoplasmosis mucosal ulceration	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080749	240735009	Classical histoplasmosis nasal ulceration	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080460	240734008	Classical histoplasmosis oral ulceration	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084971	240737001	Classical histoplasmosis penile ulceration	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080609	240641005	Classical zoonotic cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+42536598	735531008	Clinical malaria	Disorder	Standard	01/30/2018	12/30/2099	10	10	0	0	Condition	SNOMED	
+194280	11938002	Clonorchiasis	Disorder	Standard	01/30/2002	12/30/2099	4,740	4,740	3,180	3,180	Condition	SNOMED	
+4292401	37688005	Clonorchiasis with biliary cirrhosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4277417	65696007	Coccidioidal granuloma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4237773	406567002	Coccidioides infection of the central nervous system	Disorder	Standard	01/30/2004	12/30/2099	20	104,670	0	7,000	Condition	SNOMED	
+37160731	1163139006	Coccidioidomycosis of bone	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160730	1163138003	Coccidioidomycosis of joint	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4224740	422337001	Coccidioidomycosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Standard	07/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+4165240	41030002	Coccidioidomycosis with erythema multiforme	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300067	78223000	Coccidioidomycosis with erythema nodosum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082062	240729009	Coccidiomycosis liver	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4085602	24360007	Coenurosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4274011	6452009	Colorado tick fever	Disorder	Standard	01/30/2002	12/30/2099	6,720	6,720	4,650	4,650	Condition	SNOMED	
+602743	1141602008	Complicated malaria	Disorder	Standard	07/30/2021	12/30/2099	20	20	10	10	Condition	SNOMED	
+4173337	276664005	Congenital coxsackie infection	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396746	716660007	Congenital Epstein-Barr virus infection	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080880	276671000	Congenital falciparum malaria	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+36715563	721274005	Congenital infection caused by Echovirus	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37399559	716865000	Congenital infection caused by enterovirus	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+42538865	762725007	Congenital infection caused by Zika virus	Disorder	Standard	01/30/2018	12/30/2099	290	290	60	60	Condition	SNOMED	
+4195112	7964000	Congenital listeriosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080619	240669002	Congenital Lyme disease	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4197823	51634001	Congenital malaria	Disorder	Standard	01/30/2002	12/30/2099	20	40	10	20	Condition	SNOMED	
+37168932	1290821000000106	Corneal disorder caused by monkeypox virus	Disorder	Standard	06/07/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+432237	70090004	Cowpox	Disorder	Standard	01/30/2002	12/30/2099	770	770	550	550	Condition	SNOMED	
+433958	88129004	Coxsackie endocarditis	Disorder	Standard	01/30/2002	12/30/2099	610	610	190	190	Condition	SNOMED	
+4217228	417441005	Creeping myiasis	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+438681	43489008	Crimean-Congo hemorrhagic fever	Disorder	Standard	01/30/2002	12/30/2099	9,230	9,230	4,450	4,450	Condition	SNOMED	
+4215673	416877003	Cryptococcal chorioretinitis	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4220924	417344003	Cryptococcal choroiditis	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4219534	416296007	Cryptococcal endophthalmitis	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4261538	35974005	Cryptococcal gastroenteritis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4221187	417547006	Cryptococcal retinitis	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+440035	42386007	Cryptococcosis	Disorder	Standard	01/30/2002	12/30/2099	205,650	835,200	25,890	113,980	Condition	SNOMED	
+4222712	421403008	Cryptococcosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Standard	07/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+37399474	715849007	Cryptococcus gattii infection	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4228936	406569004	Cryptococcus infection of the central nervous system	Disorder	Standard	01/30/2004	12/30/2099	10	272,240	0	20,890	Condition	SNOMED	
+4227968	421278000	Cryptococcus neoformans choroiditis	Disorder	Standard	07/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+134276	6365004	Cutaneous actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	46,420	46,420	31,770	31,770	Condition	SNOMED	
+4082833	278039004	Cutaneous African histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4008084	111899005	Cutaneous aspergillosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346169	240786004	Cutaneous basidiobolomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397666	718373005	Cutaneous B-cell pseudolymphoma caused by Borrelia	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082061	240727006	Cutaneous coccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	6,780	6,780	2,900	2,900	Condition	SNOMED	
+4084970	240724004	Cutaneous cryptococcosis	Disorder	Standard	01/30/2002	12/30/2099	283,500	283,500	58,360	58,360	Condition	SNOMED	
+4345825	240813008	Cutaneous fluke infection	Disorder	Standard	01/30/2002	12/30/2099	0	35,130	0	29,310	Condition	SNOMED	
+4080751	240744005	Cutaneous histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	30	40	10	10	Condition	SNOMED	
+4345457	240449004	Cutaneous involvement legionellosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4023597	19362000	Cutaneous larva migrans	Disorder	Standard	01/30/2002	12/30/2099	620	620	380	380	Condition	SNOMED	
+4040475	16429005	Cutaneous larva migrans by Ancylostoma braziliense	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4248442	73532000	Cutaneous larva migrans by Ancylostoma caninum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+40481825	442081006	Cutaneous larva migrans due to Uncinaria	Disorder	Standard	07/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080607	240637006	Cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	4,730	6,700	1,940	3,340	Condition	SNOMED	
+4296067	402128003	Cutaneous listeriosis	Disorder	Standard	07/30/2003	12/30/2099	370	370	150	150	Condition	SNOMED	
+4347560	240778004	Cutaneous mucormycosis	Disorder	Standard	01/30/2002	12/30/2099	6,190	6,190	760	760	Condition	SNOMED	
+4276193	64650008	Cutaneous nocardiosis	Disorder	Standard	01/30/2002	12/30/2099	6,950	6,970	1,240	1,240	Condition	SNOMED	
+4168345	419817006	Cutaneous paracoccioidomycosis	Disorder	Standard	01/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+140627	43484003	Cutaneous plague	Disorder	Standard	01/30/2002	12/30/2099	1,850	1,850	850	850	Condition	SNOMED	
+140947	187115002	Cutaneous schistosomiasis	Disorder	Standard	01/30/2002	12/30/2099	35,080	35,130	29,270	29,310	Condition	SNOMED	
+4214003	80890005	Cutaneous sporotrichosis	Disorder	Standard	01/30/2002	12/30/2099	100	1,960	60	900	Condition	SNOMED	
+4346051	240855004	Cutaneous strongyloidiasis	Disorder	Standard	01/30/2002	12/30/2099	1,730	1,730	1,320	1,320	Condition	SNOMED	
+37396885	716860005	Cyclosporosis	Disorder	Standard	07/30/2016	12/30/2099	10	10	0	0	Condition	SNOMED	
+36717507	721822004	Cystic echinococcosis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160846	1163537001	Cysticercosis myelitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347290	240114004	Cysticercosis myositis	Disorder	Standard	01/30/2002	12/30/2099	1,080	1,080	750	750	Condition	SNOMED	
+40479168	441460004	Cysticercosis of brain	Disorder	Standard	07/30/2009	12/30/2099	30	2,630	20	190	Condition	SNOMED	
+4092992	187148002	Cysticercosis of central nervous system	Disorder	Standard	01/30/2002	12/30/2099	45,560	48,190	10,690	10,880	Condition	SNOMED	
+4090105	187149005	Cysticercosis of eye	Disorder	Standard	01/30/2002	12/30/2099	750	750	390	390	Condition	SNOMED	
+4299006	403132001	Cysticercosis of skin	Disorder	Standard	07/30/2003	12/30/2099	20	20	10	10	Condition	SNOMED	
+4176285	5093001	Cystitis with actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4203790	53991003	Cystitis with bilharziasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4207359	54026009	Cystitis with Echinococcus infestation	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4306458	83159006	Cytomegalovirus encephalitis	Disorder	Standard	01/30/2002	12/30/2099	500	500	20	20	Condition	SNOMED	
+37160820	1163497001	Dacryoadenitis caused by Mycobacterium leprae	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4211924	416597004	Dapsone resistant leprosy	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+140654	266152000	Deep seated dermatophytosis	Disorder	Standard	01/30/2002	12/30/2099	34,660	34,660	23,690	23,690	Condition	SNOMED	
+37116468	733193001	Dementia with progressive multifocal leukoencephalopathy	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300352	403152000	Demodectic blepharitis	Disorder	Standard	07/30/2003	12/30/2099	30	30	20	20	Condition	SNOMED	
+4159143	371062005	Demodex acne	Disorder	Standard	07/30/2002	12/30/2099	90	90	50	50	Condition	SNOMED	
+4085107	240894003	Demodex folliculitis	Disorder	Standard	01/30/2002	12/30/2099	260	260	140	140	Condition	SNOMED	
+4049502	20927009	Dengue hemorrhagic fever	Disorder	Standard	01/30/2002	12/30/2099	3,070	3,080	1,140	1,140	Condition	SNOMED	
+4252864	409676000	Dengue hemorrhagic fever, grade I	Disorder	Standard	07/30/2004	12/30/2099	10	10	0	0	Condition	SNOMED	
+4249570	409677009	Dengue hemorrhagic fever, grade II	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4256238	409678004	Dengue hemorrhagic fever, grade III	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4249692	409679007	Dengue hemorrhagic fever, grade IV	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4260196	409671005	Dengue shock syndrome	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298589	402160006	Dermatosis due to follicle mite	Disorder	Standard	07/30/2003	12/30/2099	0	290	0	160	Condition	SNOMED	
+4242116	59671002	Derriengue	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4221995	8410006	Dicrocoeliasis	Disorder	Standard	01/30/2002	12/30/2099	190	190	80	80	Condition	SNOMED	
+140645	38573008	Diffuse cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+40481404	442003006	Diffuse cutaneous leishmaniasis due to Leishmania aethiopica	Disorder	Standard	07/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080611	240645001	Diffuse cutaneous New World leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345703	240404002	Diffuse lepromatous leprosy	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4089500	187151009	Diphyllobothriasis	Disorder	Standard	01/30/2002	12/30/2099	3,580	15,680	2,350	8,570	Condition	SNOMED	
+4246652	93424000	Dirofilarial vena caval syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4021476	105671004	Disease due to Cyclocoelidae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4021478	105675008	Disease due to Dactylogyridae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4022216	105668007	Disease due to Dicrocoeliidae	Disorder	Standard	01/30/2002	12/30/2099	0	190	0	80	Condition	SNOMED	
+4022819	105663003	Disease due to Diplostomatidae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4021475	105664009	Disease due to Echinostomatidae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4022212	105662008	Disease due to Fasciolidae	Disorder	Standard	01/30/2002	12/30/2099	0	10,320	0	3,530	Condition	SNOMED	
+4022215	105667002	Disease due to Gastrodiscoides	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+444119	105674007	Disease due to Heterophyidae	Disorder	Standard	01/30/2002	12/30/2099	0	550	0	330	Condition	SNOMED	
+4021472	105657007	Disease due to Nosematidae	Disorder	Standard	01/30/2002	12/30/2099	0	10	0	0	Condition	SNOMED	
+4022820	105673001	Disease due to Notocotylidae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4021477	105672006	Disease due to Opisthorchiidae	Disorder	Standard	01/30/2002	12/30/2099	0	11,760	0	4,090	Condition	SNOMED	
+443724	414015000	Disease due to Orthopoxvirus	Disorder	Standard	01/30/2005	12/30/2099	2,100	202,560	1,570	102,900	Condition	SNOMED	
+4022214	105666006	Disease due to Paramphistomatidae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4023326	105669004	Disease due to Plagiorchiidae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4022821	105676009	Disease due to Sanguinicolidae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4022818	105661001	Disease due to Schistosomatidae	Disorder	Standard	01/30/2002	12/30/2099	0	187,880	0	47,880	Condition	SNOMED	
+4022213	105665005	Disease due to Strigeidae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716009	721817004	Disorder of kidney and/or ureter caused by Schistosoma haematobium	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084571	24779007	Disseminated actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294570	402992008	Disseminated actinomycosis infection affecting skin	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084974	240743004	Disseminated African histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4261486	4499004	Disseminated anergic leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297886	7671008	Disseminated aspergillosis	Disorder	Standard	01/30/2002	12/30/2099	10,230	10,230	2,220	2,220	Condition	SNOMED	
+4345822	240787008	Disseminated basidiobolomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4224517	85055004	Disseminated coccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	65,070	65,070	6,550	6,550	Condition	SNOMED	
+4347561	240785000	Disseminated conidiobolomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300340	403110005	Disseminated cutaneous coccidioidomycosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080752	240746007	Disseminated cutaneous histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4293422	403124009	Disseminated cutaneous mycosis due to Fusarium	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084978	240759004	Disseminated cutaneous sporotrichosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4177199	428217009	Disseminated cytomegalovirus infection	Disorder	Standard	01/30/2008	12/30/2099	20	20	10	10	Condition	SNOMED	
+4139537	425418002	Disseminated Histoplasma capsulatum infection	Disorder	Standard	07/30/2007	12/30/2099	28,250	28,350	5,530	5,550	Condition	SNOMED	
+4066257	200426004	Disseminated infantile listeriosis	Disorder	Standard	01/30/2002	12/30/2099	0	560	0	90	Condition	SNOMED	
+37019052	713445006	Disseminated infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection	Disorder	Standard	01/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345233	240446006	Disseminated legionella infection	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+42536589	735520000	Disseminated Lyme borreliosis	Disorder	Standard	01/30/2018	12/30/2099	20	20	10	10	Condition	SNOMED	
+435472	28697001	Disseminated mucocutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346166	240781009	Disseminated mucormycosis	Disorder	Standard	01/30/2002	12/30/2099	3,270	3,270	320	320	Condition	SNOMED	
+4347534	240443003	Disseminated nocardiosis	Disorder	Standard	01/30/2002	12/30/2099	40	50	10	10	Condition	SNOMED	
+4293287	402990000	Disseminated nocardiosis infection affecting skin	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4306315	419532006	Disseminated paracoccidioidomycosis	Disorder	Standard	01/30/2006	12/30/2099	20	20	10	10	Condition	SNOMED	
+4080606	240632000	Disseminated pneumocystosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4237813	91051003	Disseminated sporotrichosis	Disorder	Standard	01/30/2002	12/30/2099	870	870	100	100	Condition	SNOMED	
+4089506	187176005	Disseminated strongyloidiasis	Disorder	Standard	01/30/2002	12/30/2099	1,810	1,810	1,600	1,600	Condition	SNOMED	
+4345222	240409007	Downgrading type 1 lepra reaction	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Observation	SNOMED	
+136332	41235001	Dry form of cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	1,700	1,700	1,210	1,210	Condition	SNOMED	
+3663212	840503000	Duodenitis caused by Ancylostoma	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116439	733148009	Duodenitis caused by Tropheryma whipplei	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347650	240821002	Early bancroftian filariasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+440332	416925005	Eastern equine encephalitis virus infection	Disorder	Standard	07/30/2005	12/30/2099	7,530	7,550	470	470	Condition	SNOMED	
+4221064	417496004	Eastern equine encephalitis virus neuroinvasive disease	Disorder	Standard	07/30/2005	12/30/2099	20	20	0	0	Condition	SNOMED	
+4221192	417573001	Eastern equine encephalitis virus non-neuroinvasive disease	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084954	240616003	Eastern Rocky Mountain spotted fever	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+4285805	37109004	Ebola virus disease	Disorder	Standard	01/30/2002	12/30/2099	196,610	196,610	117,330	117,330	Condition	SNOMED	
+440043	74942003	Echinococcosis	Disorder	Standard	01/30/2002	12/30/2099	86,970	117,550	44,200	60,460	Condition	SNOMED	
+195749	26103000	Echinococcosis of liver	Disorder	Standard	01/30/2002	12/30/2099	7,220	15,470	3,000	7,400	Condition	SNOMED	
+4300346	403131008	Echinococcosis of skin	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+432831	75006000	Echinococcus granulosus infection	Disorder	Standard	01/30/2002	12/30/2099	4,380	21,530	2,760	12,340	Condition	SNOMED	
+4093485	187137009	Echinococcus granulosus infection of bone	Disorder	Standard	01/30/2002	12/30/2099	1,310	1,310	310	310	Condition	SNOMED	
+200656	20790006	Echinococcus granulosus infection of liver	Disorder	Standard	01/30/2002	12/30/2099	7,220	7,220	3,880	3,880	Condition	SNOMED	
+255477	75388006	Echinococcus granulosus infection of lung	Disorder	Standard	01/30/2002	12/30/2099	6,240	6,240	4,270	4,270	Condition	SNOMED	
+45772092	1086721000119102	Echinococcus granulosus infection of multiple sites	Disorder	Standard	01/30/2015	12/30/2099	140	140	40	40	Condition	SNOMED	
+141796	65963007	Echinococcus granulosus infection of thyroid	Disorder	Standard	01/30/2002	12/30/2099	2,240	2,240	1,080	1,080	Condition	SNOMED	
+434868	21009004	Echinococcus multilocularis infection	Disorder	Standard	01/30/2002	12/30/2099	670	1,820	360	920	Condition	SNOMED	
+193142	27235001	Echinococcus multilocularis infection of liver	Disorder	Standard	01/30/2002	12/30/2099	1,030	1,030	520	520	Condition	SNOMED	
+45757240	1086731000119104	Echinococcus multilocularis infection of multiple sites	Disorder	Standard	01/30/2015	12/30/2099	120	120	40	40	Condition	SNOMED	
+37161093	1176986000	Echinococcus oligarthrus polycystic hydatid	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4264057	47087004	Echinococcus oligarthus infection	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4264760	45115003	Echinococcus vogeli infection	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161090	1176983008	Echinococcus vogeli polycystic echinococcosis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4153303	271501007	Echinostoma ilocanum infection	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4268984	36607007	Echinostomiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4030844	238368001	Eczema vaccinatum	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4228937	406572006	Ehrlichia infection of the central nervous system	Disorder	Standard	01/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+374352	14100003	Elephantiasis of eyelid	Disorder	Standard	01/30/2002	12/30/2099	5,060	6,790	3,500	4,560	Condition	SNOMED	
+45771088	700263000	Elephantiasis of lower eyelid	Disorder	Standard	07/30/2014	12/30/2099	460	460	360	360	Condition	SNOMED	
+45763820	700337008	Elephantiasis of upper eyelid	Disorder	Standard	07/30/2014	12/30/2099	1,270	1,270	700	700	Condition	SNOMED	
+36716017	721826001	Encephalitis caused by Coenurus cerebralis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716014	721823009	Encephalitis caused by Echinococcus granulosus	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+443881	16901001	Encephalitis caused by European subtype of tick-borne encephalitis virus	Disorder	Standard	01/30/2002	12/30/2099	6,100	6,100	5,100	5,100	Condition	SNOMED	
+376905	186591007	Encephalitis caused by Far Eastern tick-borne encephalitis virus	Disorder	Standard	01/30/2002	12/30/2099	790	790	290	290	Condition	SNOMED	
+36715988	721790006	Encephalitis caused by Hendra virus	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+3654898	840440006	Encephalitis caused by Leptospira species	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717188	721791005	Encephalitis caused by Nipah virus	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655291	860822008	Encephalitis caused by Nocardia	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716010	721818009	Encephalitis caused by Schistosoma	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716011	721819001	Encephalitis caused by Schistosoma haematobium	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716013	721821006	Encephalitis caused by Schistosoma japonicum	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716012	721820007	Encephalitis caused by Schistosoma mansoni	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716016	721825002	Encephalitis caused by Taenia solium	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37016847	712986001	Encephalitis caused by tick-borne encephalitis virus	Disorder	Standard	01/30/2016	12/30/2099	6,040	13,210	2,770	8,370	Condition	SNOMED	
+36716007	721815007	Encephalitis caused by Trypanosoma brucei	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655324	860865009	Encephalitis caused by Trypanosoma brucei gambiense	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655325	860866005	Encephalitis caused by Trypanosoma brucei rhodesiense	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+45757204	1082451000119102	Encephalitis due to Actinomyces	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+376026	428638009	Encephalitis due to Herpesviridae	Disorder	Standard	01/30/2008	12/30/2099	222,820	436,940	23,120	66,890	Condition	SNOMED	
+4322568	427796004	Encephalitis due to human herpes simplex virus	Disorder	Standard	01/30/2008	12/30/2099	12,370	118,520	2,240	20,330	Condition	SNOMED	
+40479557	441512004	Encephalitis due to human herpesvirus 6 infection	Disorder	Standard	07/30/2009	12/30/2099	18,760	18,760	2,770	2,770	Condition	SNOMED	
+4088249	186499007	Encephalitis lethargica	Disorder	Standard	01/30/2002	12/30/2099	20	20	20	20	Condition	SNOMED	
+3655306	860842004	Encephalomyelitis caused by Coxiella burnetii	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+375185	128191000	Encephalomyelitis due to rubella	Disorder	Standard	01/30/2002	12/30/2099	440	440	150	150	Condition	SNOMED	
+37168931	1290801000000102	Encephalopathy caused by monkeypox virus	Disorder	Standard	06/07/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111084	194931003	Endocarditis - blastomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715357	720989003	Endocarditis caused by Erysipelothrix rhusiopathiae	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021996	460618008	Endocarditis due to Genus Chlamydia	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111401	194929007	Endocarditis - typhoid	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164529	1231258007	Endogenous Aspergillus endophthalmitis	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162522	1193803009	Entamoeba histolytica enteritis of intestine	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162521	1193802004	Entamoeba histolytica enteritis of small intestine	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345821	240782002	Entomophthoramycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37117751	733173009	Eosinophilic meningitis due to Angiostrongylus cantonensis	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4302798	418480000	Eosinophilic meningoencephalitis due to Angiostrongylus cantonensis	Disorder	Standard	01/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+4162380	398256009	Epidemic acute poliomyelitis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4289612	69588003	Erythema chronica migrans	Disorder	Standard	01/30/2002	12/30/2099	1,110	1,110	730	730	Condition	SNOMED	
+194586	410038006	Eumycotic mycetoma	Disorder	Standard	07/30/2004	12/30/2099	19,250	19,320	8,810	8,810	Condition	SNOMED	
+4251459	410040001	Eumycotic mycetoma of foot	Disorder	Standard	07/30/2004	12/30/2099	70	70	0	0	Condition	SNOMED	
+4084979	240760009	Extracutaneous sporotrichosis	Disorder	Standard	01/30/2002	12/30/2099	0	1,120	0	320	Condition	SNOMED	
+4345232	240445005	Extrapulmonary legionella infection	Disorder	Standard	01/30/2002	12/30/2099	1,680	2,000	660	930	Condition	SNOMED	
+37160837	1163526002	Extrapulmonary paracoccidioidomycosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346176	240809001	Extrapulmonary paragonimiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187905	414171001	Extrapulmonary pneumocystis infection	Disorder	Standard	01/30/2005	12/30/2099	20	20	0	0	Condition	SNOMED	
+764729	5631000124102	Facies leprosa	Disorder	Standard	02/29/2012	12/30/2099	0	0	0	0	Condition	SNOMED	
+438343	62676009	Falciparum malaria	Disorder	Standard	01/30/2002	12/30/2099	59,330	62,330	17,980	18,960	Condition	SNOMED	
+4062474	17110002	Fasciola gigantica infection	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346174	240804006	Fibricoliasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160834	1163523005	Fibrosis of upper respiratory tract due to paracoccidioidomycosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300344	403129004	Filarial abscess	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294706	403111009	Fixed cutaneous sporotrichosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4314254	86497005	Flat-type smallpox	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+443444	398523009	Foodborne botulism	Disorder	Standard	07/30/2003	12/30/2099	22,450	22,450	7,700	7,700	Condition	SNOMED	
+4256129	409564005	Foodborne botulism, type A	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4249540	409565006	Foodborne botulism, type B	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4252717	409566007	Foodborne botulism, type E	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4249541	409567003	Foodborne botulism, type F	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715876	721657003	Food poisoning caused by Listeria monocytogenes	Disorder	Standard	01/30/2017	12/30/2099	20	20	10	10	Condition	SNOMED	
+4094965	26275000	Fort Bragg Fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+436637	266169003	Free-living ameba infection	Disorder	Standard	01/30/2002	12/30/2099	1,160	1,160	560	560	Condition	SNOMED	
+4344052	240111007	Fungal myositis	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+37164450	1231142001	Furuncular myiasis	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4271838	64250002	Fusarium infection	Disorder	Standard	01/30/2002	12/30/2099	100	100	20	20	Condition	SNOMED	
+4148099	266092000	Gas gangrene caused by Clostridium edematiens	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655344	860887000	Gastritis caused by Strongyloides stercoralis	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4009335	111923002	Gastrodiscoidiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345214	240384004	Gastroenteric plague	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4093480	187101004	Gastrointestinal mucormycosis	Disorder	Standard	01/30/2002	12/30/2099	1,400	1,400	290	290	Condition	SNOMED	
+4346178	240811005	Generalized paragonimiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347530	240434007	Generalized tetanus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+132792	56978007	Generalized vaccinia	Disorder	Standard	01/30/2002	12/30/2099	40	40	20	20	Condition	SNOMED	
+45757420	135261000119106	Genitourinary tract schistosomiasis	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161004	1172791005	Gingival disease caused by Mycobacterium leprae	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+45765602	702577006	Gingivitis caused by Histoplasma	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+4071698	21857006	Glandular tularemia	Disorder	Standard	01/30/2002	12/30/2099	0	4,070	0	1,720	Condition	SNOMED	
+765005	15996831000119101	Glaucoma caused by Onchocerca volvulus	Disorder	Standard	02/28/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169811	1163491000	Glomerular disorder due to infection caused by Schistosoma	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169806	1163484003	Glomerular disorder due to Strongyloides infection	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+442586	61048000	Gonococcal endocarditis	Disorder	Standard	01/30/2002	12/30/2099	190	190	50	50	Condition	SNOMED	
+3655300	860834000	Granuloma of brain caused by Schistosoma	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655323	860864008	Granuloma of brain caused by Schistosoma haematobium	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655304	860840007	Granuloma of brain caused by Schistosoma japonicum	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655343	860886009	Granuloma of brain caused by Schistosoma mansoni	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345830	240847006	Guinea-worm ulcer	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4026113	120639003	Hantavirus pulmonary syndrome	Disorder	Standard	01/30/2002	12/30/2099	4,570	4,570	1,360	1,360	Condition	SNOMED	
+4346173	240803000	Haplorchiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347548	240493004	Hazara hemorrhagic fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4256894	408681003	Healthcare associated Legionnaires' disease	Disorder	Standard	07/30/2004	12/30/2099	20	20	10	10	Condition	SNOMED	
+4252538	408682005	Healthcare associated pertussis	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4252539	408683000	Healthcare associated pulmonary aspergillosis	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4085853	24620004	Hemolytic anemia due to babesiosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298975	77663007	Hemolytic anemia due to malaria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169804	1163482004	Hemorrhagic cerebral infarction caused by Aspergillus	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37399017	716864001	Hemorrhagic fever with renal syndrome	Disorder	Standard	07/30/2016	12/30/2099	4,310	4,310	2,010	2,010	Condition	SNOMED	
+4080436	240636002	Hemorrhagic leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4260189	409641002	Hemorrhagic smallpox	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676638	773582002	Hendra virus infection	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4087431	186395002	Hepatic actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4090101	187093007	Hepatic cryptococcosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345824	240791003	Hepatic schistosomal granuloma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4236011	90753004	Hepatic schistosomiasis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4055219	197342009	Hepatitis in yellow fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345823	240789006	Hepatosplenic schistosomiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655317	860856002	Hepatosplenic schistosomiasis caused by Schistosoma haematobium	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160802	1163464002	Hepatosplenic schistosomiasis caused by Schistosoma japonicum	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4047622	230177004	Herpes simiae encephalitis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+606423	1144966008	Herpes simplex type 1 encephalitis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+606425	1144968009	Herpes simplex type 2 encephalitis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+138682	21954000	Herpes zoster auricularis	Disorder	Standard	01/30/2002	12/30/2099	193,910	193,910	76,480	76,480	Condition	SNOMED	
+4045976	230176008	Herpes zoster encephalitis	Disorder	Standard	01/30/2002	12/30/2099	76,330	76,330	20,650	20,650	Condition	SNOMED	
+4296460	76474001	Herpetic acute necrotizing encephalitis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+380941	9678009	Herpetic meningoencephalitis	Disorder	Standard	01/30/2002	12/30/2099	106,140	106,140	18,090	18,090	Condition	SNOMED	
+4347524	240412005	Histioid leprosy	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Observation	SNOMED	
+439683	187041005	Histoplasma capsulatum with endocarditis	Disorder	Standard	01/30/2002	12/30/2099	1,280	1,370	300	380	Condition	SNOMED	
+314867	187040006	Histoplasma capsulatum with pericarditis	Disorder	Standard	01/30/2002	12/30/2099	590	640	210	260	Condition	SNOMED	
+378078	187039009	Histoplasma capsulatum with retinitis	Disorder	Standard	01/30/2002	12/30/2099	78,770	78,770	28,280	28,280	Condition	SNOMED	
+37160819	1163481006	Histoplasma dacryoadenitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+439681	187051006	Histoplasma duboisii with endocarditis	Disorder	Standard	01/30/2002	12/30/2099	90	90	80	80	Condition	SNOMED	
+439682	187050007	Histoplasma duboisii with pericarditis	Disorder	Standard	01/30/2002	12/30/2099	50	50	50	50	Condition	SNOMED	
+373963	187049007	Histoplasma duboisii with retinitis	Disorder	Standard	01/30/2002	12/30/2099	1,270	1,270	630	630	Condition	SNOMED	
+4249138	406587001	Histoplasma infection of central nervous system	Disorder	Standard	01/30/2004	12/30/2099	0	2,070	0	550	Condition	SNOMED	
+4090095	187062006	Histoplasmosis liver	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4328664	430399004	Histoplasmosis of spinal cord	Disorder	Standard	07/30/2008	12/30/2099	0	0	0	0	Condition	SNOMED	
+36713313	677201000119104	Histoplasmosis syndrome of bilateral eyes	Disorder	Standard	01/30/2017	12/30/2099	80	80	30	30	Condition	SNOMED	
+37109491	677211000119101	Histoplasmosis syndrome of left eye	Disorder	Standard	07/30/2017	12/30/2099	20	100	10	40	Condition	SNOMED	
+37109492	677221000119108	Histoplasmosis syndrome of right eye	Disorder	Standard	07/30/2017	12/30/2099	20	100	10	40	Condition	SNOMED	
+4225170	420945005	Histoplasmosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Standard	07/30/2006	12/30/2099	10	10	0	0	Condition	SNOMED	
+318072	187059008	Histoplasmosis with pericarditis	Disorder	Standard	01/30/2002	12/30/2099	390	1,030	200	460	Condition	SNOMED	
+373972	187058000	Histoplasmosis with retinitis	Disorder	Standard	01/30/2002	12/30/2099	127,060	207,100	45,260	74,170	Condition	SNOMED	
+37160662	1163065007	Human betaherpesvirus 7 encephalitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+443204	240626005	Human ehrlichiosis	Disorder	Standard	01/30/2002	12/30/2099	132,940	145,120	56,430	61,990	Condition	SNOMED	
+436626	359747000	Human ehrlichiosis due to Ehrlichia chaffeensis	Disorder	Standard	01/30/2002	12/30/2099	12,180	12,180	5,560	5,560	Condition	SNOMED	
+37159342	1163063000	Human herpesvirus 8 encephalitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+42536591	735522008	Human immunodeficiency virus World Health Organization 2007 stage 1 co-occurrent with malaria	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+42536593	735524009	Human immunodeficiency virus World Health Organization 2007 stage 2 co-occurrent with malaria	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+42536594	735526006	Human immunodeficiency virus World Health Organization 2007 stage 3 co-occurrent with malaria	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+42536596	735528007	Human immunodeficiency virus World Health Organization 2007 stage 4 co-occurrent with malaria	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4134999	398446008	Human rabies	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37019108	714279000	Human T-cell lymphotropic virus 1-associated myelopathy	Disorder	Standard	01/30/2016	12/30/2099	48,480	48,480	4,100	4,100	Condition	SNOMED	
+36715554	721264007	Hydatic cyst of orbit	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4029912	237458005	Hydatid cyst of breast	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4089498	187144000	Hydatid cyst of kidney	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4120623	234503004	Hydatid cyst of spleen	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345574	240115003	Hydatidosis myositis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+193707	44917000	Hymenolepiasis	Disorder	Standard	01/30/2002	12/30/2099	3,270	3,270	1,930	1,930	Condition	SNOMED	
+4267218	36334003	Hymenolepis diminuta infection	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298228	77412003	Hymenolepis nana infection	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+608083	1156829005	Iatrogenic infection caused by Clostridium botulinum	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4148098	266090008	Ileocecal actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4160460	399183005	Impetigo bullosa	Disorder	Standard	07/30/2003	12/30/2099	299,040	299,040	216,400	216,400	Condition	SNOMED	
+4249564	409637001	Inadvertent autoinoculation with vaccinia virus following contact with smallpox vaccination site	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345796	240461007	Incubating rabies	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+132238	14386001	Indeterminate leprosy	Disorder	Standard	01/30/2002	12/30/2099	2,180	2,180	860	860	Condition	SNOMED	
+4080608	240639009	Indian anthroponotic cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080610	240643008	Indian zoonotic cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+443863	3095005	Induced malaria	Disorder	Standard	01/30/2002	12/30/2099	200	200	120	120	Condition	SNOMED	
+43530947	609493004	Induced termination of pregnancy complicated by tetanus	Disorder	Standard	07/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+435468	414488002	Infantile botulism	Disorder	Standard	01/30/2005	12/30/2099	16,770	16,770	1,570	1,570	Condition	SNOMED	
+4218201	397928009	Infantile paralysis	Disorder	Standard	07/30/2003	12/30/2099	40	40	10	10	Condition	SNOMED	
+4267739	6298007	Infection by Absidia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4058025	16880001	Infection by Alaria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4306774	83591004	Infection by Amphimerus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4104358	29007000	Infection by Amphimerus elongatus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4264169	61750000	Infection by Angiostrongylus	Disorder	Standard	01/30/2002	12/30/2099	1,500	1,640	360	480	Condition	SNOMED	
+4146057	35033008	Infection by Angiostrongylus cantonensis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+40484496	442652006	Infection by Anisakis larva	Disorder	Standard	07/30/2009	12/30/2099	15,470	15,470	10,310	10,310	Condition	SNOMED	
+4246738	60960008	Infection by Apatemon	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4211254	56691005	Infection by Apophallus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4107220	29871001	Infection by Aspergillus clavatus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4083112	24147008	Infection by Aspergillus flavus	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+4274340	63764008	Infection by Aspergillus fumigatus	Disorder	Standard	01/30/2002	12/30/2099	300	300	90	90	Condition	SNOMED	
+4207220	53893001	Infection by Aspergillus nidulans	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4168922	4860004	Infection by Aspergillus niger	Disorder	Standard	01/30/2002	12/30/2099	60	60	20	20	Condition	SNOMED	
+4188340	46892008	Infection by Athesmia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4103220	28671007	Infection by Athesmia foxi	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298821	77456003	Infection by Austrobilharzia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4222308	83937008	Infection by Babesia bovis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4197573	51613008	Infection by Babesia divergens	Disorder	Standard	01/30/2002	12/30/2099	340	340	140	140	Condition	SNOMED	
+4250778	73908004	Infection by Babesia microti	Disorder	Standard	01/30/2002	12/30/2099	2,600	2,600	1,020	1,020	Condition	SNOMED	
+4174036	4921002	Infection by Basidiobolus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4045991	12329007	Infection by Bilharziella	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+442559	76999009	Infection by Brugia malayi	Disorder	Standard	01/30/2002	12/30/2099	3,300	3,300	1,460	1,460	Condition	SNOMED	
+4244392	38333003	Infection by Calicophoron	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4143298	33583009	Infection by Catatropis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298113	77214000	Infection by Ceylonocotyle	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+40484019	442543009	Infection by Coccidioides immitis	Disorder	Standard	07/30/2009	12/30/2099	10	168,690	0	48,550	Condition	SNOMED	
+4054180	12524001	Infection by Coenurosis cerebralis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4268702	3641001	Infection by Coenurosis serialis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4155642	28500000	Infection by Collyriculum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4211400	56913005	Infection by Collyriculum faba	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346167	240783007	Infection by Conidiobolus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4282313	66328003	Infection by Cotylophoron	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4195282	79064007	Infection by Cotylurus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4264767	46979009	Infection by Cryptocotyle	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301508	78081007	Infection by Cunninghamella	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4172942	47936004	Infection by Cysticercus fasciolaris	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4103840	28952007	Infection by Cysticercus ovis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4058366	2114004	Infection by Cysticercus pisiformis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4005317	11051005	Infection by Cysticercus tarandi	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4292715	37584004	Infection by Cysticercus tenuicollis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4254240	74671004	Infection by Dactylogyrus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4303222	7877005	Infection by Diphyllobothrium latum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4142059	34240005	Infection by Diphyllobothrium pacificum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4189372	6150008	Infection by Diplostomum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4250492	73328005	Infection by Dirofilaria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4213057	80410000	Infection by Dirofilaria immitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+193708	396334002	Infection by Dracunculus medinensis	Disorder	Standard	07/30/2003	12/30/2099	1,330	1,330	960	960	Condition	SNOMED	
+4204056	52918004	Infection by Echinochasmus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4287087	68383000	Infection by Echinoparyphium	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4244062	38302000	Infection by Echinostoma lindoense	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+40479603	441554001	Infection by Ehrlichia ewingii	Disorder	Standard	07/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+4134590	12825006	Infection by Encephalitozoon	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4225267	8490007	Infection by Encephalitozoon cuniculi	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4242537	38243003	Infection by Euparyphium	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+436342	111922007	Infection by Fasciola	Disorder	Standard	01/30/2002	12/30/2099	6,680	6,680	2,120	2,120	Condition	SNOMED	
+4287394	69550000	Infection by Fascioloides	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4172054	42113004	Infection by Fascioloides magna	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+442273	54266002	Infection by Fasciolopsis buski	Disorder	Standard	01/30/2002	12/30/2099	3,640	3,640	1,410	1,410	Condition	SNOMED	
+4099075	253090002	Infection by Fusarium sporotrichiella	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4179978	43017006	Infection by Gastrodiscoides hominis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4179923	5082003	Infection by Gigantobilharzia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4207658	55065004	Infection by Gigantocotyle	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4242133	59760009	Infection by Glugea	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4030091	13549009	Infection by Heterobilharzia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4215769	81086003	Infection by Heterobilharzia americanum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4119258	22905009	Infection by Heterophyes heterophyes	Disorder	Standard	01/30/2002	12/30/2099	290	290	130	130	Condition	SNOMED	
+437214	76255006	Infection by Histoplasma capsulatum	Disorder	Standard	01/30/2002	12/30/2099	172,360	340,240	45,330	101,420	Condition	SNOMED	
+4265180	62078006	Infection by Hypodereum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+200042	88264003	Infection by larvae of Trichinella spiralis	Disorder	Standard	01/30/2002	12/30/2099	70	70	60	60	Condition	SNOMED	
+4149849	269574000	Infection by Legionella pneumophilia	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4240598	59121004	Infection by Leishmania aethiopica	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4218044	39625001	Infection by Leishmania braziliensis	Disorder	Standard	01/30/2002	12/30/2099	40	80	20	20	Condition	SNOMED	
+4304386	81551009	Infection by Leishmania infantum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+435470	77327004	Infection by Leishmania mexicana	Disorder	Standard	01/30/2002	12/30/2099	1,020	1,020	460	460	Condition	SNOMED	
+4212111	5765005	Infection by Leishmania tropica minor	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+440952	44250009	Infection by Loa loa	Disorder	Standard	01/30/2002	12/30/2099	2,860	2,860	1,300	1,300	Condition	SNOMED	
+4221606	420811004	Infection by Mansonella perstans	Disorder	Standard	07/30/2006	12/30/2099	10	10	0	0	Condition	SNOMED	
+444075	37832003	Infection by Metagonimus yokogawai	Disorder	Standard	01/30/2002	12/30/2099	260	260	200	200	Condition	SNOMED	
+4094528	26123004	Infection by Metorchis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+44783575	699676006	Infection by Microsporidia	Disorder	Standard	01/30/2014	12/30/2099	0	10	0	0	Condition	SNOMED	
+4009334	111907002	Infection by Mortierella wolfii	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4135930	31819001	Infection by Mucor	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4219698	416574002	Infection by Nanophyetus	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4219549	416372004	Infection by Nanophyetus salmincola	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4058270	16142004	Infection by Nosema	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4103877	29009002	Infection by Nosema apis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4168009	4835004	Infection by Nosema bombycis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4100636	27776006	Infection by Nosema connori	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4276806	64968009	Infection by Notocotylus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+441512	38539003	Infection by Onchocerca volvulus	Disorder	Standard	01/30/2002	12/30/2099	11,540	19,490	7,690	9,340	Condition	SNOMED	
+4143331	33856003	Infection by Opisthorchis caninus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4236913	90990009	Infection by Opisthorchis noverca	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4234839	90281006	Infection by Opisthorchis viverrini	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4282536	36779002	Infection by Orientobilharzia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4203773	52746006	Infection by Orientobilharzia harinasutai	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4048575	15693002	Infection by Ornithobilharzia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4222474	84110003	Infection by pancreaticum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+436039	30369007	Infection by Paragonimus	Disorder	Standard	01/30/2002	12/30/2099	2,430	2,430	1,310	1,310	Condition	SNOMED	
+4327646	75256000	Infection by Paragonimus kellicotti	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4140673	33421006	Infection by Paramphistomum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4327197	7493006	Infection by Plagiorchis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4100950	27794000	Infection by Platynosomum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4218536	39660007	Infection by Platynosomum concinnum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4327800	75418003	Infection by Platynosomum fastosum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4327948	75549005	Infection by Pneumocystis jirovecii	Disorder	Standard	01/30/2002	12/30/2099	120	18,400	40	1,640	Condition	SNOMED	
+4103395	28850000	Infection by Prosthogonimus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4273375	6464001	Infection by Prosthogonimus macrorchis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4219328	39740009	Infection by Rhizopus	Disorder	Standard	01/30/2002	12/30/2099	60	60	10	10	Condition	SNOMED	
+4184806	43925005	Infection by Saksenaea	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4148089	3529000	Infection by Sanguinicola	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4099593	27335004	Infection by Sarcocystis lindemanni	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+436038	10087007	Infection by Schistosoma	Disorder	Standard	01/30/2002	12/30/2099	26,910	187,880	9,850	47,880	Condition	SNOMED	
+4008729	111920004	Infection by Schistosoma bovis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4228835	8841001	Infection by Schistosoma chestermani	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4265192	62108008	Infection by Schistosoma hippopotami	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4155853	2850009	Infection by Schistosoma incognitum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4240237	58650000	Infection by Schistosoma indicum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4180408	52179003	Infection by Schistosoma intercalatum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4243924	38201005	Infection by Schistosoma mattheii	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4219905	82697002	Infection by Schistosoma nasalis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4285123	6752005	Infection by Schistosoma spindale	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4172177	42197002	Infection by Schistosomatium	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4049481	15900006	Infection by Schistosomatium douthitti	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4061700	21437004	Infection by Stellantchasmus falcatus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4214038	80277008	Infection by Strigea	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+436040	1214006	Infection by Strongyloides	Disorder	Standard	01/30/2002	12/30/2099	44,380	53,610	17,770	23,780	Condition	SNOMED	
+4271439	63121009	Infection by Strongyloides canis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4025682	19549003	Infection by Strongyloides cebus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4248137	72783005	Infection by Strongyloides fulleborni	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4307678	82919002	Infection by Strongyloides papillosus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4077751	18956009	Infection by Strongyloides ransomi	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4216714	71844000	Infection by Strongyloides ratti	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4224487	84910004	Infection by Strongyloides simiae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4069000	17425008	Infection by Strongyloides stercoralis	Disorder	Standard	01/30/2002	12/30/2099	10	1,740	10	1,330	Condition	SNOMED	
+4210050	55629005	Infection by Strongyloides tumefaciens	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4138390	3254001	Infection by Strongyloides westeri	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4170386	49078004	Infection by Toxocara canis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4219564	41645005	Infection by Toxocara cati	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4305336	8178001	Infection by Trichobilharzia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4272172	63570000	Infection by Trichobilharzia ocellata	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4240721	57992009	Infection by Trichobilharzia physellae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4252757	74587007	Infection by Trichobilharzia stagnicolae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+40482676	442259005	Infection by Trypanosoma brucei brucei	Disorder	Standard	07/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+436334	77506005	Infection by Trypanosoma cruzi	Disorder	Standard	01/30/2002	12/30/2099	3,900	34,210	1,590	8,350	Condition	SNOMED	
+435181	75809006	Infection by Trypanosoma gambiense	Disorder	Standard	01/30/2002	12/30/2099	330	330	220	220	Condition	SNOMED	
+442320	42872003	Infection by Trypanosoma rhodesiense	Disorder	Standard	01/30/2002	12/30/2099	1,460	1,460	280	280	Condition	SNOMED	
+4267729	62921000	Infection by Typhlocoelum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+198687	77947001	Infection by Wuchereria bancrofti	Disorder	Standard	01/30/2002	12/30/2099	6,620	6,620	1,550	1,550	Condition	SNOMED	
+4278506	65528008	Infection caused by Ancylostoma caninum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655613	866078000	Infection caused by Angiostrongylus costaricensis	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158420	372972007	Infection caused by Aspergillus montevidensis	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37174322	877043181000119101	Infection caused by Babesia duncani	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4135020	398565003	Infection caused by Clostridium botulinum	Disorder	Standard	07/30/2003	12/30/2099	40	17,740	20	4,910	Condition	SNOMED	
+37018503	715075005	Infection caused by Eurytrema	Disorder	Standard	01/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715967	721764008	Infection caused by Human poliovirus	Disorder	Standard	01/30/2017	12/30/2099	100	345,890	70	55,690	Condition	SNOMED	
+37017295	713545009	Infection caused by Nocardia co-occurrent with human immunodeficiency virus infection	Disorder	Standard	01/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4051628	23257009	Infection caused by Paragonimus westermani	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37017248	713490002	Infection caused by Pneumocystis co-occurrent with human immunodeficiency virus infection	Disorder	Standard	01/30/2016	12/30/2099	5,430	5,430	510	510	Condition	SNOMED	
+618582	470661000124100	Infection caused by Schistosoma mekongi	Disorder	Standard	08/31/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37017124	713339002	Infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection	Disorder	Standard	01/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109916	723865005	Infection causing myoendocarditis	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109915	723864009	Infection causing subacute endocarditis	Disorder	Standard	07/30/2017	12/30/2099	70	1,085,940	50	214,300	Condition	SNOMED	
+4187723	372973002	Infection due to Aspergillus awamori	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158421	372974008	Infection due to Aspergillus bouffardii	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188419	372975009	Infection due to Aspergillus caesiellus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158422	372976005	Infection due to Aspergillus candidus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188420	372977001	Infection due to Aspergillus carneus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158423	372978006	Infection due to Aspergillus chevalieri	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4160647	372979003	Infection due to Aspergillus clavato-nanica	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187724	372980000	Infection due to Aspergillus conicus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188421	372981001	Infection due to Aspergillus deflectus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188423	372983003	Infection due to Aspergillus flavipes	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187725	372984009	Infection due to Aspergillus glaucus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158424	372985005	Infection due to Aspergillus janus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158425	372986006	Infection due to Aspergillus maydis	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158426	372988007	Infection due to Aspergillus niveus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4160648	372989004	Infection due to Aspergillus notatum	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188425	372990008	Infection due to Aspergillus ochraceus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187726	372991007	Infection due to Aspergillus oryzae	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188426	372992000	Infection due to Aspergillus parasiticus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4160649	372993005	Infection due to Aspergillus penicillioides	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158427	372994004	Infection due to Aspergillus phialiseptus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188427	372995003	Infection due to Aspergillus repens	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187727	372996002	Infection due to Aspergillus restrictus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158428	372997006	Infection due to Aspergillus rugulosus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188524	372998001	Infection due to Aspergillus sclerotiorum	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158429	373000005	Infection due to Aspergillus sulfureus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4160650	373001009	Infection due to Aspergillus sydowi	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158430	373002002	Infection due to Aspergillus taumanii	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187728	373003007	Infection due to Aspergillus terreus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187729	373004001	Infection due to Aspergillus terricola	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188526	373005000	Infection due to Aspergillus unguis	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4160651	373006004	Infection due to Aspergillus ustus	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187730	373007008	Infection due to Aspergillus versicolor	Disorder	Standard	07/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4188527	373008003	Infection due to Aspergillus wentii	Disorder	Standard	07/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+440628	427795000	Infection due to Brucella abortus	Disorder	Standard	01/30/2008	12/30/2099	2,000	2,000	660	660	Condition	SNOMED	
+443596	428174001	Infection due to Brucella canis	Disorder	Standard	01/30/2008	12/30/2099	870	870	220	220	Condition	SNOMED	
+443590	427999003	Infection due to Brucella melitensis	Disorder	Standard	01/30/2008	12/30/2099	6,190	6,190	1,680	1,680	Condition	SNOMED	
+4176611	428592003	Infection due to Brucella ovis	Disorder	Standard	01/30/2008	12/30/2099	0	0	0	0	Condition	SNOMED	
+443546	429600003	Infection due to Brucella suis	Disorder	Standard	01/30/2008	12/30/2099	760	760	240	240	Condition	SNOMED	
+4269236	63194008	Infection due to Clostridium novyi	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4303710	388759003	Infection due to Entamoeba histolytica	Disorder	Standard	01/30/2003	12/30/2099	160	49,560	80	20,470	Condition	SNOMED	
+4238545	68013003	Infection due to Leptospira australis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4329854	22312005	Infection due to Leptospira bataviae	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4322476	70543009	Infection due to Leptospira Grippotyphosa	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4278236	65267003	Infection due to Leptospira Pyrogenes	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4249254	406597005	Infection due to Nipah virus	Disorder	Standard	01/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+432249	406619001	Infection due to Toxocara	Disorder	Standard	01/30/2004	12/30/2099	13,500	14,180	3,990	4,120	Condition	SNOMED	
+4228938	406575008	Infection due to vancomycin resistant enterococcus	Disorder	Standard	01/30/2004	12/30/2099	9,520	9,520	1,850	1,850	Condition	SNOMED	
+42536600	735533006	Infection of bone caused by Echinococcus	Disorder	Standard	01/30/2018	12/30/2099	0	1,310	0	310	Condition	SNOMED	
+37395903	715507005	Infection of central nervous system caused by Borrelia burgdorferi	Disorder	Standard	07/30/2016	12/30/2099	40	40	20	20	Condition	SNOMED	
+42539032	735534000	Infection of central nervous system caused by Echinococcus	Disorder	Standard	01/30/2018	12/30/2099	0	10	0	0	Condition	SNOMED	
+3654891	840432000	Infection of central nervous system caused by Paracoccidioides brasiliensis	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655617	866085001	Infection of cranial nerve caused by Mucorales	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160823	1163500007	Infection of eyelid caused by Mycobacterium leprae	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655651	866120006	Infection of intestine caused by Anisakis larva	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716001	721808004	Infection of intestine caused by Entamoeba histolytica	Disorder	Standard	01/30/2017	12/30/2099	0	22,470	0	13,040	Condition	SNOMED	
+3663222	866122003	Infection of large intestine caused by Entamoeba histolytica	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655321	860861000	Infection of liver and spleen caused by Schistosoma mansoni	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+42536599	735532001	Infection of lung caused by Echinococcus	Disorder	Standard	01/30/2018	12/30/2099	0	6,240	0	4,270	Condition	SNOMED	
+36715997	721804002	Infection of lung caused by Pneumocystis	Disorder	Standard	01/30/2017	12/30/2099	20	18,280	10	1,610	Condition	SNOMED	
+3655667	866140004	Infection of peripheral nerve caused by Mucorales	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116452	733166004	Infection of skin caused by Borrelia	Disorder	Standard	07/30/2017	12/30/2099	0	9,640	0	6,420	Condition	SNOMED	
+37160800	1163462003	Infection of stomach caused by Histoplasma	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+605831	1141645001	Infectious vegetative endocarditis	Disorder	Standard	07/30/2021	12/30/2099	0	10	0	0	Condition	SNOMED	
+37160627	1162918009	Infective dermatitis associated with human T-cell lymphotropic virus 1 infection	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021612	461416009	Infective endocarditis at site of implanted vascular shunt	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021060	459174005	Infective endocarditis at site of interatrial communication	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021297	460490009	Infective endocarditis at site of patch of interatrial communication	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021187	460358000	Infective endocarditis at site of patch of ventricular septal defect	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021058	459172009	Infective endocarditis at site of ventricular septal defect	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43020882	459068007	Infective endocarditis of aortic valve	Disorder	Standard	01/30/2013	12/30/2099	990	44,090	370	10,920	Condition	SNOMED	
+43020881	459067002	Infective endocarditis of cardiac valve	Disorder	Standard	01/30/2013	12/30/2099	30	59,720	20	15,430	Condition	SNOMED	
+605833	1141647009	Infective endocarditis of cardiac valve with vegetation	Disorder	Standard	07/30/2021	12/30/2099	10	10	0	0	Condition	SNOMED	
+43021063	459178008	Infective endocarditis of common atrioventricular valve	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021935	459059005	Infective endocarditis of heterograft	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43020875	459058002	Infective endocarditis of homograft	Disorder	Standard	01/30/2013	12/30/2099	10	10	0	0	Condition	SNOMED	
+43021048	459158000	Infective endocarditis of left atrioventricular (not morphologically mitral) valve	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43020877	459061001	Infective endocarditis of left ventricular wall	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021947	459152004	Infective endocarditis of mitral valve	Disorder	Standard	01/30/2013	12/30/2099	1,300	4,840	440	1,870	Condition	SNOMED	
+43021044	459153009	Infective endocarditis of pulmonary valve	Disorder	Standard	01/30/2013	12/30/2099	20	3,970	10	1,470	Condition	SNOMED	
+43021049	459159008	Infective endocarditis of right atrioventricular (not morphologically tricuspid) valve	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43020876	459060000	Infective endocarditis of right ventricular wall	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021043	459151006	Infective endocarditis of tricuspid valve	Disorder	Standard	01/30/2013	12/30/2099	520	520	240	240	Condition	SNOMED	
+43021045	459154003	Infective endocarditis of truncal valve	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021622	461429009	Infective endocarditis of vascular cardiac conduit	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+37311727	819949002	Infestation by Cordylobia rodhaini	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4190504	414495006	Infestation by Demodex	Disorder	Standard	01/30/2005	12/30/2099	53,510	53,700	7,020	7,040	Condition	SNOMED	
+4066052	17251008	Infestation by Demodex canis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4330697	22464000	Infestation by Demodex cati	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4181737	54284000	Infestation by Demodex criceti	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4329031	22203006	Infestation by Demodex folliculorum	Disorder	Standard	01/30/2002	12/30/2099	190	190	20	20	Condition	SNOMED	
+4308754	8383003	Infestation by Demodex phylloides	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4246417	59989004	Infestation by Dermatobia hominis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37111320	726020009	Infestation caused by Cordylobia anthropophaga	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655661	866134006	Infestation of eyelid caused by Loa loa	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676233	772828001	Influenza caused by Influenza A virus subtype H5N1	Disorder	Standard	01/30/2019	12/30/2099	198,920	198,920	145,210	145,210	Condition	SNOMED	
+4034608	11389007	Inhalational anthrax	Disorder	Standard	01/30/2002	12/30/2099	15,720	17,310	11,300	11,830	Condition	SNOMED	
+4256127	409562009	Inhalational botulism	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4090112	187187002	Intestinal angiostrongyliasis	Disorder	Standard	01/30/2002	12/30/2099	140	140	120	120	Condition	SNOMED	
+4256128	409563004	Intestinal botulism	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+436340	359799003	Intestinal diphyllobothriasis	Disorder	Standard	01/30/2002	12/30/2099	12,100	12,100	6,220	6,220	Condition	SNOMED	
+4347646	240802005	Intestinal fluke infection	Disorder	Standard	01/30/2002	12/30/2099	0	6,550	0	3,080	Condition	SNOMED	
+4345359	240375004	Intestinal microsporidiosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345479	240796008	Intestinal schistosomiasis	Disorder	Standard	01/30/2002	12/30/2099	2,360	2,360	1,340	1,340	Condition	SNOMED	
+4092994	187174008	Intestinal strongyloidiasis	Disorder	Standard	01/30/2002	12/30/2099	5,680	5,680	3,080	3,080	Condition	SNOMED	
+4003500	1102005	Intraerythrocytic parasitosis by Nuttallia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4328666	430404002	Intramedullary abscess of spinal cord due to Histoplasma	Disorder	Standard	07/30/2008	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116453	733168003	Invasive aspergillosis of brain	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116454	733169006	Invasive aspergillosis of digestive tract	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160814	1163476002	Invasive aural aspergillosis	Disorder	Standard	09/29/2021	12/30/2099	20	20	0	0	Condition	SNOMED	
+37160812	1163474004	Invasive cardiac aspergillosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160813	1163475003	Invasive cutaneous aspergillosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+45772913	707211005	Invasive listeriosis	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622340	763772002	Invasive non-typhoidal salmonellosis	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160810	1163472000	Invasive ocular aspergillosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346187	240867002	Invasive trichinosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4154124	371423007	Isosporiasis	Disorder	Standard	07/30/2002	12/30/2099	11,720	11,720	5,570	5,570	Condition	SNOMED	
+37017296	713546005	Isosporiasis co-occurrent with human immunodeficiency virus infection	Disorder	Standard	01/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+381789	52947006	Japanese encephalitis virus disease	Disorder	Standard	01/30/2002	12/30/2099	2,210	2,210	780	780	Condition	SNOMED	
+439724	42100005	Jungle yellow fever	Disorder	Standard	01/30/2002	12/30/2099	1,920	1,920	1,080	1,080	Condition	SNOMED	
+4096019	262781009	Kaposi's varicelliform eruption due to vaccinia virus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3657776	15693241000119100	Keratitis of left eye caused by Acanthamoeba	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3657777	15693281000119105	Keratitis of right eye caused by Acanthamoeba	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4044937	230170002	Kumlinge virus encephalitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160858	1163553003	Kunjin virus encephalitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+434273	23097003	Kyasanur Forest disease	Disorder	Standard	01/30/2002	12/30/2099	210	210	120	120	Condition	SNOMED	
+4306813	422770008	Lacrimal canaliculitis due to Actinomyces israelii	Disorder	Standard	01/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+4265323	61094002	La Crosse encephalitis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4223324	404240007	La Crosse meningitis	Disorder	Standard	01/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346039	240819007	Larval echinococcosis	Disorder	Standard	01/30/2002	12/30/2099	0	10	0	0	Condition	SNOMED	
+4078535	19065005	Lassa fever	Disorder	Standard	01/30/2002	12/30/2099	560	560	420	420	Condition	SNOMED	
+4174511	50414000	Late cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4313873	423718003	Left sided infective endocarditis	Disorder	Standard	01/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347536	240448007	Legionella encephalopathy	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4097550	26726000	Legionella infection	Disorder	Standard	01/30/2002	12/30/2099	64,960	328,880	7,270	56,330	Condition	SNOMED	
+4112820	195889001	Legionella pneumonia	Disorder	Standard	01/30/2002	12/30/2099	261,880	261,900	48,110	48,120	Condition	SNOMED	
+4300347	403136003	Leishmania brasiliensis complex cutaneous leishmaniasis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080435	240635003	Leishmanial pneumonia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294714	403137007	Leishmania mexicana localized cutaneous leishmaniasis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082030	240638001	Leishmania recidiva	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164448	1231140009	Lemierre syndrome	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300883	77746001	Leontiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4039951	16442005	Leontiasis ossium	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4189317	414600000	Lepromatous anterior uveitis	Disorder	Standard	01/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+137207	21560005	Lepromatous leprosy	Disorder	Standard	01/30/2002	12/30/2099	7,780	7,780	1,930	1,930	Condition	SNOMED	
+432821	81004002	Leprosy	Disorder	Standard	01/30/2002	12/30/2099	30,950	47,120	6,900	11,390	Condition	SNOMED	
+37155410	1179403004	Leprosy asteatosis cutis	Disorder	Standard	11/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4027538	128215004	Leprosy neuropathy	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+37161091	1176984002	Leprosy polyneuropathy	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345220	240405001	Leprosy reversal reaction	Disorder	Standard	01/30/2002	12/30/2099	40	40	0	0	Condition	SNOMED	
+4108346	284184004	Lepthangamushi syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4231980	406589003	Leptospira infection of the central nervous system	Disorder	Standard	01/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4090081	186956008	Leptospiral meningitis	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4080444	240673004	Leptospiral rash	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+432246	77377001	Leptospirosis	Disorder	Standard	01/30/2002	12/30/2099	29,830	45,840	8,640	15,900	Condition	SNOMED	
+4213460	80194003	Leptospirosis immune phase	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4194786	79309005	Leptospirosis leptospiremic phase	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294558	402959002	Leptospirosis with cutaneous involvement	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+45766390	703537008	Leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation	Disorder	Standard	07/30/2014	12/30/2099	10	10	0	0	Condition	SNOMED	
+4345216	240393003	Listeria cerebritis	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+4106896	29786001	Listeria conjunctivitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4237780	406590007	Listeria infection of the central nervous system	Disorder	Standard	01/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4088222	186317009	Listerial cerebral arteritis	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4091311	186318004	Listerial endocarditis	Disorder	Standard	01/30/2002	12/30/2099	3,450	3,450	730	730	Condition	SNOMED	
+4136344	31568009	Listeria meningitis	Disorder	Standard	01/30/2002	12/30/2099	10,660	14,560	1,100	1,560	Condition	SNOMED	
+4077718	24630008	Listeria meningoencephalitis	Disorder	Standard	01/30/2002	12/30/2099	3,900	3,900	460	460	Condition	SNOMED	
+4238207	57420002	Listeria miscarriage	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+438059	4241002	Listeriosis	Disorder	Standard	01/30/2002	12/30/2099	29,820	63,800	6,450	11,290	Condition	SNOMED	
+4346036	240798009	Liver fluke infection	Disorder	Standard	01/30/2002	12/30/2099	0	11,960	0	4,170	Condition	SNOMED	
+4347654	240844004	Loa loa lymphadenopathy	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655647	866116007	Localized African histoplasmosis	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+42536746	735738004	Localized cutaneous leishmaniasis	Disorder	Standard	01/30/2018	12/30/2099	10	10	0	0	Condition	SNOMED	
+3655648	866117003	Localized cutaneous leishmaniasis co-occurrent with nodular lymphangitis	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347528	240429008	Localized tetanus	Disorder	Standard	01/30/2002	12/30/2099	0	790	0	680	Condition	SNOMED	
+443908	14683004	Louse-borne relapsing fever	Disorder	Standard	01/30/2002	12/30/2099	2,120	2,120	1,160	1,160	Condition	SNOMED	
+440636	39111003	Louse-borne typhus	Disorder	Standard	01/30/2002	12/30/2099	3,320	3,320	2,330	2,330	Condition	SNOMED	
+4037093	228007	Lucio phenomenon	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Observation	SNOMED	
+37399541	716585008	Lujo hemorrhagic fever	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080438	240650007	Lupoid leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4141757	33937009	Lyme arthritis	Disorder	Standard	01/30/2002	12/30/2099	194,080	194,090	59,790	59,790	Condition	SNOMED	
+606148	1142227009	Lyme arthritis of knee joint	Disorder	Standard	07/30/2021	12/30/2099	10	10	0	0	Condition	SNOMED	
+4300416	77863005	Lyme carditis	Disorder	Standard	01/30/2002	12/30/2099	60	60	30	30	Condition	SNOMED	
+4259503	410475008	Lyme conjunctivitis	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+440638	23502006	Lyme disease	Disorder	Standard	01/30/2002	12/30/2099	5,070,810	5,296,510	1,696,340	1,767,200	Condition	SNOMED	
+4339485	232314004	Lyme disease of inner ear	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082041	240671002	Lyme erosive synovitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4252045	410474007	Lyme keratitis	Disorder	Standard	07/30/2004	12/30/2099	10	10	0	0	Condition	SNOMED	
+4043718	230605007	Lyme mononeuritis multiplex	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+37168079	1269516003	Lyme neuroborreliosis	Disorder	Standard	04/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4252044	410473001	Lyme uveitis	Disorder	Standard	07/30/2004	12/30/2099	10	10	0	0	Condition	SNOMED	
+4346040	240820001	Lymphatic filariasis	Disorder	Standard	01/30/2002	12/30/2099	80	16,790	50	7,620	Condition	SNOMED	
+4304747	419323005	Lymphatic paracoccidioidomycosis	Disorder	Standard	01/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+4227135	87603003	Lymphocutaneous sporotrichosis	Disorder	Standard	01/30/2002	12/30/2099	1,860	1,860	840	840	Condition	SNOMED	
+4305243	38700005	Madura foot due to Actinomadura pelletieri	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4094654	26067004	Madura foot due to Streptomyces	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4008720	111796005	Madura foot due to Streptomyces somaliensis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717592	722888000	Malaria caused by Plasmodium not Plasmodium falciparum	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4092697	186795000	Malaria due to simian plasmodia	Disorder	Standard	01/30/2002	12/30/2099	5,680	5,680	2,690	2,690	Condition	SNOMED	
+45757192	10809061000119106	Malaria in mother complicating childbirth	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+4307072	83072009	Malarial hepatitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4071077	206445003	Malarial pigment deposition	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084955	240629003	Malarial shock lung	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347651	240827003	Malayan filarial fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4195622	44051003	Malignant endocarditis	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4345456	240440000	Mandibular actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+4347656	240849009	Mansonelliasis	Disorder	Standard	01/30/2002	12/30/2099	1,200	1,990	670	1,050	Condition	SNOMED	
+3655623	866091004	Mansonelliasis caused by Mansonella streptocerca	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300760	77503002	Marburg virus disease	Disorder	Standard	01/30/2002	12/30/2099	680	680	220	220	Condition	SNOMED	
+4345913	240858002	Massive strongyloidiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+443016	199183007	Maternal malaria during pregnancy, childbirth and the puerperium	Disorder	Standard	01/30/2002	12/30/2099	330	1,110	140	610	Condition	SNOMED	
+4055115	197143009	Megacolon in Chagas' disease	Disorder	Standard	01/30/2002	12/30/2099	1,320	1,320	150	150	Condition	SNOMED	
+4056933	196599007	Megaesophagus in Chagas' disease	Disorder	Standard	01/30/2002	12/30/2099	1,190	1,190	120	120	Condition	SNOMED	
+4135713	32094009	Megaloblastic anemia due to fish tapeworm	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+443542	428111003	Melioidosis	Disorder	Standard	01/30/2008	12/30/2099	6,400	7,470	2,120	2,400	Condition	SNOMED	
+37017363	713624009	Meningitis caused by Histoplasma capsulatum	Disorder	Standard	01/30/2016	12/30/2099	710	850	150	220	Condition	SNOMED	
+37017364	713625005	Meningitis caused by Histoplasma duboisii	Disorder	Standard	01/30/2016	12/30/2099	140	140	70	70	Condition	SNOMED	
+37018724	713626006	Meningitis caused by Histoplasmosis	Disorder	Standard	01/30/2016	12/30/2099	1,220	2,070	330	550	Condition	SNOMED	
+36715968	721765009	Meningitis caused by Human poliovirus	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715989	721792003	Meningitis caused by Mucorales	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715958	721753005	Meningitis caused by Nocardia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716015	721824003	Meningitis caused by Taenia solium	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716006	721814006	Meningitis caused by Trypanosoma brucei	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+45757221	1084801000119107	Meningitis due to Sporothrix schenkii	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+4044930	230150008	Meningitis in Lyme disease	Disorder	Standard	01/30/2002	12/30/2099	21,140	21,140	4,150	4,150	Condition	SNOMED	
+437777	34845009	Meningococcal endocarditis	Disorder	Standard	01/30/2002	12/30/2099	1,960	1,960	390	390	Condition	SNOMED	
+438338	192644005	Meningococcal meningitis	Disorder	Standard	01/30/2002	12/30/2099	45,000	45,000	18,550	18,550	Condition	SNOMED	
+4265856	397565001	Microsporidia keratitis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4265857	397566000	Microsporidia keratoconjunctivitis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4225193	421020000	Microsporidiosis associated with acquired immunodeficiency syndrome	Disorder	Standard	07/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+37017580	713881001	Microsporidiosis co-occurrent with human immunodeficiency virus infection	Disorder	Standard	01/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4266334	400154003	Midborderline leprosy	Disorder	Standard	07/30/2003	12/30/2099	70	70	0	0	Condition	SNOMED	
+4082031	240642003	Middle Eastern zoonotic cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082187	240868007	Migratory trichinosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4323612	428508008	Miscarriage due to Brucella abortus	Disorder	Standard	01/30/2008	12/30/2099	0	0	0	0	Condition	SNOMED	
+4051244	16038004	Miscarriage due to Leptospira	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+441219	21070001	Mixed malaria	Disorder	Standard	01/30/2002	12/30/2099	1,890	1,890	1,040	1,040	Condition	SNOMED	
+133411	51423006	Modified smallpox	Disorder	Standard	01/30/2002	12/30/2099	160	160	100	100	Condition	SNOMED	
+4246422	60021008	Mortierellosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4234275	359814004	Mpox	Disorder	Standard	01/30/2002	12/30/2099	26,090	26,240	12,290	12,410	Condition	SNOMED	
+4066144	17273001	Mucocutaneous cryptococcosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716005	721813000	Mucocutaneous infection caused by Leishmania	Disorder	Standard	01/30/2017	12/30/2099	1,340	8,080	630	3,970	Condition	SNOMED	
+4277025	36866003	Mucocutaneous-lymphangitic paracoccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160847	1163538006	Mucocutaneous paracoccidioidomycosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297284	76627001	Mucormycosis	Disorder	Standard	01/30/2002	12/30/2099	37,260	76,310	3,910	7,900	Condition	SNOMED	
+37169816	1163496005	Mucormycosis gastritis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346165	240780005	Mucormycotic gangrenous cellulitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4168202	416257001	Multibacillary leprosy	Disorder	Standard	07/30/2005	12/30/2099	50	70	0	10	Condition	SNOMED	
+433961	25668000	Murine typhus	Disorder	Standard	01/30/2002	12/30/2099	9,300	9,300	3,940	3,940	Condition	SNOMED	
+4293420	403112002	Mycetoma due to Acremonium	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294707	403113007	Mycetoma due to Curvularia lunata	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299001	403114001	Mycetoma due to dermatophyte	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299002	403115000	Mycetoma due to Exophiala jeanselmei	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300341	403116004	Mycetoma due to Fusarium	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300342	403117008	Mycetoma due to Leptosphaeria senegalensis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300343	403118003	Mycetoma due to Madurella grisea	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299003	403119006	Mycetoma due to Madurella mycetomatis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4293421	403120000	Mycetoma due to Neotestudina rosatii	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294708	403121001	Mycetoma due to Pseudallescheria boydii	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294709	403122008	Mycetoma due to Pyrenochaeta romeroi	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+196329	95881004	Mycetoma of foot	Disorder	Standard	01/30/2002	12/30/2099	1,930	2,010	540	540	Condition	SNOMED	
+35622800	764993001	Mycoplasma pneumoniae encephalitis	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+444389	86348002	Mycotic endocarditis	Disorder	Standard	01/30/2002	12/30/2099	40	54,990	10	10,960	Condition	SNOMED	
+4166042	45194000	Mycotic keratitis due to Fusarium	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4220389	82710007	Mycotic keratitis due to Fusarium oxysporum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4221396	82686002	Mycotic keratitis due to Fusarium solani	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655581	866045007	Myelitis caused by Actinomyces	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655599	866064001	Myelitis caused by Aspergillus	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655596	866061009	Myelitis caused by Coccidioides	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655597	866062002	Myelitis caused by Coenurus cerebralis	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3663224	866124002	Myelitis caused by human poliovirus	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655654	866127009	Myelitis caused by Plasmodium	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655652	866121005	Myelitis caused by Schistosoma	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3663223	866123008	Myelitis caused by Schistosoma haematobium	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655602	866067008	Myelitis caused by Schistosoma japonicum	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655600	866065000	Myelitis caused by Schistosoma mansoni	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3656065	871587002	Myocarditis due to Chaga disease	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+43021184	460338001	Myocarditis due to Genus Aspergillus	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+4246664	93465000	Nanukayami	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4221483	420706008	Nasopharyngeal fascioliasis	Disorder	Standard	07/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346164	240779007	Necrotizing cutaneous mucormycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622404	763888005	Necrotizing pneumonia caused by Panton-Valentine leukocidin producing Staphylococcus aureus	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+40484119	443928008	Necrotizing soft tissue infection	Disorder	Standard	01/30/2010	12/30/2099	830	830	160	160	Condition	SNOMED	
+4186404	414820001	Neonatal botulism	Disorder	Standard	01/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4234748	359646002	Neonatal disseminated listeriosis	Disorder	Standard	01/30/2002	12/30/2099	560	560	90	90	Condition	SNOMED	
+36715568	721279000	Neonatal infection caused by Aspergillus	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298866	402967005	Neonatal staphylococcal scalded skin syndrome	Disorder	Standard	07/30/2003	12/30/2099	18,950	18,950	7,750	7,750	Condition	SNOMED	
+4027122	197606008	Nephrotic syndrome in malaria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345450	240401005	Neural type tuberculoid leprosy	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4214943	417607009	Neuroinvasive St. Louis encephalitis virus infection	Disorder	Standard	07/30/2005	12/30/2099	4,220	4,220	1,660	1,660	Condition	SNOMED	
+4310991	422498005	Neuroinvasive Western equine encephalitis virus infection	Disorder	Standard	01/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161114	1177012000	Neuroschistosomiasis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4041674	230194002	Neuro - Whipple's disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110509	195909000	Nocardial pneumonia	Disorder	Standard	01/30/2002	12/30/2099	530	530	110	110	Condition	SNOMED	
+4104668	29227009	Nocardiosis	Disorder	Standard	01/30/2002	12/30/2099	76,280	150,660	8,360	16,440	Condition	SNOMED	
+4224578	421431004	Nocardiosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Standard	07/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655876	870353004	Noma neonatorum	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080618	240667000	Non-intestinal microsporidiosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4309568	423592001	Non-neuroinvasive Western equine encephalitis virus infection	Disorder	Standard	01/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+4174281	277869007	Non-tuberculous mycobacterial pneumonia	Disorder	Standard	01/30/2002	12/30/2099	474,240	474,240	78,460	78,460	Condition	SNOMED	
+4091321	186378005	Obstetrical tetanus	Disorder	Standard	01/30/2002	12/30/2099	790	790	680	680	Condition	SNOMED	
+37311903	788997004	Obstructing Aspergillus tracheobronchitis	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4220779	417254001	Ocular cryptococcosis	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4220147	416770009	Ocular histoplasmosis syndrome	Disorder	Standard	07/30/2005	12/30/2099	1,120	1,240	430	480	Condition	SNOMED	
+4346048	240842000	Ocular onchocerciasis	Disorder	Standard	01/30/2002	12/30/2099	7,580	7,580	1,420	1,420	Condition	SNOMED	
+4346186	240866006	Ocular toxocariasis	Disorder	Standard	01/30/2002	12/30/2099	640	680	120	130	Condition	SNOMED	
+4090677	186319007	Oculoglandular listeriosis	Disorder	Standard	01/30/2002	12/30/2099	50	50	30	30	Condition	SNOMED	
+320317	73363000	Oculoglandular tularemia	Disorder	Standard	01/30/2002	12/30/2099	890	890	560	560	Condition	SNOMED	
+4080432	240618002	Old World tick typhus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+437211	48113006	Omsk hemorrhagic fever	Disorder	Standard	01/30/2002	12/30/2099	960	960	340	340	Condition	SNOMED	
+4334134	231992006	Onchocerca chorioretinitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345828	240839006	Onchocercal depigmentation	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4121790	234101005	Onchocercal elephantiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346184	240840008	Onchocercal lichenification	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346183	240838003	Onchocercal subcutaneous nodule	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346047	240836004	Onchodermatitis	Disorder	Standard	01/30/2002	12/30/2099	370	370	230	230	Condition	SNOMED	
+4293411	403093005	Onychomycosis caused by Aspergillus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4293413	403096002	Onychomycosis due to Fusarium	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+444117	1059007	Opisthorchiasis	Disorder	Standard	01/30/2002	12/30/2099	7,020	7,020	910	910	Condition	SNOMED	
+37161129	1177030007	Opisthorchis felineus infection	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4171217	420121005	Oral paracoccidioidomycosis	Disorder	Standard	01/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+4265753	397562003	Orbital mucormycosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4162531	398575000	Oropharyngeal tularemia	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347537	240453002	Oroya fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160673	1163078007	Orthopoxvirus encephalitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4151843	283688006	Osseous cryptococcosis	Disorder	Standard	01/30/2002	12/30/2099	420	420	140	140	Condition	SNOMED	
+4295260	76490001	Otomycosis externa due to Fusarium	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+437215	19341001	Ovale malaria	Disorder	Standard	01/30/2002	12/30/2099	1,280	1,280	670	670	Condition	SNOMED	
+443866	30865009	Ozzardian filariasis	Disorder	Standard	01/30/2002	12/30/2099	780	780	380	380	Condition	SNOMED	
+4080612	240649007	Panamanian leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4093488	187145004	Pancreatic echinococcosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+439733	59925007	Paracoccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	4,800	5,510	2,260	2,550	Condition	SNOMED	
+4347648	240812003	Paragonimus granuloma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346177	240810006	Paragonimus larva migrans	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4212465	415035006	Paralytic rabies	Disorder	Standard	01/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347531	240436009	Paramandibular actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655851	870326003	Parasitic infection of colon caused by Strongyloides	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655833	870296007	Parasitic infestation of eyelid caused by Demodex	Disorder	Standard	07/30/2020	12/30/2099	10	10	10	10	Condition	SNOMED	
+3655835	870298008	Parasitic infestation of intestine caused by Taenia solium	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655839	870302000	Parasitic infestation of orbit caused by Taenia solium	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+195460	76623002	Paratyphoid A fever	Disorder	Standard	01/30/2002	12/30/2099	30,720	30,720	3,700	3,700	Condition	SNOMED	
+193953	71085009	Paratyphoid B fever	Disorder	Standard	01/30/2002	12/30/2099	5,250	5,250	1,330	1,330	Condition	SNOMED	
+442291	51254007	Paratyphoid C fever	Disorder	Standard	01/30/2002	12/30/2099	2,890	2,890	1,310	1,310	Condition	SNOMED	
+4298865	402964003	Paratyphoid exanthem	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+195177	85904008	Paratyphoid fever	Disorder	Standard	01/30/2002	12/30/2099	11,230	50,090	5,070	11,410	Condition	SNOMED	
+4166560	416483009	Paucibacillary leprosy	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716865	723088005	Periendocarditis due to infection	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346175	240806008	Phaneropsuliasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4055211	197300007	Pipestem portal cirrhosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294404	76090006	Pittsburgh pneumonia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+434271	58750007	Plague	Disorder	Standard	01/30/2002	12/30/2099	7,760	26,390	5,310	14,730	Condition	SNOMED	
+4088214	186284005	Plague meningitis	Disorder	Standard	01/30/2002	12/30/2099	110	110	60	60	Condition	SNOMED	
+4087615	186791009	Plasmodium falciparum malaria with cerebral complications	Disorder	Standard	01/30/2002	12/30/2099	2,980	2,980	970	970	Condition	SNOMED	
+765769	4911000124103	Plasmodium falciparum malaria with complication	Disorder	Standard	02/29/2012	12/30/2099	0	0	0	0	Condition	SNOMED	
+4089973	186796004	Plasmodium malariae malaria with nephropathy	Disorder	Standard	01/30/2002	12/30/2099	620	620	410	410	Condition	SNOMED	
+4087616	186792002	Plasmodium vivax malaria with rupture of spleen	Disorder	Standard	01/30/2002	12/30/2099	1,090	1,090	850	850	Condition	SNOMED	
+37161135	1177035002	Pleural aspergillosis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+432879	51169003	Pneumococcal meningitis	Disorder	Standard	01/30/2002	12/30/2099	129,540	129,540	17,000	17,000	Condition	SNOMED	
+40480545	443201006	Pneumocystis jirovecii choroiditis	Disorder	Standard	01/30/2010	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169818	1177059007	Pneumocystis jirovecii lung cyst	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+438350	88860002	Pneumocystosis	Disorder	Standard	01/30/2002	12/30/2099	540,540	570,820	99,110	101,680	Condition	SNOMED	
+4190647	415125002	Pneumocystosis pneumonia	Disorder	Standard	01/30/2005	12/30/2099	18,260	18,260	1,600	1,600	Condition	SNOMED	
+4226502	420403001	Pneumocystosis with AIDS (acquired immunodeficiency syndrome)	Disorder	Standard	07/30/2006	12/30/2099	6,430	6,430	410	410	Condition	SNOMED	
+607087	1149093006	Pneumonia caused by vancomycin resistant Enterococcus	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+40481839	442094008	Pneumonia due to Histoplasma	Disorder	Standard	07/30/2009	12/30/2099	10,300	33,670	2,990	10,370	Condition	SNOMED	
+4299862	38699009	Pneumonia due to Histoplasma capsulatum	Disorder	Standard	01/30/2002	12/30/2099	22,970	23,370	7,210	7,380	Condition	SNOMED	
+45768961	707508008	Pneumonia due to Schistosoma haematobium	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+45768960	707507003	Pneumonia due to Schistosoma japonicum	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+45771022	707503004	Pneumonia due to Schistosoma mansoni	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+261053	111900000	Pneumonia in aspergillosis	Disorder	Standard	01/30/2002	12/30/2099	66,100	66,100	12,070	12,070	Condition	SNOMED	
+4137435	32286006	Pneumonia in Q fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4166072	45312009	Pneumonia in typhoid fever	Disorder	Standard	01/30/2002	12/30/2099	10,240	10,240	3,610	3,610	Condition	SNOMED	
+254561	38976008	Pneumonic plague	Disorder	Standard	01/30/2002	12/30/2099	7,910	10,580	3,320	4,270	Condition	SNOMED	
+4346038	240814002	Poikilorchiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347649	240817009	Polycystic hydatid	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347535	240447002	Pontiac fever	Disorder	Standard	01/30/2002	12/30/2099	320	320	270	270	Condition	SNOMED	
+4285156	67896006	Post-kala-azar dermal leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347532	240438005	Primary cutaneous actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4197239	79949009	Primary cutaneous coccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4081386	240745006	Primary cutaneous histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298983	402989009	Primary cutaneous nocardiosis	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4346160	240758007	Primary cutaneous sporotrichoid nodule	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+438071	23247008	Primary extrapulmonary coccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	4,710	4,710	1,780	1,780	Condition	SNOMED	
+255735	35339003	Primary pneumonic plague	Disorder	Standard	01/30/2002	12/30/2099	2,220	2,220	730	730	Condition	SNOMED	
+256909	88036000	Primary pulmonary coccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	184,420	184,420	49,740	49,740	Condition	SNOMED	
+40493189	445880000	Progressive coccidioidomycosis	Disorder	Standard	01/30/2011	12/30/2099	10	10	10	10	Condition	SNOMED	
+4120303	302811004	Progressive congenital rubella encephalomyelitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+433957	22255007	Progressive multifocal leukoencephalopathy	Disorder	Standard	01/30/2002	12/30/2099	154,760	154,770	11,970	11,970	Condition	SNOMED	
+37017246	713487008	Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection	Disorder	Standard	01/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4226631	420554003	Progressive multifocal leukoencephalopathy with AIDS (acquired immunodeficiency syndrome)	Disorder	Standard	07/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+4002949	10082001	Progressive rubella panencephalitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4209274	56140006	Progressive vaccina	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+45757264	1090331000119100	Prostatic coccidioidomycosis	Disorder	Standard	01/30/2015	12/30/2099	870	870	300	300	Condition	SNOMED	
+4121469	233853009	Prosthetic valve endocarditis	Disorder	Standard	01/30/2002	12/30/2099	4,460	4,460	320	320	Condition	SNOMED	
+35622432	764104003	Pseudotyphus of California	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+441222	187239003	Psorospermiasis	Disorder	Standard	01/30/2002	12/30/2099	1,170	1,170	580	580	Condition	SNOMED	
+260026	21846001	Pulmonary actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	64,180	64,180	12,040	12,040	Condition	SNOMED	
+258354	187052004	Pulmonary African histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	400	400	170	170	Condition	SNOMED	
+258684	20953001	Pulmonary cryptococcosis	Disorder	Standard	01/30/2002	12/30/2099	47,050	47,050	6,140	6,140	Condition	SNOMED	
+4178450	50997000	Pulmonary dirofilariasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345215	240391001	Pulmonary melioidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4051334	233614003	Pulmonary mucormycosis	Disorder	Standard	01/30/2002	12/30/2099	15,870	15,870	1,430	1,430	Condition	SNOMED	
+4049797	2087000	Pulmonary nocardiosis	Disorder	Standard	01/30/2002	12/30/2099	66,800	67,330	6,710	6,820	Condition	SNOMED	
+37161105	1177000004	Pulmonary nodule caused by Pneumocystis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4250160	73995006	Pulmonary paracoccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	690	690	280	280	Condition	SNOMED	
+4243567	9228003	Pulmonary schistosomiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4166057	45263007	Pulmonary sporotrichosis	Disorder	Standard	01/30/2002	12/30/2099	1,120	1,120	320	320	Condition	SNOMED	
+258061	45556008	Pulmonary tularemia	Disorder	Standard	01/30/2002	12/30/2099	2,550	2,550	540	540	Condition	SNOMED	
+4087075	2439002	Purulent endocarditis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4147680	30330001	Purulent myositis	Disorder	Standard	01/30/2002	12/30/2099	40	2,890	20	750	Condition	SNOMED	
+4260074	409555000	Q fever aseptic meningitis	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4252714	409556004	Q fever encephalitis	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4320031	95890006	Q fever endocarditis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4260073	409554001	Q fever hepatitis	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4119590	233867000	Q fever myocarditis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4256125	409557008	Q fever osteomyelitis	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4119594	233884006	Q fever pericarditis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+438353	27618009	Quartan malaria	Disorder	Standard	01/30/2002	12/30/2099	2,560	3,180	1,580	1,990	Condition	SNOMED	
+4347540	240464004	Rabies coma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4143963	266196000	Rabies - hydrophobia	Disorder	Standard	01/30/2002	12/30/2099	20	20	20	20	Condition	SNOMED	
+4345234	240462000	Rabies prodrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347541	240465003	Rabies - recovery phase	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+433690	1685005	Rat bite fever	Disorder	Standard	01/30/2002	12/30/2099	3,370	13,300	1,580	7,040	Condition	SNOMED	
+4071111	17794004	Recurrent cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4092983	187100003	Rhinocerebral mucormycosis	Disorder	Standard	01/30/2002	12/30/2099	12,250	12,250	1,180	1,180	Condition	SNOMED	
+4346168	240784001	Rhinofacial conidiobolomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4068830	20443005	Rhinophycomycosis due to Entomophthora coronata	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4119954	233851006	Rickettsial endocarditis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+436035	75096007	Rickettsialpox	Disorder	Standard	01/30/2002	12/30/2099	1,850	1,850	1,110	1,110	Condition	SNOMED	
+4300216	402917003	Rift valley fever	Disorder	Standard	07/30/2003	12/30/2099	8,030	8,030	2,690	2,690	Condition	SNOMED	
+37160666	1163071001	Rift Valley virus encephalitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4312144	425177009	Right sided infective endocarditis	Disorder	Standard	01/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+4141202	426087004	Right-sided Staphylococcus aureus endocarditis	Disorder	Standard	07/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+4089968	186772009	Rocky Mountain spotted fever	Disorder	Standard	01/30/2002	12/30/2099	150,020	150,070	66,410	66,420	Condition	SNOMED	
+4100107	192689006	Rubella encephalitis	Disorder	Standard	01/30/2002	12/30/2099	470	910	260	410	Condition	SNOMED	
+4027838	13225007	Rubella meningoencephalitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3654951	840499006	Rupture of liver due to Echinococcus granulosus infection	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082032	240644002	Sahelian zoonotic cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+432564	88905005	Sarcosporidiosis	Disorder	Standard	01/30/2002	12/30/2099	5,140	6,310	2,090	2,670	Condition	SNOMED	
+141213	30242009	Scarlet fever	Disorder	Standard	01/30/2002	12/30/2099	1,369,400	1,428,470	1,123,440	1,148,030	Condition	SNOMED	
+37163546	1217227009	Scedosporiosis	Disorder	Standard	04/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161141	1177043007	Schistosoma encephalomyelitis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161174	1177078007	Schistosoma haematobium dacryoadenitis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+436350	60979006	Schistosoma haematobium infection	Disorder	Standard	01/30/2002	12/30/2099	97,120	97,120	3,330	3,330	Condition	SNOMED	
+437499	268058007	Schistosoma japonicum infection	Disorder	Standard	01/30/2002	12/30/2099	1,750	1,750	960	960	Condition	SNOMED	
+37161152	1177055001	Schistosomal granuloma of central nervous system	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346170	240790002	Schistosomal hepatomegaly	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4126284	236689006	Schistosomal periurethral abscess	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4007945	111005008	Schistosomal pigment deposition	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345478	240793000	Schistosomal splenomegaly	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4127709	236686004	Schistosomal urethral fistula	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+437797	750009	Schistosoma mansoni infection	Disorder	Standard	01/30/2002	12/30/2099	3,400	3,400	1,960	1,960	Condition	SNOMED	
+4128398	236685000	Schistosomiasis of the urethra	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4032427	236599009	Schistosomiasis of ureter	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+440033	271425001	Scrub typhus	Disorder	Standard	01/30/2002	12/30/2099	3,630	3,630	1,130	1,130	Condition	SNOMED	
+442637	67525007	Secondary pneumonic plague	Disorder	Standard	01/30/2002	12/30/2099	450	450	220	220	Condition	SNOMED	
+4345445	240389009	Septicemic melioidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+442137	9012003	Septicemic plague	Disorder	Standard	01/30/2002	12/30/2099	2,550	2,550	1,480	1,480	Condition	SNOMED	
+4063592	201517005	Seronegative arthritis secondary to Whipple's disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4218919	82308007	Sheep liver fluke infection	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+201780	36188001	Shigellosis	Disorder	Standard	01/30/2002	12/30/2099	95,190	95,190	46,310	46,310	Condition	SNOMED	
+4217555	415525005	Siberian tick-borne encephalitis	Disorder	Standard	01/30/2005	12/30/2099	280	280	210	210	Condition	SNOMED	
+4035637	15316002	Simian B encephalomyelitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345710	240439002	Skeletal actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	30	0	10	Condition	SNOMED	
+4080443	240670001	Skeletal Lyme disease	Disorder	Standard	01/30/2002	12/30/2099	0	194,090	0	59,790	Condition	SNOMED	
+134573	67924001	Smallpox	Disorder	Standard	01/30/2002	12/30/2099	1,660	4,150	1,250	2,340	Condition	SNOMED	
+4254256	74724001	Smallpox without rash	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188437	415561000	South African tick-bite fever	Disorder	Standard	01/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347653	240841007	Sowda	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165067	1237418002	Spastic tetraplegia, thin corpus callosum, progressive postnatal microcephaly syndrome	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+443699	19044004	Spirillary fever	Disorder	Standard	01/30/2002	12/30/2099	2,500	2,500	630	630	Condition	SNOMED	
+4347562	240794006	Splenic schistosomal giant cell lymphoma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161163	1177068009	Spondylitis caused by Brucella abortus	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+434859	42094007	Sporotrichosis	Disorder	Standard	01/30/2002	12/30/2099	23,820	27,770	10,910	12,230	Condition	SNOMED	
+4103864	29081001	Sporotrichosis of the bones	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4197927	5168000	Sporotrichotic chancre	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4004357	111003001	Sporotrichotic gumma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4248877	73028002	Staphylococcal endocarditis	Disorder	Standard	01/30/2002	12/30/2099	110	110	50	50	Condition	SNOMED	
+132392	200946001	Staphylococcal scalded skin syndrome	Disorder	Standard	01/30/2002	12/30/2099	59,320	78,270	19,620	27,370	Condition	SNOMED	
+4345458	240450004	Staphylococcal toxic shock syndrome	Disorder	Standard	01/30/2002	12/30/2099	30	30	20	20	Condition	SNOMED	
+440023	417192005	St. Louis encephalitis virus infection	Disorder	Standard	07/30/2005	12/30/2099	6,440	10,660	2,350	4,010	Condition	SNOMED	
+443579	416129000	St. Louis encephalitis virus non-neuroinvasive disease	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+432244	52138004	Streptobacillary fever	Disorder	Standard	01/30/2002	12/30/2099	7,430	7,430	4,830	4,830	Condition	SNOMED	
+4080320	238448008	Streptocerciasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4087427	186357007	Streptococcal sore throat with scarlatina	Disorder	Standard	01/30/2002	12/30/2099	59,070	59,070	24,590	24,590	Condition	SNOMED	
+4345713	240451000	Streptococcal toxic shock syndrome	Disorder	Standard	01/30/2002	12/30/2099	80	80	20	20	Condition	SNOMED	
+4345912	240857007	Strongyloidal cutaneous larva migrans	Disorder	Standard	01/30/2002	12/30/2099	0	1,730	0	1,320	Condition	SNOMED	
+4346052	240856003	Strongyloidal ground itch	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161165	1177070000	Strongyloides duodenitis	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160851	1163542009	Strongyloides stercoralis meningitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4223597	421883002	Strongyloidiasis with AIDS (acquired immunodeficiency syndrome)	Disorder	Standard	07/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+4090675	186312003	Subacute and chronic melioidosis	Disorder	Standard	01/30/2002	12/30/2099	240	240	80	80	Condition	SNOMED	
+4249899	73774007	Subacute bacterial endocarditis	Disorder	Standard	01/30/2002	12/30/2099	3,120	1,044,130	870	198,990	Condition	SNOMED	
+4082063	240731000	Subacute disseminated classical histoplasmosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160670	1163075005	Subacute endocarditis of left side of heart due to infection	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+3654624	838316003	Subacute endocarditis of right side of heart due to infection	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37203790	782761005	Subacute invasive pulmonary aspergillosis	Disorder	Standard	07/30/2019	12/30/2099	130	130	10	10	Condition	SNOMED	
+4080457	240728001	Subcutaneous coccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345831	240851008	Subcutaneous dirofilariasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080615	240657005	Subcutaneous lipochagoma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4314115	86333008	Subcutaneous phycomycosis due to Basidiobolus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4031478	238442009	Subcutaneous zygomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345231	240437000	Submandibular actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345477	240792005	Symmer's pipe-stem fibrosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+436031	67391006	Syphilitic endocarditis	Disorder	Standard	01/30/2002	12/30/2099	10,650	63,040	1,600	15,630	Condition	SNOMED	
+318689	278480000	Syphilitic endocarditis of aortic valve	Disorder	Standard	01/30/2002	12/30/2099	43,100	43,100	10,550	10,550	Condition	SNOMED	
+313416	186875004	Syphilitic endocarditis of mitral valve	Disorder	Standard	01/30/2002	12/30/2099	3,540	3,540	1,430	1,430	Condition	SNOMED	
+313964	186878002	Syphilitic endocarditis of pulmonary valve	Disorder	Standard	01/30/2002	12/30/2099	3,950	3,950	1,460	1,460	Condition	SNOMED	
+313698	186877007	Syphilitic endocarditis of tricuspid valve	Disorder	Standard	01/30/2002	12/30/2099	1,020	1,020	250	250	Condition	SNOMED	
+43021833	94851000119107	Syphilitic valvular endocarditis	Disorder	Standard	01/30/2013	12/30/2099	780	52,390	340	14,030	Condition	SNOMED	
+4080450	240701006	Systemic aspergillosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299121	77798004	Systemic chromomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4090100	187091009	Systemic cryptococcosis	Disorder	Standard	01/30/2002	12/30/2099	26,340	309,840	2,560	60,920	Condition	SNOMED	
+4024419	10651001	Temporal lobectomy behavior syndrome	Disorder	Standard	01/30/2002	12/30/2099	9,070	9,070	330	330	Condition	SNOMED	
+4345230	240433001	Tetanic opisthotonus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37167306	1264130004	Tetanus following ectopic pregnancy	Disorder	Standard	02/27/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+37167307	1264131000	Tetanus following molar pregnancy	Disorder	Standard	02/27/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+133024	43424001	Tetanus neonatorum	Disorder	Standard	01/30/2002	12/30/2099	2,960	2,960	2,080	2,080	Condition	SNOMED	
+4247430	61145000	Tetanus omphalitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347529	240432006	Tetanus with trismus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4288166	69668008	Therapeutically induced malaria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4121789	234100006	Timorian elephantiasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4312636	424327005	Tonsillar actinomycosis	Disorder	Standard	01/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+4090099	187084006	Tonsillar aspergillosis	Disorder	Standard	01/30/2002	12/30/2099	940	940	670	670	Condition	SNOMED	
+4237789	406620007	Toxicariasis of the central nervous system	Disorder	Standard	01/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+201214	18504008	Toxic shock syndrome	Disorder	Standard	01/30/2002	12/30/2099	88,710	88,820	18,420	18,460	Condition	SNOMED	
+46270059	127421000119109	Toxic shock syndrome due to methicillin resistant Staphylococcus aureus infection	Disorder	Standard	07/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+46270058	127411000119102	Toxic shock syndrome due to methicillin susceptible Staphylococcus aureus	Disorder	Standard	08/31/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+4334873	231994007	Toxocara chorioretinitis	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+4215212	415737009	Toxocara endophthalmitis	Disorder	Standard	01/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4213380	417097002	Toxocara granuloma	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4193164	312106007	Toxocara larva migrans of skin	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160849	1163540001	Toxocara meningitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345575	240118001	Toxocariasis myositis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+45768962	707509000	Tracheobronchitis due to Aspergillus	Disorder	Standard	01/30/2015	12/30/2099	20	20	0	0	Condition	SNOMED	
+37161217	1177184008	Transmission of vaccinia virus from another person due to contact with smallpox vaccination site	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+435188	26089000	Trematode infection	Disorder	Standard	01/30/2002	12/30/2099	6,850	219,980	3,830	61,050	Condition	SNOMED	
+441790	82214002	Trench fever	Disorder	Standard	01/30/2002	12/30/2099	3,040	3,040	1,800	1,800	Condition	SNOMED	
+4344373	240117006	Trichinosis myositis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4009935	111921000	Trichobilharzia cercarial dermatitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+75741	65110003	Tropical pyomyositis	Disorder	Standard	01/30/2002	12/30/2099	2,850	2,850	730	730	Condition	SNOMED	
+37311918	788980005	Trypanosoma brucei gambiense meningitis	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37311917	788981009	Trypanosoma brucei rhodesiense meningitis	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160854	1163549000	Trypanosoma cruzi encephalitis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+136898	70143003	Tuberculoid leprosy	Disorder	Standard	01/30/2002	12/30/2099	2,790	2,790	940	940	Condition	SNOMED	
+4203012	52987001	Tuberculosis of endocardium	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+441781	19265001	Tularemia	Disorder	Standard	01/30/2002	12/30/2099	15,150	21,770	5,510	7,770	Condition	SNOMED	
+4275434	64612002	Tunga penetrans infestation	Disorder	Standard	01/30/2002	12/30/2099	2,510	2,510	1,960	1,960	Condition	SNOMED	
+4347523	240407009	Type 1 lepra reaction	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Observation	SNOMED	
+4345704	240410002	Type 2 lepra reaction	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Observation	SNOMED	
+4160607	398554008	Typhoidal tularemia	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37155414	1179407003	Typhoid colitis	Disorder	Standard	11/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294559	402963009	Typhoid exanthem	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+192819	4834000	Typhoid fever	Disorder	Standard	01/30/2002	12/30/2099	715,640	725,880	200,800	204,410	Condition	SNOMED	
+4192846	75656006	Ulcerating cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37018496	715067004	Ulcerating cutaneous leishmaniasis of lower extremity	Disorder	Standard	01/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+312825	37722001	Ulceroglandular tularemia	Disorder	Standard	01/30/2002	12/30/2099	3,180	3,180	1,160	1,160	Condition	SNOMED	
+4345451	240408004	Upgrading type 1 lepra reaction	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Observation	SNOMED	
+442796	74166005	Urban yellow fever	Disorder	Standard	01/30/2002	12/30/2099	900	900	520	520	Condition	SNOMED	
+4032450	236706006	Urinary schistosomiasis	Disorder	Standard	01/30/2002	12/30/2099	21,200	21,200	1,130	1,130	Condition	SNOMED	
+4256465	410476009	Uveitis due to leptospirosis	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4291596	402884000	Vaccination site vaccinia	Disorder	Standard	07/30/2003	12/30/2099	30	30	20	20	Condition	SNOMED	
+140633	111852003	Vaccinia	Disorder	Standard	01/30/2002	12/30/2099	169,200	169,300	85,980	86,030	Condition	SNOMED	
+4288372	397552005	Vaccinia keratitis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+134563	47452006	Variola major	Disorder	Standard	01/30/2002	12/30/2099	1,620	1,620	830	830	Condition	SNOMED	
+4234757	359673001	Venezuelan hemorrhagic fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4345711	240441001	Vertebral actinomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+43020874	459057007	Viral endocarditis	Disorder	Standard	01/30/2013	12/30/2099	8,240	8,850	2,410	2,600	Condition	SNOMED	
+45768827	707341005	Viral hepatitis D	Disorder	Standard	01/30/2015	12/30/2099	15,480	224,950	8,040	94,490	Condition	SNOMED	
+4344051	240105009	Viral myositis	Disorder	Standard	01/30/2002	12/30/2099	300	300	220	220	Condition	SNOMED	
+200652	186803007	Visceral leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	1,850	1,850	650	650	Condition	SNOMED	
+4093476	187072009	Visceral paracoccidioidomycosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+433960	27052006	Vivax malaria	Disorder	Standard	01/30/2002	12/30/2099	5,790	6,880	3,170	4,020	Condition	SNOMED	
+4134875	398067003	Weil's disease	Disorder	Standard	07/30/2003	12/30/2099	16,000	16,000	7,250	7,250	Condition	SNOMED	
+380942	47523006	Western equine encephalitis	Disorder	Standard	01/30/2002	12/30/2099	1,580	1,580	480	480	Condition	SNOMED	
+4084953	240615004	Western Rocky Mountain spotted fever	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+373692	392662004	West Nile encephalitis	Disorder	Standard	01/30/2003	12/30/2099	117,790	117,790	10,050	10,050	Condition	SNOMED	
+4215115	39439008	Wet form of cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+197782	41545003	Whipple's disease	Disorder	Standard	01/30/2002	12/30/2099	46,190	46,190	8,450	8,450	Condition	SNOMED	
+438958	398530003	Wound botulism	Disorder	Standard	07/30/2003	12/30/2099	17,700	17,700	4,890	4,890	Condition	SNOMED	
+4345918	240880004	Wound myiasis	Disorder	Standard	01/30/2002	12/30/2099	20,090	20,090	6,010	6,010	Condition	SNOMED	
+4214984	3928002	Zika virus disease	Disorder	Standard	01/30/2002	12/30/2099	17,420	17,710	8,760	8,820	Condition	SNOMED	
+37169603	16468121000119106	Zika virus infection during pregnancy	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4035179	15207003	Zoonotic form of cutaneous leishmaniasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+432830	59277005	Zygomycosis	Disorder	Standard	01/30/2002	12/30/2099	46,850	123,160	6,130	14,030	Condition	SNOMED	

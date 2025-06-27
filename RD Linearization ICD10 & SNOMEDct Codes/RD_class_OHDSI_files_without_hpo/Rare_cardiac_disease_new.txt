@@ -1,0 +1,64 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+37164344	1230097004	Atypical Timothy syndrome	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Timothy syndrome'"">1"
+608077	1156821008	Autosomal recessive sick sinus syndrome	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Familial sick sinus syndrome'"">1"
+4303408	418818005	Brugada syndrome	Disorder	Standard	01/30/2006	12/30/2099	4,580	4,580	490	490	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+3656846	328851000119107	Cardiogenic shock following procedure	Disorder	Standard	07/30/2020	12/30/2099	50	50	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cardiogenic shock'"">1"
+37163034	1204167003	Catecholaminergic polymorphic ventricular tachycardia due to calsequestrin mutation	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Catecholaminergic polymorphic ventricular tachycardia'"">1"
+37163002	1204129001	Catecholaminergic polymorphic ventricular tachycardia due to RYR2 mutation	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Catecholaminergic polymorphic ventricular tachycardia'"">1"
+37110890	725416005	Cirrhotic cardiomyopathy	Disorder	Standard	07/30/2017	12/30/2099	20	20	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+605954	1141882007	Congenital endocardial fibroelastosis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Endocardial fibroelastosis'"">1"
+315069	46619002	Congenital heart block	Disorder	Standard	01/30/2002	12/30/2099	165,780	165,780	25,280	25,280	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4119598	233902009	Congenital His bundle tachycardia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'His bundle tachycardia'"">1"
+606064	1142086006	Congenital junctional ectopic tachycardia	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'His bundle tachycardia'"">1"
+43020659	471890009	Dilated cardiomyopathy with genetic marker	Disorder	Standard	01/30/2013	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Primary familial dilated cardiomyopathy'"">1"
+4102853	253359006	Endocardial fibroelastosis of left atrium	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Endocardial fibroelastosis'"">1"
+4100133	253348002	Endocardial fibroelastosis of right atrium	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Endocardial fibroelastosis'"">1"
+37395821	715395008	Familial atrial fibrillation	Disorder	Standard	07/30/2016	12/30/2099	10	10	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4121470	233855002	Familial atrial myxoma	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37162755	1197418004	Familial atrial tachyarrhythmia, infra-Hisian cardiac conduction disease	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+35624231	766883006	Familial dilated cardiomyopathy with conduction defect due to LMNA mutation	Disorder	Standard	07/30/2018	12/30/2099	50	50	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37399476	715865008	Familial isolated arrhythmogenic right ventricular dysplasia	Disorder	Standard	07/30/2016	12/30/2099	190	190	60	60	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4119959	233878008	Familial restrictive cardiomyopathy	Disorder	Standard	01/30/2002	12/30/2099	10	300	0	60	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4119603	233913007	Familial sick sinus syndrome	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37164405	1230303001	Fatal congenital hypertrophic cardiomyopathy due to glycogen storage disease	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4246167	60812006	Giant cell myocarditis	Disorder	Standard	01/30/2002	12/30/2099	240	240	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37162087	1186711002	GNB5-related intellectual disability, cardiac arrhythmia syndrome	Disorder	Standard	11/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4120086	233901002	His bundle tachycardia	Disorder	Standard	01/30/2002	12/30/2099	10	160	0	50	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+43020667	472317002	Histiocytoid mitochondrial cardiomyopathy	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+43021299	460500001	Histiocytoid mitochondrial cardiomyopathy due to cytochrome aa3 deficiency	Disorder	Standard	01/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Histiocytoid mitochondrial cardiomyopathy'"">1"
+36715372	721015008	Hydrocephalus with endocardial fibroelastosis and cataract syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+606060	1142082008	Idiopathic junctional ectopic tachycardia	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'His bundle tachycardia'"">1"
+37395937	715560009	Idiopathic neonatal atrial flutter	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37109917	723866006	Idiopathic ventricular fibrillation not Brugada type	Disorder	Standard	07/30/2017	12/30/2099	20	20	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4119600	233908008	Incessant infant ventricular tachycardia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36675178	771513008	Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4161597	373905003	Jervell and Lange-Nielsen syndrome	Disorder	Standard	07/30/2002	12/30/2099	60	60	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+40487105	447935001	Left ventricular myocardial noncompaction cardiomyopathy	Disorder	Standard	07/30/2011	12/30/2099	2,620	2,620	310	310	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37161011	1172839002	Lethal left ventricular non-compaction, seizures, hypotonia, cataract, developmental delay syndrome	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Left ventricular myocardial noncompaction cardiomyopathy'"">1"
+4153404	283645003	Lev's syndrome	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+437892	55475008	Lown-Ganong-Levine syndrome	Disorder	Standard	01/30/2002	12/30/2099	32,860	32,860	20,120	20,120	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37162422	1187642008	Macrocephaly, intellectual disability, left ventricular non compaction syndrome	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Left ventricular myocardial noncompaction cardiomyopathy'"">1"
+37119055	724173009	Maternally inherited cardiomyopathy and hearing loss syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37398927	715535009	Naxos disease	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4034100	237292005	Placental insufficiency	Disorder	Standard	01/30/2002	12/30/2099	699,800	699,800	229,560	229,560	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37167218	1264003007	Postcardiotomy acute right ventricular failure	Disorder	Standard	02/27/2023	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4124701	233903004	Postoperative His bundle tachycardia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'His bundle tachycardia'"">1"
+606073	1142098001	Postoperative junctional ectopic tachycardia	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+312383	62377009	Postpartum cardiomyopathy	Disorder	Standard	01/30/2002	12/30/2099	75,900	75,900	21,620	21,620	Condition	SNOMED	
+4220685	8239009	Primary endocardial fibroelastosis	Disorder	Standard	01/30/2002	12/30/2099	40	40	30	30	Condition	SNOMED	
+4101323	253543007	Primary endocardial fibroelastosis of left ventricle	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4100278	253523001	Primary endocardial fibroelastosis of right ventricle	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4141588	33258008	Primary eosinophilic endomyocardial restrictive cardiomyopathy	Disorder	Standard	01/30/2002	12/30/2099	45,660	45,660	8,450	8,450	Condition	SNOMED	
+4178584	52029003	Primary familial dilated cardiomyopathy	Disorder	Standard	01/30/2002	12/30/2099	230	250	50	60	Condition	SNOMED	
+37168357	1279844009	Primary triglyceride deposit cardiomyovasculopathy	Disorder	Standard	04/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4149725	30884007	Restrictive cardiomyopathy secondary to familial storage disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4049219	20852007	Romano-Ward syndrome	Disorder	Standard	01/30/2002	12/30/2099	70	70	10	10	Condition	SNOMED	
+37109990	723993005	Sensorineural deafness with dilated cardiomyopathy syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+44784236	698272007	Short QT syndrome	Disorder	Standard	01/30/2014	12/30/2099	20	20	10	10	Condition	SNOMED	
+37155430	1230096008	Timothy syndrome	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+44783199	699256006	Timothy syndrome type 1	Disorder	Standard	01/30/2014	12/30/2099	10	10	0	0	Condition	SNOMED	
+36714606	719907006	Timothy syndrome type 2	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397458	718104007	Torsade de pointes with short coupling interval syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396000	715655000	Transthyretin related familial amyloid cardiomyopathy	Disorder	Standard	07/30/2016	12/30/2099	290	290	60	60	Condition	SNOMED	
+37398931	715626008	Tropical endomyocardial fibrosis	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714549	719835006	Wooly hair and palmoplantar keratoderma with dilated cardiomyopathy syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	

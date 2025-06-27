@@ -1,0 +1,61 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+37109922	723871004	Acute occlusion of aortoiliac artery due to thrombosis	Disorder	Standard	07/30/2017	12/30/2099	40	40	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37109923	723872006	Acute occlusion of artery of lower limb due to thrombosis	Disorder	Standard	07/30/2017	12/30/2099	60	60	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37163078	1204216009	Acute occlusion of axillary artery due to thrombosis	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37163074	1204212006	Acute occlusion of brachial artery due to thrombosis	Disorder	Standard	02/27/2022	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37168346	1279832006	Acute occlusion of peripheral artery due to thrombosis	Disorder	Standard	04/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37163063	1204198001	Acute occlusion of superficial femoral artery due to thrombosis	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37163052	1204186006	Acute thrombotic common femoral artery occlusion	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37163050	1204184009	Acute thrombotic crural artery occlusion	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37163048	1204182008	Acute thrombotic iliac artery occlusion	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37163047	1204181001	Acute thrombotic popliteal artery occlusion	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37163046	1204180000	Acute thrombotic renal artery occlusion	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+37163044	1204178006	Acute thrombotic subclavian artery occlusion	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute occlusion of peripheral artery due to thrombosis'"">1"
+36715046	720512007	Arterial dissection and lentiginosis syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+43020870	458432002	Arterial tortuosity syndrome	Disorder	Standard	01/30/2013	12/30/2099	3,060	3,060	1,110	1,110	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36715051	720519003	Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4146840	35386004	Cavernous sinus syndrome	Disorder	Standard	01/30/2002	12/30/2099	1,920	1,920	1,210	1,210	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+607826	1156027008	Cerebral venous sinus thrombosis in pregnancy	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+607828	1156029006	Cerebral venous sinus thrombosis in puerperium	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4048786	230721009	Cerebral venous thrombosis of sigmoid sinus	Disorder	Standard	01/30/2002	12/30/2099	200	200	50	50	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4043735	230720005	Cerebral venous thrombosis of straight sinus	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+37398919	715364001	Familial abdominal aortic aneurysm	Disorder	Standard	07/30/2016	12/30/2099	40	40	30	30	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36713669	718602007	Hereditary arterial and articular multiple calcification syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4288737	68926002	Idiopathic arterial calcification of infancy	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37162744	1197364005	Idiopathic spontaneous coronary artery dissection	Disorder	Standard	02/27/2022	12/30/2099	120	120	60	60	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36716136	722020006	Juvenile temporal arteritis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4300580	403983000	Kaposiform hemangioendothelioma	Disorder	Standard	07/30/2003	12/30/2099	280	280	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37204239	782773005	Lethal arteriopathy syndrome due to fibulin-4 deficiency	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4262102	45894003	Medionecrosis of aorta	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37204212	782724001	Multisystemic smooth muscle dysfunction syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+45765438	702374000	Neonatal noninfectious cerebral venous sinus thrombosis	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+36717594	722930000	Neonatal thrombosis of cerebral venous sinus	Disorder	Standard	01/30/2017	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+314667	42970005	Nonpyogenic thrombosis of intracranial venous sinus	Disorder	Standard	01/30/2002	12/30/2099	142,710	142,710	37,700	37,700	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4111713	195229008	Non-pyogenic venous sinus thrombosis	Disorder	Standard	01/30/2002	12/30/2099	490	490	60	60	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+37109997	724002003	Rambaud Gallian syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4318524	95501007	Retinal arteriovenous malformation	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4083484	247127002	Retinal arteriovenous shunt	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Retinal arteriovenous malformation'"">1"
+4116206	302879007	Septic thrombophlebitis of cavernous sinus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4121335	302881009	Septic thrombophlebitis of lateral sinus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4119136	302880005	Septic thrombophlebitis of sagittal sinus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4041680	230223008	Septic thrombophlebitis of sigmoid sinus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4100225	192772009	Thrombophlebitis lateral venous sinus	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4217471	8166000	Thrombophlebitis of basilar sinus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4104695	192770001	Thrombophlebitis of cavernous sinus	Disorder	Standard	01/30/2002	12/30/2099	50	50	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4167985	48248005	Thrombophlebitis of inferior sagittal sinus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+764714	5511000124107	Thrombophlebitis of sigmoid sinus	Disorder	Standard	02/29/2012	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4100224	192771002	Thrombophlebitis of superior longitudinal venous sinus	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4098706	26954004	Thrombophlebitis of superior sagittal sinus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4277833	3681008	Thrombophlebitis of torcular Herophili	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4228209	88922007	Thrombosis of basilar sinus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cerebral venous sinus thrombosis'"">1"
+4234264	89980009	Thrombosis of cavernous venous sinus	Disorder	Standard	01/30/2002	12/30/2099	730	2,700	90	1,310	Condition	SNOMED	
+602658	1078223005	Thrombosis of cerebral venous sinus due to and following surgical procedure	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4048890	15742000	Thrombosis of inferior sagittal sinus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4057329	21258007	Thrombosis of lateral venous sinus	Disorder	Standard	01/30/2002	12/30/2099	140	140	40	40	Condition	SNOMED	
+4102203	192760003	Thrombosis of superior longitudinal sinus	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4290940	70607008	Thrombosis of superior sagittal sinus	Disorder	Standard	01/30/2002	12/30/2099	500	500	130	130	Condition	SNOMED	
+4079905	18322005	Thrombosis of torcular Herophili	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4105338	192761004	Thrombosis transverse sinus	Disorder	Standard	01/30/2002	12/30/2099	400	400	140	140	Condition	SNOMED	
+4111946	254786000	Tufted angioma of skin	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+36674834	770687001	Vasculitis due to adenosine deaminase 2 deficiency	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111947	254787009	Verrucous hemangioma of skin	Disorder	Standard	01/30/2002	12/30/2099	700	700	110	110	Condition	SNOMED	

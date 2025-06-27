@@ -1,0 +1,1 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors

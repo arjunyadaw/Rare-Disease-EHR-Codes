@@ -1,0 +1,452 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+4141029	425879009	AA amyloid nephropathy	Disorder	Standard	07/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'AA amyloidosis'"">1"
+4161207	371627004	ACE inhibitor-aggravated angioedema	Disorder	Standard	07/30/2002	12/30/2099	1,770	1,770	1,070	1,070	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+45766603	703802001	Acquired angioedema due to C1 inhibitor autoantibody	Disorder	Standard	07/30/2014	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acquired C1 esterase inhibitor deficiency'"">1"
+45766602	703801008	Acquired angioedema due to lymphoproliferative disorder	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acquired C1 esterase inhibitor deficiency'"">1"
+4086741	241955009	Acquired C1 esterase inhibitor deficiency	Disorder	Standard	01/30/2002	12/30/2099	140	150	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+314381	75053002	Acute febrile mucocutaneous lymph node syndrome	Disorder	Standard	01/30/2002	12/30/2099	537,090	537,090	110,410	110,410	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4294427	402856005	Acute hemorrhagic edema of childhood	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Immunoglobulin A vasculitis'"">1"
+607766	1155919006	Acute rheumatic aortitis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+4216531	81077008	Acute rheumatic arthritis	Disorder	Standard	01/30/2002	12/30/2099	100	100	60	60	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+606882	1148763004	Acute rheumatic carditis	Disorder	Standard	07/30/2021	12/30/2099	0	124,000	0	51,840	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+437897	18192007	Acute rheumatic endocarditis	Disorder	Standard	01/30/2002	12/30/2099	95,270	95,270	37,550	37,550	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+40394098	195528001	Acute rheumatic fever	Disorder	Standard	07/30/2021	12/30/2099	1,400	224,610	110	85,730	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+313500	312591002	Acute rheumatic heart disease	Disorder	Standard	01/30/2002	12/30/2099	76,790	223,090	23,940	85,550	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+321578	194709000	Acute rheumatic myocarditis	Disorder	Standard	01/30/2002	12/30/2099	28,700	28,700	14,290	14,290	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+4271684	64072006	Acute rheumatic pancarditis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+321586	15676002	Acute rheumatic pericarditis	Disorder	Standard	01/30/2002	12/30/2099	22,300	22,300	9,770	9,770	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+4225090	84871007	Acute rheumatic valvulitis	Disorder	Standard	01/30/2002	12/30/2099	30	30	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Rheumatic fever'"">1"
+4125793	234529004	Acute sarcoid polymyositis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'PolymyositisSarcoidosis'"">2"
+4126439	236503001	Acute scleroderma renal crisis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Systemic sclerosis'"">1"
+4033803	238674006	Acute skin sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Sarcoidosis'"">1"
+4295179	403486000	Acute systemic lupus erythematosus	Disorder	Standard	07/30/2003	12/30/2099	220	220	110	110	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Systemic lupus erythematosus'"">1"
+4270868	402425006	Adult onset dermatomyositis	Disorder	Standard	07/30/2003	12/30/2099	1,420	1,420	80	80	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4344166	239920006	Adult onset Still's disease	Disorder	Standard	01/30/2002	12/30/2099	129,820	129,820	15,860	15,860	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+46270492	328611000119105	Adult pulmonary Langerhans cell histiocytosis	Disorder	Standard	07/30/2015	12/30/2099	34,500	34,500	9,140	9,140	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Langerhans cell histiocytosis'"">1"
+37204494	783160006	AGel amyloidosis	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37164452	1231149005	AH amyloidosis	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4047607	23132008	AL amyloidosis	Disorder	Standard	01/30/2002	12/30/2099	335,360	335,380	20,420	20,430	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37164101	1228881003	ALECT2 amyloidosis	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4224628	402453006	Amyloid light chain amyloidosis due to multiple myeloma	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'AL amyloidosis'"">1"
+4145221	426598005	Amyloid light-chain nephropathy	Disorder	Standard	07/30/2007	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'AL amyloidosis'"">1"
+37203942	785808002	Aneurysm osteoarthritis syndrome	Disorder	Standard	07/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+600750	1144986007	Annular sarcoidosis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Sarcoidosis'"">1"
+40482477	445187004	Antisynthetase syndrome	Disorder	Standard	07/30/2010	12/30/2099	730	770	110	120	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+3654673	838366009	Anti-synthetase syndrome due to dermatomyositis	Disorder	Standard	07/30/2020	12/30/2099	40	40	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Antisynthetase syndrome'"">1"
+606431	1144974009	Antisynthetase syndrome due to polymyositis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Antisynthetase syndrome'"">1"
+4205583	55711009	Arthrochalasia Ehlers-Danlos syndrome	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4297510	402369000	Atrophic sarcoidosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Sarcoidosis'"">1"
+37163924	1222681008	Autoimmune hemolytic anemia, autoimmune thrombocytopenia, primary immunodeficiency syndrome	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37163922	1222679006	Autoimmune interstitial lung disease, arthritis syndrome	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36716322	722292000	Autosomal dominant beta2-microglobulinic amyloidosis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36676444	773333003	Autosomal systemic lupus erythematosus	Disorder	Standard	01/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37165255	1251499005	B3GALT6-related spondylodysplastic Ehlers-Danlos syndrome	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+606384	1144919009	Behcet disease of eye	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Behcet\'s syndrome'"">1"
+606379	1144914004	Behcet disease of skin	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Behcet\'s syndrome'"">1"
+37162898	1197742004	Behçet disease of small intestine	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Behcet\'s syndrome'"">1"
+4293711	403443000	Behçet's disease affecting oral mucosa	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Behcet\'s syndrome'"">1"
+4343930	239922003	Behcet's disease with multisystem involvement	Disorder	Standard	01/30/2002	12/30/2099	80	80	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Behcet\'s syndrome'"">1"
+4347061	239921005	Behcet's disease with organ/system involvement	Disorder	Standard	01/30/2002	12/30/2099	780	780	30	30	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Behcet\'s syndrome'"">1"
+436642	310701003	Behcet's syndrome	Disorder	Standard	01/30/2002	12/30/2099	554,270	607,190	45,350	46,790	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4211990	57484009	Behcet's syndrome, complete type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4203452	53485006	Behcet's syndrome, incomplete type	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4202809	54034003	Behcet's syndrome, intestinal type	Disorder	Standard	01/30/2002	12/30/2099	47,280	47,280	1,170	1,170	Condition	SNOMED	
+4070155	21542005	Behcet's syndrome, neurologic type	Disorder	Standard	01/30/2002	12/30/2099	4,330	4,330	190	190	Condition	SNOMED	
+4138971	3275009	Behcet's syndrome, vascular type	Disorder	Standard	01/30/2002	12/30/2099	420	420	30	30	Condition	SNOMED	
+4240837	58144006	Benign cutaneous periarteritis nodosa	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37311774	818950005	Blau syndrome	Disorder	Standard	01/30/2020	12/30/2099	60	70	10	10	Condition	SNOMED	
+36714021	719096006	Brittle cornea syndrome	Disorder	Standard	01/30/2017	12/30/2099	20	20	10	10	Condition	SNOMED	
+4082349	238985006	Bullous pyoderma	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4346976	239889005	Bullous systemic lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+3654622	838314000	Calcific arteriolopathy due to uremia	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4028960	237900002	Calciphylaxis	Disorder	Standard	01/30/2002	12/30/2099	910	970	260	290	Condition	SNOMED	
+37397029	717043006	Calciphylaxis cutis	Disorder	Standard	07/30/2016	12/30/2099	60	60	30	30	Condition	SNOMED	
+36674262	771187008	Camptodactyly, arthropathy, coxa-vara, pericarditis syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4326751	75403004	Cardiac sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	2,100	164,940	430	17,530	Condition	SNOMED	
+36715121	720609003	Cardiomyopathy with cataract and hip spine disease syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+43530808	609329007	Catastrophic antiphospholipid syndrome	Disorder	Standard	07/30/2013	12/30/2099	20	20	10	10	Condition	SNOMED	
+37162095	1186720006	CEBPE-associated autoinflammation, immunodeficiency, neutrophil dysfunction syndrome	Disorder	Standard	11/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4045751	230732009	Cerebral arteritis in giant cell arteritis	Disorder	Standard	01/30/2002	12/30/2099	150	150	50	50	Condition	SNOMED	
+4008088	111936002	Cerebral sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+4005037	1212005	Childhood type dermatomyositis	Disorder	Standard	01/30/2002	12/30/2099	136,110	139,150	7,830	8,340	Condition	SNOMED	
+4079739	239826001	Chronic infantile neurological, cutaneous and articular syndrome	Disorder	Standard	01/30/2002	12/30/2099	150	150	10	10	Condition	SNOMED	
+37163124	1204420006	Chronic nonbacterial osteomyelitis/chronic recurrent multifocal osteomyelitis	Disorder	Standard	02/27/2022	12/30/2099	148,680	148,680	12,460	12,460	Condition	SNOMED	
+4121276	234530009	Chronic sarcoid myopathy	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033804	238678009	Chronic skin sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	20	60	0	10	Condition	SNOMED	
+4126944	236744002	Circinate balanitis co-occurrent with reactive arthritis triad	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4221664	402338004	Circinate vulvovaginitis co-occurrent with reactive arthritis triad	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674514	778022009	Classical-like Ehlers-Danlos syndrome type 1	Disorder	Standard	01/30/2019	12/30/2099	190	190	60	60	Condition	SNOMED	
+37165568	1255121003	Classical-like Ehlers-Danlos syndrome type 2	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4233620	405810005	Cogan's syndrome	Disorder	Standard	01/30/2004	12/30/2099	200	200	40	40	Condition	SNOMED	
+35622010	763318007	Connective tissue disorder due to lysyl hydroxylase-3 deficiency	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715220	720751000	Corticosteroid sensitive aseptic abscess syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4135937	31848007	CREST syndrome	Disorder	Standard	01/30/2002	12/30/2099	522,860	522,860	59,910	59,910	Condition	SNOMED	
+4266527	62382002	CRST syndrome	Disorder	Standard	01/30/2002	12/30/2099	40	40	20	20	Condition	SNOMED	
+4096220	190815001	Cryoglobulinemic vasculitis	Disorder	Standard	01/30/2002	12/30/2099	100	110	40	40	Condition	SNOMED	
+37397552	718217000	Cutaneous leukocytoclastic angiitis	Disorder	Standard	07/30/2016	12/30/2099	760	760	210	210	Condition	SNOMED	
+4347062	239926000	Cutaneous polyarteritis nodosa	Disorder	Standard	01/30/2002	12/30/2099	110	110	20	20	Condition	SNOMED	
+4185547	55941000	Cutaneous sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	110,480	110,780	26,970	27,060	Condition	SNOMED	
+37164402	1230290005	Cytokine release syndrome due to chimeric antigen receptor T-cell immunotherapy	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37205061	784339002	Deficiency of interleukin 36 receptor antagonist	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110516	724780002	Demyelination of central nervous system co-occurrent and due to neurosarcoidosis	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110517	724781003	Demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110519	724783000	Demyelination of central nervous system due to Behcet disease	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164984	1237225007	Dermatosparaxis Ehlers-Danlos syndrome	Disorder	Standard	08/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+606390	1144925008	Diffuse systemic sclerosis of childhood	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+42535092	15960021000119107	Dilatation of aortic root due to Marfan's syndrome	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+42535191	16055631000119106	Disorder of cardiovascular system co-occurrent and due to Marfan syndrome	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+42535108	15993551000119100	Disorder of eye co-occurrent and due to Marfan syndrome	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+765021	16052791000119105	Disorder of skeletal system co-occurrent and due to Marfan syndrome	Disorder	Standard	02/28/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+46286606	988081000000103	Drug-associated ANCA (antineutrophil cytoplasmic antibody) associated vasculitis	Disorder	Standard	09/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+4198217	80258006	Drug-induced lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	660	91,260	240	28,420	Condition	SNOMED	
+4263547	61458006	Drug-induced lupus erythematosus due to diphenylhydantoin	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4208241	54912002	Drug-induced lupus erythematosus due to hydralazine	Disorder	Standard	01/30/2002	12/30/2099	100	100	40	40	Condition	SNOMED	
+4119296	22888007	Drug-induced lupus erythematosus due to procainamide	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4344160	239900005	Drug-induced polymyositis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4063581	201436003	Drug-induced systemic lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	90,500	90,500	28,140	28,140	Condition	SNOMED	
+4035612	239799007	Early onset polyarticular juvenile chronic arthritis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37116658	733457006	Ehlers-Danlos and osteogenesis imperfecta syndrome	Disorder	Standard	07/30/2017	12/30/2099	10	10	10	10	Condition	SNOMED	
+36715308	720858001	Ehlers-Danlos syndrome cardiac valvular type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395762	715318006	Ehlers-Danlos syndrome classic type	Disorder	Standard	07/30/2016	12/30/2099	31,250	31,590	5,600	5,620	Condition	SNOMED	
+37168898	1287094005	Ehlers-Danlos syndrome classic type 2	Disorder	Standard	07/30/2023	12/30/2099	150	150	40	40	Condition	SNOMED	
+4106173	25606004	Ehlers-Danlos syndrome, hydroxylysine-deficient	Disorder	Standard	01/30/2002	12/30/2099	0	40	0	0	Condition	SNOMED	
+36717138	720859009	Ehlers-Danlos syndrome kyphoscoliotic and deafness type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397547	718211004	Ehlers-Danlos syndrome kyphoscoliotic type	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715309	720860004	Ehlers-Danlos syndrome musculocontractural type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715310	720861000	Ehlers-Danlos syndrome progeroid type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676402	773276004	Ehlers-Danlos syndrome spondylocheirodysplastic type	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4124672	233771008	Endobronchial sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4301289	403735006	Eosinophilia-myalgia syndrome from tryptophan	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4299977	403634001	Eosinophilic fasciitis due to L-tryptophan	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080910	238476000	Eosinophilic granuloma of bone	Disorder	Standard	01/30/2002	12/30/2099	90	90	20	20	Condition	SNOMED	
+4214006	8090002	Eosinophilic granuloma of oral mucosa	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4305666	82275008	Eosinophilic granulomatosis with polyangiitis	Disorder	Standard	01/30/2002	12/30/2099	8,050	8,050	220	220	Condition	SNOMED	
+4345576	240120003	Eosinophilic polymyositis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+44783444	699537002	Erdheim-Chester disease	Disorder	Standard	01/30/2014	12/30/2099	930	930	20	20	Condition	SNOMED	
+4064046	200951007	Erythema marginatum in acute rheumatic fever	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+608076	1156819003	Extended oligoarticular onset antinuclear antibody negative juvenile idiopathic arthritis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+608075	1156817001	Extended oligoarticular onset antinuclear antibody positive juvenile idiopathic arthritis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4034712	15123008	Familial amyloid nephropathy with urticaria AND deafness	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4324953	71322004	Familial articular hypermobility syndrome	Disorder	Standard	01/30/2002	12/30/2099	320	320	150	150	Condition	SNOMED	
+37160590	1162808000	Familial calcium pyrophosphate dihydrate crystal deposition disease	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033845	238687000	Familial cold urticaria	Disorder	Standard	01/30/2002	12/30/2099	70	80	10	10	Condition	SNOMED	
+193445	12579009	Familial Mediterranean fever	Disorder	Standard	01/30/2002	12/30/2099	76,700	76,700	18,990	18,990	Condition	SNOMED	
+4083100	24129002	Fasciitis with eosinophilia syndrome	Disorder	Standard	01/30/2002	12/30/2099	45,560	45,560	7,380	7,380	Condition	SNOMED	
+81097	57160007	Felty's syndrome	Disorder	Standard	01/30/2002	12/30/2099	203,160	203,160	44,240	44,240	Condition	SNOMED	
+37160417	1162362005	Felty syndrome with seronegative erosive rheumatoid arthritis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160421	1162364006	Felty syndrome with seronegative rheumatoid arthritis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4266181	399964004	Fibroblastic rheumatism	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4296502	403487009	Fulminating systemic lupus erythematosus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4321687	7021009	Gastrointestinal eosinophilic granuloma	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4347064	239939001	Giant cell arteritis without polymyalgia rheumatica	Disorder	Standard	01/30/2002	12/30/2099	280	280	100	100	Condition	SNOMED	
+4343935	239938009	Giant cell arteritis with polymyalgia rheumatica	Disorder	Standard	01/30/2002	12/30/2099	164,450	164,450	29,500	29,500	Condition	SNOMED	
+37397763	89681000119101	Glomerulonephritis co-occurrent and due to scleroderma	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+195289	50581000	Goodpasture's syndrome	Disorder	Standard	01/30/2002	12/30/2099	39,660	39,660	5,180	5,180	Condition	SNOMED	
+313223	195353004	Granulomatosis with polyangiitis	Disorder	Standard	01/30/2002	12/30/2099	1,340,740	1,613,550	90,820	114,500	Condition	SNOMED	
+4122119	235000001	Granulomatosis with polyangiitis of gingiva	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4048502	232460001	Granulomatosis with polyangiitis of larynx	Disorder	Standard	01/30/2002	12/30/2099	80	80	10	10	Condition	SNOMED	
+4048178	232369001	Granulomatosis with polyangiitis of nose	Disorder	Standard	01/30/2002	12/30/2099	130	130	40	40	Condition	SNOMED	
+37164701	1231671001	Granulomatosis with polyangiitis of orbit	Disorder	Standard	08/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4344493	239936008	Granulomatosis with polyangiitis with multisystem involvement	Disorder	Standard	01/30/2002	12/30/2099	272,280	272,280	23,540	23,540	Condition	SNOMED	
+44783868	699861000	Granulomatous inflammatory arthritis, dermatitis and uveitis, familial	Disorder	Standard	01/30/2014	12/30/2099	10	10	0	0	Condition	SNOMED	
+4290339	37061001	Granulomatous sarcoid nephropathy	Disorder	Standard	01/30/2002	12/30/2099	5,900	5,900	1,460	1,460	Condition	SNOMED	
+4217892	39795003	Hand-Schüller-Christian disease	Disorder	Standard	01/30/2002	12/30/2099	14,850	14,850	2,160	2,160	Condition	SNOMED	
+4185737	4416007	Heerfordt's syndrome	Disorder	Standard	01/30/2002	12/30/2099	40	40	30	30	Condition	SNOMED	
+4137616	32599008	Hemodialysis-associated amyloidosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4297658	402458002	Hemodialysis-associated secondary amyloidosis of skin	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4058697	197368002	Hepatic granulomas in sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	110	110	60	60	Condition	SNOMED	
+46286609	988111000000106	Hepatitis C virus-associated cryoglobulinaemic vasculitis	Disorder	Standard	09/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164295	1230015008	Hereditary angioedema with C1Inh (C1 esterase inhibitor) deficiency	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4140613	427167008	Hereditary angioedema with normal C1 esterase inhibitor activity	Disorder	Standard	07/30/2007	12/30/2099	20	20	10	10	Condition	SNOMED	
+4120778	234619000	Hereditary C1 esterase inhibitor deficiency - deficient factor	Disorder	Standard	01/30/2002	12/30/2099	90	90	40	40	Condition	SNOMED	
+4125819	234620006	Hereditary C1 esterase inhibitor deficiency - dysfunctional factor	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+37162248	1187119002	Hereditary pediatric Behçet-like disease	Disorder	Standard	11/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165500	1254916008	Hidradenitis suppurativa pyoderma gangrenosum complex	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4119929	233744008	Hilar lymph node sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4130834	127217009	Histiocytic necrotizing lymphadenitis	Disorder	Standard	01/30/2002	12/30/2099	9,030	9,030	1,450	1,450	Condition	SNOMED	
+36715522	721226005	Hughes Stovin syndrome	Disorder	Standard	01/30/2017	12/30/2099	10	10	10	10	Condition	SNOMED	
+4148925	30652003	Hypermobile Ehlers-Danlos syndrome	Disorder	Standard	01/30/2002	12/30/2099	166,840	166,840	29,730	29,730	Condition	SNOMED	
+4347066	239945009	Hypocomplementemic urticarial vasculitis	Disorder	Standard	01/30/2002	12/30/2099	160	160	80	80	Observation	SNOMED	
+4270858	402373002	Hypomelanotic sarcoidosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+606434	1144977002	Hypomyopathic juvenile dermatomyositis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4292359	402368008	Ichthyosiform sarcoidosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084780	281357005	Idiopathic polymyositis	Disorder	Standard	01/30/2002	12/30/2099	160	160	50	50	Condition	SNOMED	
+35624116	766704005	Idiopathic recurrent pericarditis	Disorder	Standard	07/30/2018	12/30/2099	330	330	120	120	Condition	SNOMED	
+36716713	722870008	IgG4-related sclerosing cholangitis	Disorder	Standard	01/30/2017	12/30/2099	30	30	10	10	Condition	SNOMED	
+4101602	191306005	Immunoglobulin A vasculitis	Disorder	Standard	01/30/2002	12/30/2099	693,010	693,040	239,440	239,460	Condition	SNOMED	
+37162345	1187508009	Immunoglobulin G4 related aortitis	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717255	10743271000119103	Immunoglobulin G4 related disease	Disorder	Standard	01/30/2017	12/30/2099	2,400	2,400	340	340	Condition	SNOMED	
+37165593	1255207005	Immunoglobulin G4 related eosinophilic angiocentric fibrosis	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162135	1186834004	Immunoglobulin G4 related hypophysitis	Disorder	Standard	11/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162344	1187507004	Immunoglobulin G4 related kidney disease	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162346	1187510006	Immunoglobulin G4 related ophthalmic disease	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+42538553	762282007	Immunoglobulin G4 related pachymeningitis	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37167219	1264005000	Immunoglobulin G4 related submandibular gland disease	Disorder	Standard	02/27/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676439	773328002	Infantile onset panniculitis with uveitis and systemic granulomatosis	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+46273949	711286009	Intermittent effusion of joint	Disorder	Standard	07/30/2015	12/30/2099	37,390	37,390	16,910	16,910	Condition	SNOMED	
+37310663	310931000119102	Intermittent hydrarthrosis of left knee	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37310662	311011000119104	Intermittent hydrarthrosis of right knee	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674393	773732005	Interstitial granulomatous dermatitis with arthritis	Disorder	Standard	01/30/2019	12/30/2099	30	30	10	10	Condition	SNOMED	
+35624123	766711009	Isolated sternocostoclavicular hyperostosis	Disorder	Standard	07/30/2018	12/30/2099	10	10	0	0	Condition	SNOMED	
+37395588	311671000119100	Juvenile dermatomyositis co-occurrent with respiratory involvement	Disorder	Standard	07/30/2016	12/30/2099	3,040	3,040	510	510	Condition	SNOMED	
+606385	1144920003	Juvenile dermatomyositis overlap syndrome	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4253902	410801005	Juvenile idiopathic arthritis, enthesitis related arthritis	Disorder	Standard	07/30/2004	12/30/2099	1,180	1,180	120	120	Condition	SNOMED	
+4261027	410800006	Juvenile idiopathic arthritis, extended oligoarthritis	Disorder	Standard	07/30/2004	12/30/2099	500	500	60	60	Condition	SNOMED	
+4132811	410798004	Juvenile idiopathic arthritis, oligoarthritis	Disorder	Standard	07/30/2004	12/30/2099	103,430	104,090	16,740	16,840	Condition	SNOMED	
+4132812	410799007	Juvenile idiopathic arthritis, persistent oligoarthritis	Disorder	Standard	07/30/2004	12/30/2099	160	160	40	40	Condition	SNOMED	
+42538014	738526005	Juvenile polymyositis	Disorder	Standard	01/30/2018	12/30/2099	60	60	0	0	Condition	SNOMED	
+606380	1144915003	Juvenile polymyositis due to paraneoplastic syndrome	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4079733	239802003	Juvenile psoriatic arthritis	Disorder	Standard	01/30/2002	12/30/2099	13,250	13,400	2,200	2,220	Condition	SNOMED	
+4079734	239803008	Juvenile psoriatic arthritis with psoriasis	Disorder	Standard	01/30/2002	12/30/2099	120	120	20	20	Condition	SNOMED	
+4035429	239808004	Juvenile reactive arthritis triad	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4132810	410797009	Juvenile seronegative polyarthritis	Disorder	Standard	07/30/2004	12/30/2099	327,890	327,900	32,600	32,600	Condition	SNOMED	
+4132809	410796000	Juvenile seropositive polyarthritis	Disorder	Standard	07/30/2004	12/30/2099	930	930	80	80	Condition	SNOMED	
+36716136	722020006	Juvenile temporal arteritis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4269872	399894006	Kimura's disease	Disorder	Standard	07/30/2003	12/30/2099	1,480	1,480	160	160	Condition	SNOMED	
+4125792	234527002	Lacrimal and parotid gland sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163584	1217370006	LAMA5-related multisystemic syndrome	Disorder	Standard	04/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4038846	118614007	Langerhans cell histiocytosis, disseminated (clinical)	Disorder	Standard	01/30/2002	12/30/2099	27,610	46,300	3,550	8,100	Condition	SNOMED	
+4301782	404160007	Langerhans cell histiocytosis - Hashimoto-Pritzker type	Disorder	Standard	07/30/2003	12/30/2099	50	50	10	10	Condition	SNOMED	
+45772935	707431006	Langerhans cell histiocytosis of diaper area	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+4213396	417152008	Langerhans cell histiocytosis of lung	Disorder	Standard	07/30/2005	12/30/2099	240	35,340	60	9,340	Condition	SNOMED	
+45768901	707432004	Langerhans cell histiocytosis of skin	Disorder	Standard	01/30/2015	12/30/2099	60	60	10	10	Condition	SNOMED	
+4051616	232458003	Laryngeal sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+444467	93133006	Letterer-Siwe disease of intra-abdominal lymph nodes	Disorder	Standard	01/30/2002	12/30/2099	500	560	170	200	Condition	SNOMED	
+196363	93134000	Letterer-Siwe disease of intrapelvic lymph nodes	Disorder	Standard	01/30/2002	12/30/2099	60	60	30	30	Condition	SNOMED	
+434595	93135004	Letterer-Siwe disease of intrathoracic lymph nodes	Disorder	Standard	01/30/2002	12/30/2099	370	370	110	110	Condition	SNOMED	
+37165795	1255740000	Letterer-Siwe disease of lymph nodes of head	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165797	1255742008	Letterer-Siwe disease of lymph nodes of head and neck	Disorder	Standard	11/29/2022	12/30/2099	650	650	180	180	Condition	SNOMED	
+37165850	1255885008	Letterer-Siwe disease of lymph nodes of lower limb	Disorder	Standard	11/29/2022	12/30/2099	160	160	30	30	Condition	SNOMED	
+141814	93139005	Letterer-Siwe disease of lymph nodes of multiple sites	Disorder	Standard	01/30/2002	12/30/2099	2,290	2,290	390	390	Condition	SNOMED	
+37165796	1255741001	Letterer-Siwe disease of lymph nodes of neck	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165839	1255813007	Letterer-Siwe disease of lymph nodes of upper limb	Disorder	Standard	11/29/2022	12/30/2099	110	110	30	30	Condition	SNOMED	
+197816	93140007	Letterer-Siwe disease of spleen	Disorder	Standard	01/30/2002	12/30/2099	460	460	20	20	Condition	SNOMED	
+4033805	238681004	Lichenoid sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4344492	239935007	Limited granulomatosis with polyangiitis	Disorder	Standard	01/30/2002	12/30/2099	320	320	90	90	Condition	SNOMED	
+4344157	239886003	Limited lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	130	130	60	60	Condition	SNOMED	
+4103019	299276009	Limited systemic sclerosis	Disorder	Standard	01/30/2002	12/30/2099	2,630	526,480	430	60,840	Condition	SNOMED	
+4224167	84241008	Lipoid dermatoarthritis	Disorder	Standard	01/30/2002	12/30/2099	70,860	70,860	29,120	29,120	Condition	SNOMED	
+40486979	446263001	Loeys-Dietz syndrome	Disorder	Standard	01/30/2011	12/30/2099	650	650	140	140	Condition	SNOMED	
+4081069	238676008	Lofgrens syndrome	Disorder	Standard	01/30/2002	12/30/2099	110	110	30	30	Condition	SNOMED	
+4055369	196136009	Lung disease with polymyositis	Disorder	Standard	01/30/2002	12/30/2099	41,470	41,470	4,080	4,080	Condition	SNOMED	
+4055640	196138005	Lung disease with systemic lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	127,500	127,500	20,480	20,480	Condition	SNOMED	
+4299106	77753005	Lupus disease of the lung	Disorder	Standard	01/30/2002	12/30/2099	610	610	50	50	Condition	SNOMED	
+4057084	19682006	Lupus hepatitis	Disorder	Standard	01/30/2002	12/30/2099	50	50	30	30	Condition	SNOMED	
+4344399	239888002	Lupus panniculitis	Disorder	Standard	01/30/2002	12/30/2099	2,840	2,840	200	200	Condition	SNOMED	
+4274184	64757003	Lymph node sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	58,730	58,790	17,810	17,840	Condition	SNOMED	
+4325546	430478003	Macrophage activation syndrome	Disorder	Standard	07/30/2008	12/30/2099	2,300	2,300	180	180	Condition	SNOMED	
+603150	1156801007	Macrophage activation syndrome due to juvenile systemic onset arthritis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4031156	238677004	Maculopapular sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033368	238850005	MAGIC syndrome	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+45766392	703540008	Majeed syndrome	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297359	404167005	Malakoplakia (involving skin)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4327335	75073007	Malakoplakia of bladder	Disorder	Standard	01/30/2002	12/30/2099	40	40	20	20	Condition	SNOMED	
+4024250	11683003	Malakoplakia of colon	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4192559	39326005	Malakoplakia of ileum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4128209	236459009	Malakoplakia of kidney	Disorder	Standard	01/30/2002	12/30/2099	60	60	0	0	Condition	SNOMED	
+4136064	31595004	Malakoplakia of rectum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4263855	60871005	Malakoplakia of stomach	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4174255	423352002	Malakoplakia of urethra	Disorder	Standard	01/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+4211698	57201002	Marfanoid joint hypermobility syndrome	Disorder	Standard	01/30/2002	12/30/2099	100	100	50	50	Condition	SNOMED	
+258540	19346006	Marfan's syndrome	Disorder	Standard	01/30/2002	12/30/2099	758,930	759,030	101,480	101,530	Condition	SNOMED	
+4124854	234035006	Marfan's syndrome affecting skin	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+604613	1003407000	Marfan syndrome type 1	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4120273	233743002	Mediastinal lymph node sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	50	50	20	20	Condition	SNOMED	
+606328	1144805008	Microscopic polyangiitis	Disorder	Standard	07/30/2021	12/30/2099	150,010	150,010	16,110	16,110	Condition	SNOMED	
+4301630	7826003	Mikulicz's disease	Disorder	Standard	01/30/2002	12/30/2099	130	130	110	110	Condition	SNOMED	
+4134867	398049005	Mixed collagen vascular disease	Disorder	Standard	07/30/2003	12/30/2099	8,680	9,270	1,590	1,790	Condition	SNOMED	
+36713633	718551002	Moyamoya disease with early onset achalasia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396889	716868003	Multicentric osteolysis nodulosis arthropathy spectrum	Disorder	Standard	07/30/2016	12/30/2099	30	30	0	0	Condition	SNOMED	
+37165567	1255116001	Myopathic Ehlers-Danlos syndrome	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4223486	402339007	Nail dystrophy co-occurrent with reactive arthritis triad	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+45765498	702449004	Nakajo-Nishimura syndrome	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+4051482	232368009	Nasal sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	30	60	10	30	Condition	SNOMED	
+4123082	234528007	Nasopharyngeal sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4006973	111292008	Necrotizing sarcoid granulomatosis	Disorder	Standard	01/30/2002	12/30/2099	70	70	20	20	Condition	SNOMED	
+4292535	402662002	Necrotizing vasculitis due to mixed cryoglobulinemia	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+36674479	774084003	Neonatal antiphospholipid syndrome	Disorder	Standard	01/30/2019	12/30/2099	870	870	90	90	Condition	SNOMED	
+36674478	774083009	Neonatal autoimmune hemolytic anemia	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674477	774082004	Neonatal dermatomyositis	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4316373	95609003	Neonatal lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	630	630	40	40	Condition	SNOMED	
+35622379	763839005	Neonatal Marfan syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674475	774080007	Neonatal scleroderma	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+46270384	295101000119105	Nephropathy co-occurrent and due to systemic lupus erythematosus	Disorder	Standard	07/30/2015	12/30/2099	120	1,324,950	60	96,550	Condition	SNOMED	
+37395585	295111000119108	Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus	Disorder	Standard	07/30/2016	12/30/2099	20	20	10	10	Condition	SNOMED	
+4045980	230193008	Neurosarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	1,340	18,420	300	3,760	Condition	SNOMED	
+37167220	1264006004	NLRC4-related familial cold autoinflammatory syndrome	Disorder	Standard	02/27/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204482	783146009	NLRP12-associated hereditary periodic fever syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4203919	54072008	Nonbacterial verrucal endocardiosis	Disorder	Standard	01/30/2002	12/30/2099	140	140	20	20	Condition	SNOMED	
+3655873	870350001	Non-uremic calcific arteriolopathy	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4291432	402712002	Occupational scleroderma	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4123081	234526006	Ocular sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	160	200	60	90	Condition	SNOMED	
+4122761	235066005	Oral lesion co-occurrent with reactive arthritis triad	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4121277	234531008	Orofacial sarcoid	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35623129	765435009	OTULIN-related autoinflammatory syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655857	870334009	Palmoplantar sarcoidosis	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033330	238680003	Papular sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299992	403702001	Parastomal pyoderma gangrenosum	Disorder	Standard	07/30/2003	12/30/2099	30	30	10	10	Condition	SNOMED	
+37119141	724603009	Pediatric onset systemic sclerosis	Disorder	Standard	07/30/2017	12/30/2099	20	20	0	0	Condition	SNOMED	
+4337524	87442008	Pericarditis secondary to scleroderma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4101469	25380002	Pericarditis secondary to systemic lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	530	530	60	60	Condition	SNOMED	
+37162801	1197594000	Periodic fever, infantile enterocolitis, autoinflammatory syndrome	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4176273	50869007	Periodontal Ehlers-Danlos syndrome	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+608034	1156765006	Persistent onset antinuclear antibody negative juvenile idiopathic oligoarthritis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+608035	1156766007	Persistent onset antinuclear antibody positive juvenile idiopathic oligoarthritis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+81382	95412009	Pigmented villonodular synovitis	Disorder	Standard	01/30/2002	12/30/2099	97,510	2,502,920	29,220	1,096,800	Condition	SNOMED	
+40483792	445476000	Pigmented villonodular synovitis of ankle joint	Disorder	Standard	07/30/2010	12/30/2099	20	20	10	10	Condition	SNOMED	
+40482933	445304002	Pigmented villonodular synovitis of hip joint	Disorder	Standard	07/30/2010	12/30/2099	45,480	45,480	16,610	16,610	Condition	SNOMED	
+37207836	323621000119108	Pigmented villonodular synovitis of joint of left knee	Disorder	Standard	07/30/2019	12/30/2099	180	180	20	20	Condition	SNOMED	
+37207837	323691000119105	Pigmented villonodular synovitis of joint of right knee	Disorder	Standard	07/30/2019	12/30/2099	30	30	20	20	Condition	SNOMED	
+40482890	445266000	Pigmented villonodular synovitis of knee joint	Disorder	Standard	07/30/2010	12/30/2099	171,930	172,140	74,430	74,470	Condition	SNOMED	
+761213	15664881000119106	Pigmented villonodular synovitis of right foot	Disorder	Standard	02/28/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676680	773646003	PLCG2-associated antibody deficiency and immune dysregulation	Disorder	Standard	01/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+320749	155441006	Polyarteritis nodosa	Disorder	Standard	07/30/2003	12/30/2099	256,350	256,590	60,380	60,400	Condition	SNOMED	
+4343932	239927009	Polyarteritis nodosa with multi-organ involvement	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4343931	239925001	Polyarteritis nodosa with single organ involvement	Disorder	Standard	01/30/2002	12/30/2099	120	120	0	0	Condition	SNOMED	
+255348	65323003	Polymyalgia rheumatica	Disorder	Standard	01/30/2002	12/30/2099	9,063,500	9,227,950	1,215,960	1,245,460	Condition	SNOMED	
+80800	31384009	Polymyositis	Disorder	Standard	01/30/2002	12/30/2099	3,154,930	3,196,720	351,970	356,150	Condition	SNOMED	
+4346977	239899000	Polymyositis associated with autoimmune disease	Disorder	Standard	01/30/2002	12/30/2099	100	100	50	50	Condition	SNOMED	
+606403	1144944001	Polymyositis overlap syndrome	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4343926	239898008	Polymyositis with malignant disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4344255	239946005	Postinfective immunoglobulin A vasculitis	Disorder	Standard	01/30/2002	12/30/2099	30	30	20	20	Condition	SNOMED	
+36674917	770903003	Postorgasmic illness syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4347058	239912009	Primary Sjögren's syndrome	Disorder	Standard	01/30/2002	12/30/2099	2,570	2,570	650	650	Condition	SNOMED	
+4222263	402454000	Primary systemic amyloidosis associated with occult plasma cell dyscrasia	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674384	773644000	Progeroid and marfanoid aspect, lipodystrophy syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+40485046	444133002	Progressive systemic sclerosis	Disorder	Standard	01/30/2010	12/30/2099	147,950	148,490	20,890	21,240	Condition	SNOMED	
+4102140	28122003	Pulmonary eosinophilic granuloma	Disorder	Standard	01/30/2002	12/30/2099	600	600	140	140	Condition	SNOMED	
+44782565	697922003	Pulmonary hypertension in Langerhans cell histiocytosis	Disorder	Standard	01/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+44783637	697921005	Pulmonary hypertension in sarcoidosis	Disorder	Standard	01/30/2014	12/30/2099	60	60	10	10	Condition	SNOMED	
+4086243	24369008	Pulmonary sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	1,762,580	1,921,300	310,420	340,480	Condition	SNOMED	
+37165953	1256081007	Pustular pyoderma gangrenosum	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+44811071	882271000000104	PVNS (pigmented villonodular synovitis) of foot and ankle	Disorder	Standard	09/30/2013	12/30/2099	0	0	0	0	Condition	SNOMED	
+37206119	785724007	Pyoderma gangrenosum, acne, suppurative hidradenitis syndrome	Disorder	Standard	07/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+37166028	1258979003	Pyoderma gangrenosum due to hematological disorder	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165949	1256078002	Pyoderma gangrenosum due to inflammatory bowel disease	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165950	1256079005	Pyoderma gangrenosum due to inflammatory polyarthropathy	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110004	724015007	Pyogenic arthritis, pyoderma gangrenosum, acne syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395567	110041000119104	Reactive arthritis co-occurrent and due to nonspecific urethritis	Disorder	Standard	07/30/2016	12/30/2099	10	10	10	10	Condition	SNOMED	
+78357	67224007	Reactive arthritis triad	Disorder	Standard	01/30/2002	12/30/2099	409,670	409,690	107,490	107,500	Condition	SNOMED	
+4305575	38933006	Recurrent rheumatic fever	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4216873	72275000	Relapsing polychondritis	Disorder	Standard	01/30/2002	12/30/2099	134,280	134,410	14,390	14,400	Condition	SNOMED	
+4049245	232439007	Relapsing polychondritis of larynx	Disorder	Standard	01/30/2002	12/30/2099	110	110	0	0	Condition	SNOMED	
+4128222	236502006	Renal involvement in scleroderma	Disorder	Standard	01/30/2002	12/30/2099	30	40	10	10	Condition	SNOMED	
+45765600	702575003	Retinocochleocerebral vasculopathy	Disorder	Standard	07/30/2014	12/30/2099	110	110	20	20	Condition	SNOMED	
+37399445	715401008	Reynolds syndrome	Disorder	Standard	07/30/2016	12/30/2099	540	540	350	350	Condition	SNOMED	
+444120	46826000	Rheumatic chorea	Disorder	Standard	01/30/2002	12/30/2099	1,080	71,250	560	33,900	Condition	SNOMED	
+380126	57803009	Rheumatic chorea with heart involvement	Disorder	Standard	01/30/2002	12/30/2099	13,140	13,140	4,530	4,530	Condition	SNOMED	
+372930	123950001	Rheumatic chorea without heart involvement	Disorder	Standard	01/30/2002	12/30/2099	57,030	57,030	28,810	28,810	Condition	SNOMED	
+442313	58718002	Rheumatic fever	Disorder	Standard	01/30/2002	12/30/2099	38,350	616,970	7,060	229,790	Condition	SNOMED	
+4344041	240041006	Rheumatic fever nodule	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+440735	24363009	Rheumatic fever without heart involvement	Disorder	Standard	01/30/2002	12/30/2099	279,130	279,130	101,330	101,330	Condition	SNOMED	
+437313	7548000	Rheumatic pneumonia	Disorder	Standard	01/30/2002	12/30/2099	3,620	3,620	1,760	1,760	Condition	SNOMED	
+608043	1156778006	Rheumatoid factor negative and anti-citrullinated protein antibody negative juvenile polyarthritis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+608044	1156779003	Rheumatoid factor negative and anti-citrullinated protein antibody positive juvenile polyarthritis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+608042	1156777001	Rheumatoid factor positive and anti-citrullinated protein antibody negative juvenile polyarthritis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+608041	1156774008	Rheumatoid factor positive and anti-citrullinated protein antibody positive juvenile polyarthritis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4245526	60684003	SAPHO syndrome	Disorder	Standard	01/30/2002	12/30/2099	950	950	70	70	Condition	SNOMED	
+4266327	400127001	Sarcoidal granuloma of skin	Disorder	Standard	07/30/2003	12/30/2099	70	70	30	30	Condition	SNOMED	
+4263646	361198004	Sarcoid arthritis	Disorder	Standard	01/30/2002	12/30/2099	120	120	30	30	Condition	SNOMED	
+4262578	361197009	Sarcoid arthropathy	Disorder	Standard	01/30/2002	12/30/2099	43,400	43,520	7,840	7,870	Condition	SNOMED	
+4125661	234524009	Sarcoid dactylitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111541	195033009	Sarcoid heart muscle disease	Disorder	Standard	01/30/2002	12/30/2099	162,840	162,840	17,100	17,100	Condition	SNOMED	
+440699	192673008	Sarcoid meningitis	Disorder	Standard	01/30/2002	12/30/2099	17,000	17,000	3,430	3,430	Condition	SNOMED	
+4105025	193251003	Sarcoid myopathy	Disorder	Standard	01/30/2002	12/30/2099	12,460	12,460	2,210	2,210	Condition	SNOMED	
+4105018	193195000	Sarcoid neuropathy	Disorder	Standard	01/30/2002	12/30/2099	50	50	20	20	Condition	SNOMED	
+438688	31541009	Sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	7,598,460	9,935,030	716,180	1,134,590	Condition	SNOMED	
+4235583	91259005	Sarcoidosis, angiolupoid type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4316078	9529007	Sarcoidosis, erythrodermic type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033216	238679001	Sarcoidosis in scar	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4216556	72470008	Sarcoidosis, lupus pernio type	Disorder	Standard	01/30/2002	12/30/2099	140	140	50	50	Condition	SNOMED	
+4008735	111937006	Sarcoidosis, nodular type	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+42536513	735433009	Sarcoidosis of digestive system	Disorder	Standard	01/30/2018	12/30/2099	10	10	0	0	Condition	SNOMED	
+4149473	310607007	Sarcoidosis of inferior turbinates	Disorder	Standard	01/30/2002	12/30/2099	30	30	20	20	Condition	SNOMED	
+37164689	1231657009	Sarcoidosis of lacrimal gland	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4093002	187233002	Sarcoidosis of lung with sarcoidosis of lymph nodes	Disorder	Standard	01/30/2002	12/30/2099	158,100	158,100	29,870	29,870	Condition	SNOMED	
+45768742	707238003	Sarcoidosis of oral cavity	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164690	1231658004	Sarcoidosis of orbit	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4185066	54515008	Sarcoidosis, plaque type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4312366	425384007	Sarcoidosis with glomerulonephritis	Disorder	Standard	01/30/2007	12/30/2099	20	20	0	0	Condition	SNOMED	
+4119936	233772001	Sarcoid pulmonary calcification	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4334723	231799005	Sarcoid skin of eyelid	Disorder	Standard	01/30/2002	12/30/2099	30	30	0	0	Condition	SNOMED	
+35622259	763630007	Satoyoshi syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297647	402415001	Schnitzler syndrome	Disorder	Standard	07/30/2003	12/30/2099	40	40	0	0	Condition	SNOMED	
+4292862	37821003	Sea-blue histiocyte syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297645	402380000	Sea-urchin granuloma	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297657	402457007	Secondary systemic amyloidosis affecting skin (AA fibril type)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164410	1230323000	Sepsis of premature infant	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4142173	34287003	Sinus histiocytosis with massive lymphadenopathy	Disorder	Standard	01/30/2002	12/30/2099	510	510	60	60	Condition	SNOMED	
+4285717	68815009	SLE glomerulonephritis syndrome	Disorder	Standard	01/30/2002	12/30/2099	1,320,960	1,324,830	96,030	96,490	Condition	SNOMED	
+4250483	73286009	SLE glomerulonephritis syndrome, WHO class I	Disorder	Standard	01/30/2002	12/30/2099	50	50	20	20	Condition	SNOMED	
+4186940	4676006	SLE glomerulonephritis syndrome, WHO class II	Disorder	Standard	01/30/2002	12/30/2099	230	230	60	60	Condition	SNOMED	
+4297164	76521009	SLE glomerulonephritis syndrome, WHO class III	Disorder	Standard	01/30/2002	12/30/2099	690	690	90	90	Condition	SNOMED	
+4267801	36402006	SLE glomerulonephritis syndrome, WHO class IV	Disorder	Standard	01/30/2002	12/30/2099	1,750	1,750	150	150	Condition	SNOMED	
+4178133	52042003	SLE glomerulonephritis syndrome, WHO class V	Disorder	Standard	01/30/2002	12/30/2099	1,110	1,110	130	130	Condition	SNOMED	
+4002526	11013005	SLE glomerulonephritis syndrome, WHO class VI	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+37396805	716745004	Sneddon syndrome	Disorder	Standard	07/30/2016	12/30/2099	60	60	20	20	Condition	SNOMED	
+4066395	17363001	Splenic sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+37165254	1251488008	Spondylodysplastic Ehlers-Danlos syndrome	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37111354	726078000	Sporadic Blau syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4101438	190923000	Sporadic primary amyloidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4124546	233767005	Stage 1 pulmonary sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	90	90	40	40	Condition	SNOMED	
+4124671	233768000	Stage 2 pulmonary sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	60	60	20	20	Condition	SNOMED	
+4119448	233769008	Stage 3 pulmonary sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	60	60	20	20	Condition	SNOMED	
+4119935	233770009	Stage 4 pulmonary sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	140	140	30	30	Condition	SNOMED	
+36676721	773702002	Sterile multifocal osteomyelitis with periostitis and pustulosis	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+46272746	711164003	STING-associated vasculopathy with onset in infancy	Disorder	Standard	07/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+4214896	80941006	Subcutaneous sarcoidosis	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+37165928	1256045009	Superficial vegetating pyoderma gangrenosum	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4318863	95644001	Systemic lupus erythematosus encephalitis	Disorder	Standard	01/30/2002	12/30/2099	2,120	2,120	460	460	Condition	SNOMED	
+44784527	698694005	Systemic lupus erythematosus in remission	Disorder	Standard	01/30/2014	12/30/2099	30	30	10	10	Condition	SNOMED	
+4301051	403488004	Systemic lupus erythematosus of childhood	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4219859	397856003	Systemic lupus erythematosus-related syndrome	Disorder	Standard	07/30/2003	12/30/2099	590	590	200	200	Condition	SNOMED	
+4344400	239890001	Systemic lupus erythematosus with multisystem involvement	Disorder	Standard	01/30/2002	12/30/2099	290	290	50	50	Condition	SNOMED	
+4344158	239887007	Systemic lupus erythematosus with organ/system involvement	Disorder	Standard	01/30/2002	12/30/2099	1,038,120	2,446,830	151,210	262,070	Condition	SNOMED	
+4149913	309762007	Systemic lupus erythematosus with pericarditis	Disorder	Standard	01/30/2002	12/30/2099	78,050	78,050	13,580	13,580	Condition	SNOMED	
+4116447	201796004	Systemic onset juvenile chronic arthritis	Disorder	Standard	01/30/2002	12/30/2099	217,620	217,620	21,390	21,390	Condition	SNOMED	
+4027727	128460000	Systemic sclerosis, diffuse	Disorder	Standard	01/30/2002	12/30/2099	1,030	1,030	220	220	Condition	SNOMED	
+40483692	443872005	Systemic sclerosis due to chemical	Disorder	Standard	01/30/2010	12/30/2099	1,130	1,130	410	410	Condition	SNOMED	
+4027230	128461001	Systemic sclerosis sine scleroderma	Disorder	Standard	01/30/2002	12/30/2099	70	70	20	20	Condition	SNOMED	
+4185187	298285004	Systemic sclerosis with limited cutaneous involvement	Disorder	Standard	01/30/2002	12/30/2099	410	523,850	130	60,410	Condition	SNOMED	
+37155424	1187615007	TAFRO syndrome	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+440740	359789008	Takayasu's disease	Disorder	Standard	01/30/2002	12/30/2099	188,810	188,810	20,460	20,460	Condition	SNOMED	
+4299295	402379003	Talc granuloma of umbilicus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36713680	718614004	TEMPI syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4290976	400130008	Temporal arteritis	Disorder	Standard	07/30/2003	12/30/2099	2,453,350	2,618,230	487,250	516,900	Condition	SNOMED	
+312939	52403007	Thromboangiitis obliterans	Disorder	Standard	01/30/2002	12/30/2099	274,930	274,930	65,320	65,320	Condition	SNOMED	
+4300462	403833009	TNF receptor-associated periodic fever syndrome (TRAPS)	Disorder	Standard	07/30/2003	12/30/2099	130	130	20	20	Condition	SNOMED	
+37165937	1256055008	Ulcerative pyoderma gangrenosum	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4292360	402370004	Ulcerative sarcoidosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4344165	239918008	Undifferentiated connective tissue disease	Disorder	Standard	01/30/2002	12/30/2099	13,180	13,180	3,400	3,400	Condition	SNOMED	
+4297648	402416000	Urticarial vasculitis with monoclonal IgM component, Schnitzler	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Observation	SNOMED	
+4062070	17025000	Vascular Ehlers-Danlos syndrome	Disorder	Standard	01/30/2002	12/30/2099	11,620	11,660	2,100	2,100	Condition	SNOMED	
+37110037	724063005	Vasculitis due to and following viral infection	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4120110	234020005	Vasculitis secondary to drug	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4297511	402371000	Verrucous sarcoidosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4117721	202435002	Villonodular synovitis of acromioclavicular joint	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+76789	202430007	Villonodular synovitis of ankle and foot	Disorder	Standard	01/30/2002	12/30/2099	313,240	313,260	150,490	150,500	Condition	SNOMED	
+4117896	202442002	Villonodular synovitis of distal interphalangeal joint of finger	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4115361	202437005	Villonodular synovitis of distal radioulnar joint	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4115360	202436001	Villonodular synovitis of elbow	Disorder	Standard	01/30/2002	12/30/2099	3,850	3,850	1,710	1,710	Condition	SNOMED	
+4115364	202451005	Villonodular synovitis of first metatarsophalangeal joint	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+79112	202427000	Villonodular synovitis of hand	Disorder	Standard	01/30/2002	12/30/2099	89,720	89,750	51,820	51,850	Condition	SNOMED	
+4116159	202453008	Villonodular synovitis of interphalangeal joint of toe	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4116158	202452003	Villonodular synovitis of lesser metatarsophalangeal joint	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+74447	202429002	Villonodular synovitis of lower leg	Disorder	Standard	01/30/2002	12/30/2099	1,136,690	1,136,690	514,240	514,240	Condition	SNOMED	
+443417	312820003	Villonodular synovitis of lower limb	Disorder	Standard	01/30/2002	12/30/2099	42,840	1,397,170	15,600	620,930	Condition	SNOMED	
+4117893	202439008	Villonodular synovitis of metacarpophalangeal joint	Disorder	Standard	01/30/2002	12/30/2099	20	20	20	20	Condition	SNOMED	
+75040	202432004	Villonodular synovitis of multiple sites	Disorder	Standard	01/30/2002	12/30/2099	25,050	25,050	8,400	8,400	Condition	SNOMED	
+4117895	202441009	Villonodular synovitis of proximal interphalangeal joint of finger	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4117723	202444001	Villonodular synovitis of sacroiliac joint	Disorder	Standard	01/30/2002	12/30/2099	70	70	20	20	Condition	SNOMED	
+81383	202424007	Villonodular synovitis of shoulder region	Disorder	Standard	01/30/2002	12/30/2099	303,990	304,000	105,410	105,410	Condition	SNOMED	
+4116001	202434003	Villonodular synovitis of sternoclavicular joint	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4116002	202448003	Villonodular synovitis of subtalar joint	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4117724	202449006	Villonodular synovitis of talonavicular joint	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4001473	202909008	Villonodular synovitis of tendon sheath	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4117898	202446004	Villonodular synovitis of tibiofibular joint	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+440499	202425008	Villonodular synovitis of upper arm	Disorder	Standard	01/30/2002	12/30/2099	36,220	36,220	17,210	17,210	Condition	SNOMED	
+4208070	312819009	Villonodular synovitis of upper limb	Disorder	Standard	01/30/2002	12/30/2099	0	533,280	0	229,060	Condition	SNOMED	
+4117722	202438000	Villonodular synovitis of wrist	Disorder	Standard	01/30/2002	12/30/2099	99,460	99,460	52,880	52,880	Condition	SNOMED	
+36674277	771236000	Visceral calciphylaxis	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4029601	237877004	Wild type ATTR amyloidosis	Disorder	Standard	01/30/2002	12/30/2099	51,260	51,260	8,710	8,710	Condition	SNOMED	
+4284819	67202007	X-linked Ehlers-Danlos syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	

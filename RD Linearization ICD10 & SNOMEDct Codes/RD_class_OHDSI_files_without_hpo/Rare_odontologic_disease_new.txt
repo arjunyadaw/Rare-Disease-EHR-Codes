@@ -1,0 +1,52 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+44783311	699382004	Agenesis of enamel	Disorder	Standard	01/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta'"">1"
+45769042	707607008	Amelogenesis imperfecta and gingival hyperplasia syndrome	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta'"">1"
+45771029	707608003	Amelogenesis imperfecta co-occurrent with cone rod dystrophy	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta'"">1"
+4031276	109471001	Amelogenesis imperfecta, hypocalcification type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4033010	109472008	Amelogenesis imperfecta, hypomaturation hypoplasia type with taurodontism	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4126777	234965004	Amelogenesis imperfecta - hypomaturation - recessive pigmented	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta, hypomaturation typeAmelogenesis imperfecta'"">2"
+4126778	234966003	Amelogenesis imperfecta - hypomaturation - snow capped teeth	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta, hypomaturation typeAmelogenesis imperfecta'"">2"
+4031277	109475005	Amelogenesis imperfecta, hypomaturation type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4126774	234961008	Amelogenesis imperfecta - hypoplastic autosomal dominant - local	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta, hypoplastic typeAmelogenesis imperfecta'"">2"
+4126775	234963006	Amelogenesis imperfecta - hypoplastic autosomal dominant - rough	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta, hypoplastic typeAmelogenesis imperfecta'"">2"
+4122609	234962001	Amelogenesis imperfecta - hypoplastic autosomal dominant - smooth	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta, hypoplastic typeAmelogenesis imperfecta'"">2"
+4033910	109476006	Amelogenesis imperfecta, hypoplastic type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4033461	109473003	Amelogenesis imperfecta, hypoplastic type with microdontia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta, hypoplastic typeAmelogenesis imperfecta'"">2"
+4033462	109474009	Amelogenesis imperfecta, pigmented hypomaturation type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta, hypomaturation typeAmelogenesis imperfecta'"">2"
+4126776	234964000	Amelogenesis imperfecta - recessive - rough	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta, hypoplastic typeAmelogenesis imperfecta'"">2"
+433229	14901003	Ankylosis of tooth	Disorder	Standard	01/30/2002	12/30/2099	11,690	11,690	7,970	7,970	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4031270	109444001	Anodontia of permanent dentition	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Anodontia'"">1"
+4032999	109443007	Anodontia of primary dentition	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Anodontia'"">1"
+37204407	783059004	Atypical dentin dysplasia due to SMOC2 deficiency	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36717721	719468005	Cleft palate with stapes fixation and oligodontia syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Oligodontia'"">1"
+37395914	715527006	Deafness and oligodontia syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Oligodontia'"">1"
+4033014	109494000	Dentin dysplasia, type II	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36674946	770943008	Dentin dysplasia with sclerotic bone syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4126779	234968002	Dentinogenesis imperfecta - Shield's type I	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Dentinogenesis imperfecta'"">1"
+4122117	234969005	Dentinogenesis imperfecta - Shield's type II	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4122610	234970006	Dentinogenesis imperfecta - Shield's type III	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36717441	721089006	Dentinogenesis imperfecta, short stature, hearing loss, intellectual disability syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Dentinogenesis imperfecta'"">1"
+37168348	1279835008	Ectodermal dysplasia, hyperhidrosis, cutaneous syndactyly syndrome	Disorder	Standard	04/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta'"">1"
+4033463	109477002	Enamel-renal syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta'"">1"
+37395985	715634002	Florid cemento-osseous dysplasia	Disorder	Standard	07/30/2016	12/30/2099	40	40	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+45769195	707796002	Fusion of mandibular incisor teeth	Disorder	Standard	01/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4188039	414342007	Gingival cyst of newborn	Disorder	Standard	01/30/2005	12/30/2099	80	80	60	60	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Odontogenic keratocyst'"">1"
+37396261	716008002	Gingival fibromatosis and hypertrichosis syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Hereditary gingival fibromatosis'"">1"
+36714449	719687007	Gingival fibromatosis with facial dysmorphism syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Hereditary gingival fibromatosis'"">1"
+36716441	722449007	Gingival fibromatosis with progressive deafness syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Hereditary gingival fibromatosis'"">1"
+36713481	717823001	Goldblatt syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Dentinogenesis imperfecta'"">1"
+4033911	109478007	Kohlschutter's syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta'"">1"
+36676715	773692000	Late-onset localized junctional epidermolysis bullosa, intellectual disability syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Amelogenesis imperfecta'"">1"
+36676446	773345007	Oligodontia and cancer predisposition syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4091092	279309008	Osteogenesis imperfecta, type IV B	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Dentinogenesis imperfecta'"">1"
+4273695	63890001	Osteogenesis imperfecta with blue sclerae AND dentinogenesis imperfecta	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Dentinogenesis imperfecta'"">1"
+37164455	1231153007	Primary failure of tooth eruption	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4278095	66063001	Regional odontodysplasia	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+44783666	699756005	Segmental odontomaxillary dysplasia	Disorder	Standard	01/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+37111630	726672000	Short stature, unique facies, enamel hypoplasia, progressive joint stiffness, high-pitched voice syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116667	733468006	Skeletal dysplasia with wormian bone, multiple fractures, dentinogenesis imperfecta syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676425	773302000	Spondyloepimetaphyseal dysplasia, abnormal dentition syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116379	733072002	Stimmler syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714610	719911000	Trichodysplasia with amelogenesis imperfecta syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396393	716195006	Verloes Bourguignon syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+604596	1003388008	X-linked oligodontia	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	

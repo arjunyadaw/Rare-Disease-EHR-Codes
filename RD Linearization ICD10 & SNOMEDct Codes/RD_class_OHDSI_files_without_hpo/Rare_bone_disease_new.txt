@@ -1,0 +1,484 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+36713991	719046005	12q14 microdeletion syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+45765410	702342007	3-M syndrome	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37110077	724147004	8q13 microdeletion syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4082503	2391001	Achondrogenesis	Disorder	Standard	01/30/2002	12/30/2099	4,810	180,930	350	12,310	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4176152	42725006	Achondrogenesis, type IA	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4033691	14870002	Achondrogenesis, type IB	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4111313	254061001	Achondrogenesis, type II	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4311402	86268005	Achondroplasia	Disorder	Standard	01/30/2002	12/30/2099	176,050	176,050	11,940	11,940	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36714975	720416007	Acrocapitofemoral dysplasia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4281660	66758006	Acrodysostosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4305418	389167007	Acromesomelic dysplasia Hunter-Thompson type	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36713640	718559000	Acromesomelic dysplasia Maroteaux type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4111319	254090007	Acromicric dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4305415	389162001	Acroscyphodysplasia	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4049369	20756002	Adult hypophosphatasia	Disorder	Standard	01/30/2002	12/30/2099	30	30	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37209551	16583001000119104	Aneurysmal bone cyst of left ankle	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+36684481	302211000119104	Aneurysmal bone cyst of left femur	Disorder	Standard	08/31/2018	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37208284	1076951000119102	Aneurysmal bone cyst of left fibula	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37208286	1076971000119106	Aneurysmal bone cyst of left foot	Disorder	Standard	02/28/2019	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+600983	302181000119103	Aneurysmal bone cyst of left hand	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+36684482	302221000119106	Aneurysmal bone cyst of left humerus	Disorder	Standard	08/31/2018	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37170864	302171000119101	Aneurysmal bone cyst of left radius	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37207742	302191000119100	Aneurysmal bone cyst of left tibia	Disorder	Standard	02/28/2019	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37208282	1076931000119108	Aneurysmal bone cyst of left ulna	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37209552	16583041000119102	Aneurysmal bone cyst of right ankle	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+36684483	302291000119108	Aneurysmal bone cyst of right femur	Disorder	Standard	08/31/2018	12/30/2099	10	10	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37208283	1076941000119104	Aneurysmal bone cyst of right fibula	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37208285	1076961000119100	Aneurysmal bone cyst of right foot	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+600984	302261000119101	Aneurysmal bone cyst of right hand	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+36684484	302301000119109	Aneurysmal bone cyst of right humerus	Disorder	Standard	08/31/2018	12/30/2099	320	320	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37170867	302251000119103	Aneurysmal bone cyst of right radius	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37207743	302271000119107	Aneurysmal bone cyst of right tibia	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+37208281	1076921000119105	Aneurysmal bone cyst of right ulna	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+4328239	75930001	Aneurysmal cyst of jaw	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aneurysmal bone cyst'"">1"
+36717140	720984008	Angel-shaped phalangoepiphyseal dysplasia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+40480852	441809006	Aseptic necrosis of bone of jaw	Disorder	Standard	07/30/2009	12/30/2099	28,320	28,320	8,780	8,780	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Osteonecrosis of jaw'"">1"
+4305569	389263004	Astley-Kendall dysplasia	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37110773	725141006	Atelosteogenesis type 1	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4111311	254055004	Atelosteogenesis type 2	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37117239	725142004	Atelosteogenesis type 3	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37397206	717264003	Autosomal dominant brachyolmia	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4030363	237889002	Autosomal dominant hypophosphatemic rickets	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37164287	1229999001	Autosomal dominant myopia, midfacial retrusion, sensorineural hearing loss, rhizomelic dysplasia syndrome	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37110785	725165009	Autosomal dominant omodysplasia	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37167248	1264041000	Autosomal dominant osteopetrosis type 1	Disorder	Standard	02/27/2023	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37110722	725050005	Autosomal dominant osteopetrosis type 2	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37204864	783789002	Autosomal recessive brachyolmia	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37395889	715487005	Autosomal recessive distal osteolysis syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4234996	90505000	Autosomal recessive hypophosphatemic vitamin D refractory rickets	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37110786	725166005	Autosomal recessive omodysplasia	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204242	782782004	Autosomal recessive spondylometaphyseal dysplasia Megarbane type	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164275	1229979007	Avascular necrosis of bone due to traumatic injury	Disorder	Standard	05/30/2022	12/30/2099	60	60	20	20	Condition	SNOMED	
+37311759	818966007	Avascular necrosis of metatarsal bone	Disorder	Standard	01/30/2020	12/30/2099	30	30	10	10	Condition	SNOMED	
+37311760	818965006	Avascular necrosis of tarsus	Disorder	Standard	01/30/2020	12/30/2099	0	6,860	0	1,060	Condition	SNOMED	
+4069309	203476003	Avascular necrosis of the head of femur	Disorder	Standard	01/30/2002	12/30/2099	31,000	31,020	3,780	3,790	Condition	SNOMED	
+4069527	203478002	Avascular necrosis of the talus	Disorder	Standard	01/30/2002	12/30/2099	350	6,860	100	1,060	Condition	SNOMED	
+4109184	254125009	Axial osteosclerosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+36675037	771301002	Axial spondylometaphyseal dysplasia	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4172755	50123005	Beals auriculo-osteodysplasia syndrome	Disorder	Standard	01/30/2002	12/30/2099	160	160	20	20	Condition	SNOMED	
+37169265	15717401000119103	Bilateral osteochondritis dissecans of ankles	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169266	15717441000119101	Bilateral osteochondritis dissecans of elbows	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+608844	15717361000119107	Bilateral osteochondritis dissecans of feet	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169267	15717521000119106	Bilateral osteochondritis dissecans of knees	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4190688	389237009	Blomstrand dysplasia	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+619009	880067009	Blount disease	Disorder	Standard	01/30/2021	12/30/2099	2,670	2,670	480	480	Condition	SNOMED	
+37115761	732249002	Bone dysplasia lethal Holmgren type	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4109057	254054000	Boomerang dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395875	715470008	Brachydactylous dwarfism Mseleni type	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+35623289	765761009	Brachydactyly, mesomelia, intellectual disability, heart defect syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204311	782914000	Brachydactyly, short stature, retinitis pigmentosa syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4305417	389165004	Brachyolmia - Maroteaux type	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36680611	778067002	Brachytelephalangic chondrodysplasia punctata	Disorder	Standard	01/30/2019	12/30/2099	30	30	0	0	Condition	SNOMED	
+4109978	254113006	Bruck syndrome	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+36715112	720599002	Campomelia Cumming type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4326424	74928006	Camptomelic dysplasia	Disorder	Standard	01/30/2002	12/30/2099	50	50	10	10	Condition	SNOMED	
+4308197	389272007	Carpotarsal osteochondromatosis	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110747	725104005	Cheirospondyloenchondromatosis	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4308198	389273002	Cherubism with gingival fibromatosis	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4147046	30174008	Childhood hypophosphatasia	Disorder	Standard	01/30/2002	12/30/2099	80	80	20	20	Condition	SNOMED	
+4109174	254083002	Chondrodysplasia punctata, MT type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37398932	715631005	Chondrodysplasia punctata Toriello type	Disorder	Standard	07/30/2016	12/30/2099	10	10	0	0	Condition	SNOMED	
+4162806	398958000	Chondrodysplasia punctata, X-linked dominant type	Disorder	Standard	07/30/2003	12/30/2099	20	20	0	0	Condition	SNOMED	
+36715303	720851007	Chondrodysplasia with disorder of sex development syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204289	782882009	Chondrodysplasia with joint dislocations gPAPP type	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+80838	62501005	Chondroectodermal dysplasia	Disorder	Standard	01/30/2002	12/30/2099	12,730	12,730	1,010	1,010	Condition	SNOMED	
+35621873	763134002	Chondroectodermal dysplasia with night blindness syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4146021	307607001	Chondromyxoid fibroma of bone	Disorder	Standard	01/30/2002	12/30/2099	60	70	20	20	Condition	SNOMED	
+760607	113071000119101	Chondromyxoid fibroma of long bone of lower limb	Disorder	Standard	02/29/2016	12/30/2099	10	10	0	0	Condition	SNOMED	
+765894	113081000119103	Chondromyxoid fibroma of long bone of upper limb	Disorder	Standard	02/29/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110891	725417001	CHST3-related skeletal dysplasia	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4281998	65976001	Cleidocranial dysostosis	Disorder	Standard	01/30/2002	12/30/2099	600	600	70	70	Condition	SNOMED	
+36714305	719471002	Cleidorhizomelic syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4305428	389199001	Cole-Carpenter dysplasia	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622761	764942005	Colobomatous microphthalmia, rhizomelic dysplasia syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164082	1228858000	Complex lethal osteochondrodysplasia	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624224	766874001	Cono-spondylar dysplasia	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37115760	732248005	Coxoauricular syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4006941	205506004	Craniodiaphyseal dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715222	720754008	Craniofacial conodysplasia syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110744	725099009	Craniometadiaphyseal dysplasia wormian bone type	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4275508	36601008	Craniometaphyseal dysplasia	Disorder	Standard	01/30/2002	12/30/2099	60	60	10	10	Condition	SNOMED	
+4110100	254135003	Craniometaphyseal dysplasia - mild type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111328	254134004	Craniometaphyseal dysplasia - severe type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717416	720753002	Cranioosteoarthropathy	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715280	720826006	Czech dysplasia metatarsal type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715412	721082002	Dacryocystitis and osteopoikilosis syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395913	715524004	Delayed membranous cranial ossification	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4113729	254099008	Desbuquois syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+46273762	709490002	Desmosterolosis	Disorder	Standard	07/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+4191491	389216001	Diaphyseal medullary stenosis with bone malignancy	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4238810	58561002	Diastrophic dysplasia	Disorder	Standard	01/30/2002	12/30/2099	12,530	12,530	1,290	1,290	Condition	SNOMED	
+36715111	720598005	Doughnut lesion of calvaria and bone fragility syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4220978	82699004	Dyggve-Melchior-Clausen syndrome	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+36716430	722433005	Dyschondrosteosis and nephritis syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111327	254123002	Dysosteosclerosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4006447	205480005	Dysplasia epiphysealis hemimelica	Disorder	Standard	01/30/2002	12/30/2099	390	390	60	60	Condition	SNOMED	
+37396154	715861004	Dysplasia of head of femur Meyer type	Disorder	Standard	07/30/2016	12/30/2099	10	10	10	10	Condition	SNOMED	
+37204497	783165001	Dysplastic cortical hyperostosis	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622957	765204000	Dyssegmental dysplasia Silverman Handmaker type	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716431	722434004	Dysspondyloenchondromatosis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116658	733457006	Ehlers-Danlos and osteogenesis imperfecta syndrome	Disorder	Standard	07/30/2017	12/30/2099	10	10	10	10	Condition	SNOMED	
+36715312	720863002	Eiken syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4113736	254132000	Endosteal hyperostoses with cerebellar hypoplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37399396	718099006	Enlarged parietal foramina	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716110	721975004	Epiphyseal dysplasia, microcephalus, nystagmus syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37117764	733416004	Exostosis, anetoderma, brachydactyly type E syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396002	715657008	Familial avascular necrosis of femoral head	Disorder	Standard	07/30/2016	12/30/2099	10	10	0	0	Condition	SNOMED	
+4109195	254153009	Familial expansile osteolysis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37166977	1263445009	Familial gigantiform cementoma of jaw	Disorder	Standard	01/30/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4208394	55166000	Familial osteoarthropathy of the fingers	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396182	715899006	Familial osteochondritis dissecans	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4305482	82236004	Familial x-linked hypophosphatemic vitamin D refractory rickets	Disorder	Standard	01/30/2002	12/30/2099	200,000	200,010	38,180	38,180	Condition	SNOMED	
+36680586	778008009	FGFR2-related bent bone dysplasia	Disorder	Standard	01/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+4062864	17144009	Fibrochondrogenesis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+44783194	699251001	Fibrous dysplasia of bone with intramuscular myxoma	Disorder	Standard	01/30/2014	12/30/2099	10	10	0	0	Condition	SNOMED	
+4294407	76098004	Fibrous dysplasia of jaw	Disorder	Standard	01/30/2002	12/30/2099	310	310	80	80	Condition	SNOMED	
+4314588	424286001	Fibrous dysplasia of orbit	Disorder	Standard	01/30/2007	12/30/2099	30	30	10	10	Condition	SNOMED	
+36717429	720958002	Frank-Ter Haar syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4271182	62803002	Frontometaphyseal dysplasia	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+37164301	1230021007	Frontorhiny	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4102312	28557005	Geleophysic dysplasia	Disorder	Standard	01/30/2002	12/30/2099	30	30	0	0	Condition	SNOMED	
+4305570	389264005	Genochondromatosis	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+604633	1003427004	Genochondromatosis type 1	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37111244	725904009	Genochondromatosis type 2	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4113732	254116003	Geroderma osteodysplastica	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4308062	389214003	Ghosal hematodiaphyseal dysplasia	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395944	715568002	Gnathodiaphyseal dysplasia	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36713481	717823001	Goldblatt syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109888	723827003	Grant syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298332	77542002	Grebe syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4308194	389261002	Greenberg dysplasia	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4270610	63122002	Hajdu-Cheney syndrome	Disorder	Standard	01/30/2002	12/30/2099	90	90	10	10	Condition	SNOMED	
+37396389	716189005	Heide syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37111357	726081005	Hereditary hypophosphatemic rickets with hypercalciuria	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204241	782781006	High bone mass osteogenesis imperfecta	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715463	721148005	Hip dysplasia Beukes type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162786	1197494003	Hyaline fibromatosis syndrome	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4245856	59763006	Hyperphosphatasemia tarda	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4319896	9723006	Hyperphosphatasemia with bone disease	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4003971	205483007	Hypochondrogenesis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4006934	205468002	Hypochondroplasia	Disorder	Standard	01/30/2002	12/30/2099	1,450	1,450	80	80	Condition	SNOMED	
+4096352	190859005	Hypophosphatasia	Disorder	Standard	01/30/2002	12/30/2099	670	820	240	290	Condition	SNOMED	
+4028959	237888005	Hypophosphatemic rickets with nephrotic-glycosuric dwarfism	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37163534	1217213004	Idiopathic acroosteolysis of phalanx	Disorder	Standard	04/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164468	1231179003	Idiopathic avascular necrosis of bone	Disorder	Standard	06/29/2022	12/30/2099	6,280	6,280	1,710	1,710	Condition	SNOMED	
+4083321	24752008	Infantile cortical hyperostosis	Disorder	Standard	01/30/2002	12/30/2099	410	410	30	30	Condition	SNOMED	
+4208415	55236002	Infantile hypophosphatasia	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4273764	367489004	Infantile malignant osteopetrosis	Disorder	Standard	01/30/2002	12/30/2099	90	90	50	50	Condition	SNOMED	
+37119061	724226009	Infantile osteopetrosis with neuroaxonal dysplasia syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4032909	238867003	Infantile systemic hyalinosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164471	1231182008	Isolated osteopoikilosis	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4327478	75049004	Jeune thoracic dystrophy	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+37116640	733418003	Joubert syndrome with Jeune asphyxiating thoracic dystrophy	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033478	238866007	Juvenile elastofibromatosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033881	238861002	Juvenile hyaline fibromatosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4344143	240156000	Juvenile idiopathic generalized osteoporosis	Disorder	Standard	01/30/2002	12/30/2099	50	50	20	20	Condition	SNOMED	
+4147654	268025003	Juvenile osteochondrosis of capitulum of humerus	Disorder	Standard	01/30/2002	12/30/2099	90	90	20	20	Condition	SNOMED	
+4004480	203389008	Juvenile osteochondrosis of the secondary patellar center	Disorder	Standard	01/30/2002	12/30/2099	640	640	340	340	Condition	SNOMED	
+4221110	82837002	Kenny syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4207347	53974002	Kniest dysplasia	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37161027	1172898008	Kosaki overgrowth syndrome	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+40273864	111304003	Kozlowski spondylometaphyseal dysplasia	Disorder	Standard	01/30/2002	12/30/2099	30	30	0	0	Condition	SNOMED	
+4109179	254096001	Kyphomelic dysplasia	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4242871	38494008	Langer mesomelic dysplasia syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622774	764956007	Larsen-like osseous dysplasia, short stature syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622345	763778003	Larsen-like syndrome B3GAT3 type	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4272804	63387002	Larsen syndrome	Disorder	Standard	01/30/2002	12/30/2099	60	60	20	20	Condition	SNOMED	
+4029491	1393001	Lenz-Majewski hyperostosis syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4075151	17818006	Leri-Weill dyschondrosteosis	Disorder	Standard	01/30/2002	12/30/2099	50	50	20	20	Condition	SNOMED	
+4245457	93132001	Lethal Kniest-like syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714264	719409004	Lethal Larsen-like syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714260	719404009	Lethal recessive chondrodysplasia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716108	721973006	Lipodystrophy, intellectual disability, deafness syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160893	1169364005	LRP5-related primary osteoporosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187683	46041001	Maffucci syndrome	Disorder	Standard	01/30/2002	12/30/2099	110	110	0	0	Condition	SNOMED	
+4032994	109419009	Mandibuloacral dysostosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+604637	1003431005	Mandibuloacral dysplasia with type A lipodystrophy	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+604638	1003432003	Mandibuloacral dysplasia with type B lipodystrophy	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4142775	33410002	Marshall syndrome	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+37117262	726029005	McCune Albright syndrome	Disorder	Standard	07/30/2017	12/30/2099	110	110	30	30	Condition	SNOMED	
+4028678	13449007	Melnick-Needles syndrome	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+37169602	16467301000119103	Melorheostosis of left foot	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169601	16467261000119106	Melorheostosis of left lower leg	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169599	16466741000119102	Melorheostosis of right foot	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169598	16466581000119101	Melorheostosis of right lower leg	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169600	16466821000119102	Melorheostosis of spine	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162656	1197053003	Melorheostosis with osteopoikilosis	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714254	719397009	Mesomelic dysplasia Kantaputra type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+605186	1010609002	Mesomelic dysplasia of upper limb	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395998	715652002	Mesomelic dysplasia Savarirayan type	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4005115	205481009	Metachondromatosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4109973	254085009	Metaphyseal anadysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4078643	24629003	Metaphyseal chondrodysplasia, Jansen type	Disorder	Standard	01/30/2002	12/30/2099	30	30	0	0	Condition	SNOMED	
+36674923	770909004	Metaphyseal chondrodysplasia Kaitila type	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298801	7720002	Metaphyseal chondrodysplasia, McKusick type	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4104805	29248006	Metaphyseal chondrodysplasia, Schmid type	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4305416	389163006	Metaphyseal chondrodysplasia, Sedaghatian type	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4109175	254084008	Metaphyseal chondrodysplasia, Spahr type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110076	724146008	Metaphyseal chondromatosis co-occurrent with D-2 hydroxyglutaric aciduria	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116641	733419006	Metaphyseal dysostosis, intellectual disability, conductive deafness syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397172	717221005	Metaphyseal dysplasia Braun Tinschert type	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110075	724145007	Metaphyseal dysplasia, maxillary hypoplasia, brachydactyly syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4331598	22764001	Metatropic dysplasia	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+37109641	723404002	Microcephalic osteodysplastic dysplasia Saul Wilson type	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163154	1208348002	Microcephalic osteodysplastic primordial dwarfism type II	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110921	725461009	Microcephalic osteodysplastic primordial dwarfism types I and III	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674735	770564004	Microcephalic primordial dwarfism Alazami type	Disorder	Standard	01/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+36674736	770565003	Microcephalic primordial dwarfism Dauber type	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110072	724141003	Microcephalic primordial dwarfism due to ZNF335 deficiency	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395884	715482004	Microcephalic primordial dwarfism Toriello type	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37399463	715670004	Mild spondyloepiphyseal dysplasia due to COL2A1 mutation with early onset osteoarthritis	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4190586	389159004	Mild spondyloepiphyseal dysplasia with premature onset arthrosis	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204819	783723003	Mixed sclerosing bone dystrophy with extra-skeletal manifestation	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+600994	307691000119108	Monostotic fibrous dysplasia of left femur	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4001146	109714003	Monostotic fibrous dysplasia of periradicular alveolar bone	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+600995	307771000119103	Monostotic fibrous dysplasia of right femur	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163919	1222676004	Mueller Weiss syndrome	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624323	766992008	Multicentric carpotarsal osteolysis syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714450	719688002	Multiple epiphyseal dysplasia Al-Gazali type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714451	719689005	Multiple epiphyseal dysplasia Beighton type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624126	766717008	Multiple epiphyseal dysplasia due to collagen 9 anomaly	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+35625848	768935003	Multiple epiphyseal dysplasia Lowry type	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4196717	313339007	Multiple epiphyseal dysplasia tarda type IIIa	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396014	715673002	Multiple epiphyseal dysplasia type 1	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396013	715672007	Multiple epiphyseal dysplasia type 4	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396015	715674008	Multiple epiphyseal dysplasia type 5	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624150	766750008	Multiple epiphyseal dysplasia with miniepiphyses	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622408	763893008	Multiple epiphyseal dysplasia with severe proximal femoral dysplasia	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396802	716742001	Multiple osteochondroma	Disorder	Standard	07/30/2016	12/30/2099	80	80	30	30	Condition	SNOMED	
+37161422	1179299005	NEK9-related lethal skeletal dysplasia	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395693	715218009	Neonatal severe primary hyperparathyroidism	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676442	773331001	Nestor Guillermo progeria syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4144975	33979003	Nievergelt's syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4004477	203375003	Non-traumatic acute-on-chronic slipped upper femoral epiphysis	Disorder	Standard	01/30/2002	12/30/2099	7,950	7,950	2,190	2,190	Condition	SNOMED	
+4004476	203374004	Non-traumatic acute slipped upper femoral epiphysis	Disorder	Standard	01/30/2002	12/30/2099	16,660	16,660	5,120	5,120	Condition	SNOMED	
+4001635	203376002	Non-traumatic chronic slipped upper femoral epiphysis	Disorder	Standard	01/30/2002	12/30/2099	26,520	26,520	6,520	6,520	Condition	SNOMED	
+37165629	1255268002	Oculocerebrodental syndrome	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+46270714	708672004	Odontohypophosphatasia	Disorder	Standard	07/30/2015	12/30/2099	10	10	0	0	Condition	SNOMED	
+37110784	725164008	Omodysplasia	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111315	254068007	Opsismodysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716189	722107005	Ossification anomaly with psychomotor developmental delay syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655845	870320009	Osteitis condensans of medial clavicle	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+40487940	448038004	Osteochondritis dissecans of distal femur	Disorder	Standard	07/30/2011	12/30/2099	690	1,000	300	440	Condition	SNOMED	
+40487941	448039007	Osteochondritis dissecans of fibula	Disorder	Standard	07/30/2011	12/30/2099	0	0	0	0	Condition	SNOMED	
+36684555	315151000119101	Osteochondritis dissecans of left ankle	Disorder	Standard	01/30/2019	12/30/2099	20	20	10	10	Condition	SNOMED	
+601016	315161000119104	Osteochondritis dissecans of left elbow	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37159997	1078101000119102	Osteochondritis dissecans of left foot	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37171071	315171000119105	Osteochondritis dissecans of left hip	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+36684556	315181000119108	Osteochondritis dissecans of left knee	Disorder	Standard	01/30/2019	12/30/2099	2,930	2,930	100	100	Condition	SNOMED	
+37171072	315191000119106	Osteochondritis dissecans of left shoulder region	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37111327	726030000	Osteochondritis dissecans of metatarsal bone	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36684557	315211000119107	Osteochondritis dissecans of right ankle	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+609059	315221000119100	Osteochondritis dissecans of right elbow	Disorder	Standard	01/30/2021	12/30/2099	40	40	10	10	Condition	SNOMED	
+37159996	1078091000119107	Osteochondritis dissecans of right foot	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37171074	315231000119102	Osteochondritis dissecans of right hip	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+36684558	315241000119106	Osteochondritis dissecans of right knee	Disorder	Standard	01/30/2019	12/30/2099	4,040	4,040	100	100	Condition	SNOMED	
+37171075	315251000119108	Osteochondritis dissecans of right shoulder region	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+40492523	448967000	Osteochondritis dissecans of tarsal bone	Disorder	Standard	07/30/2011	12/30/2099	0	6,510	0	960	Condition	SNOMED	
+4003475	203408003	Osteochondritis dissecans of the capitellum	Disorder	Standard	01/30/2002	12/30/2099	60	60	20	20	Condition	SNOMED	
+4002131	203412009	Osteochondritis dissecans of the femoral head	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4003474	203407008	Osteochondritis dissecans of the humeral head	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4003473	203405000	Osteochondritis dissecans of the lateral femoral condyle	Disorder	Standard	01/30/2002	12/30/2099	40	40	30	30	Condition	SNOMED	
+4344149	240184005	Osteochondritis dissecans of the medial femoral condyle	Disorder	Standard	01/30/2002	12/30/2099	270	270	110	110	Condition	SNOMED	
+4002129	203404001	Osteochondritis dissecans of the patella	Disorder	Standard	01/30/2002	12/30/2099	1,900	1,900	300	300	Condition	SNOMED	
+4001641	203409006	Osteochondritis dissecans of the radial head	Disorder	Standard	01/30/2002	12/30/2099	110	110	30	30	Condition	SNOMED	
+4004618	203413004	Osteochondritis dissecans of the talus	Disorder	Standard	01/30/2002	12/30/2099	6,510	6,510	960	960	Condition	SNOMED	
+40487942	448040009	Osteochondritis dissecans of tibia	Disorder	Standard	07/30/2011	12/30/2099	20	20	10	10	Condition	SNOMED	
+4002130	203411002	Osteochondritis dissecans of wrist	Disorder	Standard	01/30/2002	12/30/2099	1,590	1,590	760	760	Condition	SNOMED	
+4325687	430506003	Osteochondritis of tibial tubercle	Disorder	Standard	07/30/2008	12/30/2099	90	90	50	50	Condition	SNOMED	
+36716190	722109008	Osteocraniostenosis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164809	1234828008	Osteofibrous dysplasia	Disorder	Standard	07/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+78257	78314001	Osteogenesis imperfecta	Disorder	Standard	01/30/2002	12/30/2099	727,230	728,010	46,900	47,090	Condition	SNOMED	
+4322958	7134007	Osteogenesis imperfecta, dominant perinatal lethal	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4006449	205496008	Osteogenesis imperfecta, perinatal lethal	Disorder	Standard	01/30/2002	12/30/2099	0	30	0	0	Condition	SNOMED	
+4313830	86470003	Osteogenesis imperfecta, recessive perinatal lethal	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4048386	15552004	Osteogenesis imperfecta, recessive perinatal lethal, with microcephaly AND cataracts	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716191	722110003	Osteogenesis imperfecta, retinopathy, seizures, intellectual disability syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+604590	1003379004	Osteogenesis imperfecta type 5	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4294184	385482004	Osteogenesis imperfecta type I	Disorder	Standard	01/30/2003	12/30/2099	480	500	130	140	Condition	SNOMED	
+4109976	254110009	Osteogenesis imperfecta type IIA	Disorder	Standard	01/30/2002	12/30/2099	30	30	0	0	Condition	SNOMED	
+4109977	254111008	Osteogenesis imperfecta type IIB	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162652	1197018005	Osteogenesis imperfecta type IIC	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4295782	385483009	Osteogenesis imperfecta type III	Disorder	Standard	01/30/2003	12/30/2099	130	130	20	20	Condition	SNOMED	
+4087686	280159008	Osteogenesis imperfecta, type IV A	Disorder	Standard	01/30/2002	12/30/2099	90	90	10	10	Condition	SNOMED	
+4091092	279309008	Osteogenesis imperfecta, type IV B	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4273695	63890001	Osteogenesis imperfecta with blue sclerae AND dentinogenesis imperfecta	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4273103	64404003	Osteogenesis imperfecta with blue sclerae AND normal teeth	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4003972	205497004	Osteogenesis imperfecta with normal sclerae, dominant form	Disorder	Standard	01/30/2002	12/30/2099	20	110	10	20	Condition	SNOMED	
+4109193	254144002	Osteoglophonic dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164454	1231151009	Osteonecrosis of jaw	Disorder	Standard	06/29/2022	12/30/2099	90	90	30	30	Condition	SNOMED	
+46270478	315801000119108	Osteonecrosis of jaw caused by drug	Disorder	Standard	07/30/2015	12/30/2099	100,110	100,980	22,540	22,670	Condition	SNOMED	
+44783582	699687003	Osteonecrosis of jaw due to bisphosphonate	Disorder	Standard	01/30/2014	12/30/2099	870	870	130	130	Condition	SNOMED	
+37204060	787408008	Osteopathia striata, pigmentary dermopathy, white forelock syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4109186	254129003	Osteopathia striata with cranial sclerosis	Disorder	Standard	01/30/2002	12/30/2099	120	120	20	20	Condition	SNOMED	
+37117739	732954002	Osteopenia, intellectual disability, sparse hair syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674392	773730002	Osteopetrosis hypogammaglobulinemia syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4113733	254121000	Osteopetrosis - intermediate type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111326	254122007	Osteopetrosis with renal tubular acidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716194	722113001	Osteoporosis and oculocutaneous hypopigmentation syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4109181	254112001	Osteoporosis with pseudoglioma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4273556	63810002	Osteoradionecrosis of jaw	Disorder	Standard	01/30/2002	12/30/2099	1,720	3,330	130	380	Condition	SNOMED	
+4001505	109716001	Osteoradionecrosis of the mandible	Disorder	Standard	01/30/2002	12/30/2099	1,480	1,480	240	240	Condition	SNOMED	
+4001147	109715002	Osteoradionecrosis of the maxilla	Disorder	Standard	01/30/2002	12/30/2099	130	130	10	10	Condition	SNOMED	
+4109183	254124008	Osteosclerosis - Stanescu type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165082	1237513008	Osteosclerotic metaphyseal dysplasia	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4207361	54036001	Oto-palato-digital syndrome, type I	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4172984	42432003	Oto-palato-digital syndrome, type II	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4111312	254060000	Otospondylomegaepiphyseal dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160892	1169363004	Overgrowth, metaphyseal undermodeling, spondylar dysplasia syndrome	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160891	1169362009	Overgrowth syndrome with 2q37 translocation	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4338236	88220006	Pachydermoperiostosis syndrome	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+36716204	722127006	Pacman dysplasia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716261	722210007	Parastremmatic dwarfism	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36675062	771338002	Parietal foramina with clavicular hypoplasia	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674462	773985008	Peripheral dysostosis	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674197	770761005	Phalangeal microgeodic syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163354	1208987006	PHIP-related behavioral problems, intellectual disability, obesity, dysmorphic features syndrome	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+45773360	702347001	Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+76801	36517007	Polyostotic fibrous dysplasia of bone	Disorder	Standard	01/30/2002	12/30/2099	64,240	64,240	9,820	9,820	Condition	SNOMED	
+604655	1003460001	Progressive avascular necrosis of bilateral lunate bones	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204089	787484007	Progressive avascular necrosis of lunate	Disorder	Standard	07/30/2019	12/30/2099	76,200	76,210	18,950	18,950	Condition	SNOMED	
+73854	82725007	Progressive myositis ossificans	Disorder	Standard	01/30/2002	12/30/2099	92,710	92,710	19,310	19,310	Condition	SNOMED	
+36714156	719271000	Progressive osseous heteroplasia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+601177	462471000124100	Progressive osteonecrosis of left lunate	Disorder	Standard	02/28/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+601176	462461000124107	Progressive osteonecrosis of right lunate	Disorder	Standard	02/28/2021	12/30/2099	10	10	0	0	Condition	SNOMED	
+4109171	254065005	Progressive pseudorheumatoid dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162303	1187303004	Progressive spondyloepimetaphyseal dysplasia, short stature, short fourth metatarsals, intellectual disability syndrome	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4331587	22567005	Pseudoachondroplastic spondyloepiphyseal dysplasia syndrome	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+4113605	254058002	Pseudodiastrophic dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714146	719258003	Pyknoachondrogenesis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4232315	89647000	Pyknodysostosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4101118	27837003	Pyle metaphyseal dysplasia	Disorder	Standard	01/30/2002	12/30/2099	6,880	6,880	1,400	1,400	Condition	SNOMED	
+4191498	389239007	Raine dysplasia	Disorder	Standard	01/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+37165064	1237412001	Regressive spondylometaphyseal dysplasia	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395877	715472000	Reinhardt Pfeiffer mesomelic dysplasia	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4311553	85487008	Renal phosphaturia	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4209722	56692003	Rhizomelic chondrodysplasia punctata syndrome	Disorder	Standard	01/30/2002	12/30/2099	15,630	15,630	290	290	Condition	SNOMED	
+604891	1003862001	Rhizomelic chondrodysplasia punctata type 1	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+604889	1003860009	Rhizomelic chondrodysplasia punctata type 2	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+604888	1003858007	Rhizomelic chondrodysplasia punctata type 3	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395901	715505002	Rhizomelic dysplasia Patterson Lowry type	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674951	770948004	Rhizomelic syndrome Urbach type	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676501	773404000	Roifman syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4317955	95243004	Rolland-Debuqois syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163330	1208934006	Sagliker syndrome	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111320	254092004	Saldino-Mainzer dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109992	723995003	Schimke immuno-osseous dysplasia	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+441280	29145002	Schwartz-Jampel syndrome	Disorder	Standard	01/30/2002	12/30/2099	10,700	10,700	510	510	Condition	SNOMED	
+36716195	722114007	Sclerosing dysplasia of bone, ichthyosis, premature ovarian failure syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4069829	17568006	Sclerosteosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4240091	57917004	Seckel syndrome	Disorder	Standard	01/30/2002	12/30/2099	560	560	10	10	Condition	SNOMED	
+37204023	787092009	Secondary non-traumatic avascular necrosis of bone	Disorder	Standard	07/30/2019	12/30/2099	50	50	20	20	Condition	SNOMED	
+618753	874931001	Severe achondroplasia, developmental delay, acanthosis nigricans syndrome	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624205	766819001	Severe lateral tibial bowing with short stature	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163586	1217372003	Severe myopia, generalized joint laxity, short stature syndrome	Disorder	Standard	04/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4249461	72922008	Short rib-polydactyly syndrome, Majewski type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37111329	726032008	Short rib polydactyly syndrome Saldino Noonan type	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37168356	1279843003	Short rib polydactyly syndrome type 5	Disorder	Standard	04/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162793	1197586007	Short stature, advanced bone age, early-onset osteoarthritis syndrome	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676860	774155009	Short stature, auditory canal atresia, mandibular hypoplasia, skeletal anomalies syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714113	719213009	Short stature Brussels type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676673	773625007	Short stature, onychodysplasia, facial dysmorphism, hypotrichosis syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622394	763868006	SHOX-related short stature	Disorder	Standard	07/30/2018	12/30/2099	50	50	10	10	Condition	SNOMED	
+4113731	254114000	Singleton-Merten syndrome	Disorder	Standard	01/30/2002	12/30/2099	40	40	0	0	Condition	SNOMED	
+37161212	1177175008	Skeletal dysplasia, T-cell immunodeficiency, developmental delay syndrome	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716463	722478008	Skeletal dysplasia with intellectual disability syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116667	733468006	Skeletal dysplasia with wormian bone, multiple fractures, dentinogenesis imperfecta syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37108678	10835311000119100	Slipped left upper capital femoral epiphysis	Disorder	Standard	07/30/2017	12/30/2099	3,980	3,980	230	230	Condition	SNOMED	
+37108680	10854141000119104	Slipped right upper capital femoral epiphysis	Disorder	Standard	07/30/2017	12/30/2099	910	910	190	190	Condition	SNOMED	
+133848	26460006	Slipped upper femoral epiphysis	Disorder	Standard	01/30/2002	12/30/2099	311,960	367,980	60,630	74,880	Condition	SNOMED	
+37396155	715862006	Smith McCort dysplasia	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+72421	203467005	Solitary bone cyst	Disorder	Standard	01/30/2002	12/30/2099	238,460	240,020	133,120	133,520	Condition	SNOMED	
+37208278	1076891000119100	Solitary bone cyst of left fibula	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37208280	1076911000119103	Solitary bone cyst of left foot	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37207816	320851000119105	Solitary bone cyst of left hand	Disorder	Standard	02/28/2019	12/30/2099	20	20	20	20	Condition	SNOMED	
+36684579	320861000119107	Solitary bone cyst of left humerus	Disorder	Standard	01/30/2019	12/30/2099	60	60	20	20	Condition	SNOMED	
+37207817	320871000119101	Solitary bone cyst of left pelvis	Disorder	Standard	02/28/2019	12/30/2099	20	20	10	10	Condition	SNOMED	
+601049	320901000119101	Solitary bone cyst of left radius	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37207818	320891000119100	Solitary bone cyst of left tibia	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37208277	1076881000119103	Solitary bone cyst of right fibula	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37208279	1076901000119101	Solitary bone cyst of right foot	Disorder	Standard	02/28/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+37207811	320921000119105	Solitary bone cyst of right hand	Disorder	Standard	02/28/2019	12/30/2099	30	30	30	30	Condition	SNOMED	
+36684580	320931000119108	Solitary bone cyst of right humerus	Disorder	Standard	01/30/2019	12/30/2099	80	80	40	40	Condition	SNOMED	
+37207819	320941000119104	Solitary bone cyst of right pelvis	Disorder	Standard	02/28/2019	12/30/2099	20	20	10	10	Condition	SNOMED	
+601050	320971000119106	Solitary bone cyst of right radius	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37207820	320961000119100	Solitary bone cyst of right tibia	Disorder	Standard	02/28/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4191481	389161008	Sponastrime dysplasia	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396423	716231009	Spondylocamptodactyly syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+45765418	702351004	Spondylocarpotarsal synostosis syndrome	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111308	254047006	Spondylodysplasia, Torrance type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4109972	254079002	Spondyloenchondrodysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+45766379	703523004	Spondyloenchondrodysplasia with immune dysregulation	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676425	773302000	Spondyloepimetaphyseal dysplasia, abnormal dentition syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714077	719165004	Spondyloepimetaphyseal dysplasia aggrecan type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+35608003	764460003	Spondyloepimetaphyseal dysplasia anauxetic type	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676426	773303005	Spondyloepimetaphyseal dysplasia Genevieve type	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622401	763885008	Spondyloepimetaphyseal dysplasia Handigodu type	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676423	773300008	Spondyloepimetaphyseal dysplasia, hypotrichosis syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397255	717330004	Spondyloepimetaphyseal dysplasia Irapa type	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204273	782821004	Spondyloepimetaphyseal dysplasia Isidor type	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714078	719166003	Spondyloepimetaphyseal dysplasia matrilin-3 type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714082	719171005	Spondyloepimetaphyseal dysplasia Missouri type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717699	719172003	Spondyloepimetaphyseal dysplasia PAPSS2 type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714102	719201004	Spondyloepimetaphyseal dysplasia Shohat type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624207	766821006	Spondyloepimetaphyseal dysplasia, short limb, abnormal calcification syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+45765417	702350003	Spondyloepimetaphyseal dysplasia, Strudwick type	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624206	766820007	Spondyloepimetaphyseal dysplasia with multiple dislocations	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36713802	718765003	Spondyloepiphyseal dysplasia Cantu type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4150456	278713008	Spondyloepiphyseal dysplasia congenita	Disorder	Standard	01/30/2002	12/30/2099	35,730	46,470	2,900	3,420	Condition	SNOMED	
+36713803	718766002	Spondyloepiphyseal dysplasia, craniosynostosis, cleft palate, cataract and intellectual disability syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714104	719203001	Spondyloepiphyseal dysplasia Kimberley type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36713800	718763005	Spondyloepiphyseal dysplasia MacDermot type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714105	719204007	Spondyloepiphyseal dysplasia Maroteaux type	Disorder	Standard	01/30/2017	12/30/2099	10	10	0	0	Condition	SNOMED	
+36713801	718764004	Spondyloepiphyseal dysplasia Reardon type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164084	1228860003	Spondyloepiphyseal dysplasia Stanescu type	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4202213	51952004	Spondyloepiphyseal dysplasia tarda	Disorder	Standard	01/30/2002	12/30/2099	140	9,560	0	2,200	Condition	SNOMED	
+36714103	719202006	Spondyloepiphyseal dysplasia tarda Kohn type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4305414	389160009	Spondyloepiphyseal dysplasia with joint laxity	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676716	773693005	Spondylo-megaepiphyseal-metaphyseal dysplasia	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204309	782912001	Spondylometaphyseal dysplasia A4 type	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204310	782913006	Spondylometaphyseal dysplasia, bowed forearms, facial dysmorphism syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37167957	1269226006	Spondylometaphyseal dysplasia, corneal dystrophy syndrome	Disorder	Standard	04/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676427	773304004	Spondylometaphyseal dysplasia Golden type	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714182	719304005	Spondylometaphyseal dysplasia Schmidt type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4109971	254078005	Spondylometaphyseal dysplasia - Sutcliffe type	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+36714106	719205008	Spondylometaphyseal dysplasia with cone-rod dystrophy syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37398935	715653007	Spondylo-ocular syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622402	763886009	Spondyloperipheral dysplasia with short ulna syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162796	1197589000	Steel syndrome	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4302891	78675000	Stickler syndrome	Disorder	Standard	01/30/2002	12/30/2099	1,060	1,080	300	300	Condition	SNOMED	
+605240	1010668008	Stickler syndrome type 1	Disorder	Standard	01/30/2021	12/30/2099	10	10	0	0	Condition	SNOMED	
+605236	1010664005	Stickler syndrome type 2	Disorder	Standard	01/30/2021	12/30/2099	10	10	0	0	Condition	SNOMED	
+37204438	783097004	Stickler syndrome type 3	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+605238	1010666007	Stickler syndrome type 4	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4113609	254097005	Stuve-Wiedemann dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37119228	723580007	Talo-patello-scaphoid osteolysis syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109742	723578001	Terminal osseous dysplasia and pigmentary defect syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4164551	29352008	Thanatophoric dysplasia	Disorder	Standard	01/30/2002	12/30/2099	11,090	11,090	800	800	Condition	SNOMED	
+4308047	389157002	Thanatophoric dysplasia, type 1	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4305413	389158007	Thanatophoric dysplasia, type 2	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204363	783004003	Thin ribs, tubular bones, dysmorphism syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37118962	723556008	Thoracolaryngopelvic dysplasia	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204362	783003009	Thoracomelic dysplasia	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4094097	25940001	Traumatic bone cyst of jaw	Disorder	Standard	01/30/2002	12/30/2099	1,320	1,320	270	270	Condition	SNOMED	
+4188903	392559009	Tumor-induced osteomalacia	Disorder	Standard	01/30/2003	12/30/2099	980	980	50	50	Condition	SNOMED	
+4111310	254051008	Type III short rib polydactyly syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4113602	254052001	Type IV short rib polydactyly syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395710	715242008	Ulna metaphyseal dysplasia syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36713987	719041000	Upington disease	Disorder	Standard	01/30/2017	12/30/2099	10	10	0	0	Condition	SNOMED	
+37396393	716195006	Verloes Bourguignon syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4282453	67049004	Vitamin D-dependent rickets, type 1	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4248149	72831007	Vitamin D-dependent rickets, type 2	Disorder	Standard	01/30/2002	12/30/2099	0	10	0	0	Condition	SNOMED	
+4029604	237894002	Vitamin D-dependent rickets type II with alopecia	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4035150	237895001	Vitamin D-dependent rickets type II without alopecia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395919	715532007	Weismann Netter syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111314	254066006	Wolcott-Rallison dysplasia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4109187	254131007	Worth disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204245	782786001	X-linked calvarial hyperostosis	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714551	719837003	X-linked dominant chondrodysplasia Chassaing Lacombe type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163547	1217228004	X-linked intellectual disability, cerebellar hypoplasia, spondyloepiphyseal dysplasia syndrome	Disorder	Standard	04/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204244	782785002	X-linked osteoporosis with fractures	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674769	770603000	X-linked spondyloepimetaphyseal dysplasia	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4190588	389171005	Yunis-Varon dysplasia	Disorder	Standard	01/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	

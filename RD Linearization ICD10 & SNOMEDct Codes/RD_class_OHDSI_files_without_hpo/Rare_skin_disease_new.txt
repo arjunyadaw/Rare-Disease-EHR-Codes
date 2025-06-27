@@ -1,0 +1,603 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+36714391	719595002	Absence of fingerprints with congenital milia syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4100661	2772003	Acquired epidermolysis bullosa	Disorder	Standard	01/30/2002	12/30/2099	16,580	16,590	4,240	4,240	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+40397299	201160005	Acquired hypertrichosis lanuginosa	Disorder	Standard	07/30/2019	12/30/2099	2,120	2,120	1,480	1,480	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4313149	8691004	Acquired ichthyosis	Disorder	Standard	01/30/2002	12/30/2099	99,770	99,820	57,070	57,100	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37165494	1254908004	Acquired paraneoplastic ichthyosis	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acquired ichthyosis'"">1"
+4301026	403404004	Acquired perforating pseudoxanthoma elasticum	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Pseudoxanthoma elasticumAcquired pseudoxanthoma elasticum'"">2"
+37165452	1254861008	Acquired perforating pseudoxanthoma elasticum of periumbilical region	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Pseudoxanthoma elasticumAcquired pseudoxanthoma elasticum'"">2"
+4296766	77039003	Acquired progressive kinking of hair	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4296371	403401007	Acquired pseudoxanthoma elasticum	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4297928	403786001	Acral Darier's disease	Disorder	Standard	07/30/2003	12/30/2099	20	20	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Darier disease'"">1"
+37116749	733638006	Acral dystrophic epidermolysis bullosa	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+46271316	709416009	Acral peeling skin syndrome	Disorder	Standard	07/30/2015	12/30/2099	30	30	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4033042	238949006	Acral persistent papular mucinosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4294422	402842008	Acral pseudolymphomatous angiokeratoma of children (APACHE)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Cutaneous pseudolymphoma'"">1"
+36713696	718633009	Acral self-healing collodion baby	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4222163	83839005	Acrodermatitis continua of Hallopeau	Disorder	Standard	01/30/2002	12/30/2099	12,010	12,010	5,650	5,650	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4034570	239069005	Acroerythrokeratoderma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4033480	238872007	Acrogeria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4007950	111029001	Acrokerato-elastoidosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4081064	238640007	Acrokeratosis paraneoplastica of Bazex	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4266656	400018004	Acrokeratosis verruciformis of Darier disease	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Darier disease'"">1"
+4271009	400085009	Acrokeratosis verruciformis of Hopf	Disorder	Standard	07/30/2003	12/30/2099	80	80	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4034648	239089006	Acromelanosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36679003	776417008	Acroosteolysis, keloid-like lesions, premature aging syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4033202	239098009	Acropustulosis of infancy	Disorder	Standard	01/30/2002	12/30/2099	100	100	60	60	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Pustular psoriasis of palms and soles'"">1"
+4064057	200999007	Actinic lichen planus	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+141374	201015007	Actinic prurigo	Disorder	Standard	07/30/2003	12/30/2099	30	30	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+439096	52636001	Actinic reticuloid	Disorder	Standard	01/30/2002	12/30/2099	11,190	11,190	8,830	8,830	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4225434	84625002	Acute febrile neutrophilic dermatosis	Disorder	Standard	01/30/2002	12/30/2099	80,950	81,100	15,720	15,770	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37165184	1251367000	Acute febrile neutrophilic dermatosis due to neoplastic disease	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute febrile neutrophilic dermatosis'"">1"
+37165473	1254886004	Acute febrile neutrophilic dermatosis of hand	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute febrile neutrophilic dermatosis'"">1"
+45773387	702617007	Acute generalized exanthematous pustulosis	Disorder	Standard	07/30/2014	12/30/2099	730	730	120	120	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4297497	402326008	Acute generalized pustular psoriasis de novo	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Generalized pustular psoriasis'"">1"
+4147430	34748004	Adams-Oliver syndrome	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Aplasia cutis congenita'"">1"
+4081252	238942002	Adult linear immunoglobulin A disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Linear IgA dermatosis'"">1"
+37165472	1254885000	Adult pityriasis rubra pilaris	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Pityriasis rubra pilaris'"">1"
+4296486	403411000	Aggressive systemic infantile myofibromatosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Infantile myofibromatosis'"">1"
+4106575	29756008	Alcoholic pellagra	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Pellagra'"">1"
+45765792	702810006	Allopurinol hypersensitivity syndrome	Disorder	Standard	07/30/2014	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Drug reaction with eosinophilia and systemic symptoms'"">1"
+37203833	783205005	Alopecia antibody deficiency	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36715349	720980004	Alopecia, psychomotor epilepsy, periodontal pyorrhea, intellectual disability syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Alopecia universalis'"">1"
+35622693	764849002	Amyloidosis cutis dyschromia	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4174223	49465005	Angioma serpiginosum	Disorder	Standard	01/30/2002	12/30/2099	210	210	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36676904	774210006	Angora hair nevus	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36715029	720493003	Annular atrophic lichen planus	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+36713694	718631006	Annular epidermolytic ichthyosis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4067062	201000006	Annular lichen planus	Disorder	Standard	01/30/2002	12/30/2099	60	70	40	40	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+45768750	707247006	Annular oral lichen planus	Disorder	Standard	01/30/2015	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Annular lichen planus'"">1"
+4033517	239013001	Anonychia with bizarre flexural pigmentation	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715030	720494009	Anonychia with microcephaly syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37205073	784351000	Antecubital pterygium syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164070	1228843008	Anti-p200 pemphigoid	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299833	403549004	Aplasia cutis congenita associated with fetus papyraceus (Type 5)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299834	403551000	Aplasia cutis congenita due to teratogenic drug (Type 7)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4295313	403548007	Aplasia cutis congenita due to underlying malformation (Type 4)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299962	403552007	Aplasia cutis congenita following intra-uterine infection (Type 8)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4295314	403550004	Aplasia cutis congenita in association with epidermolysis bullosa (Type 6)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+3654669	838362006	Aplasia cutis congenita of limb	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301150	403553002	Aplasia cutis congenita secondary to malformation syndrome (Type 9)	Disorder	Standard	07/30/2003	12/30/2099	0	10	0	0	Condition	SNOMED	
+37109721	723554006	Aplasia cutis congenita with epibulbar dermoid syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717393	720500008	Aplasia cutis congenita with intestinal lymphangiectasia syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301294	403757004	Aplasia cutis in Chromosome 4 short-arm deletion syndrome (Wolf-Hirschhorn)	Disorder	Standard	07/30/2003	12/30/2099	80	80	10	10	Condition	SNOMED	
+4301296	403763008	Aplasia cutis in Johanson-Blizzard syndrome	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4295482	403756008	Aplasia cutis in Trisomy 13 syndrome	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715035	720499004	Aplasia cutis with myopia syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160894	1169365006	Aquagenic palmoplantar keratoderma	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396229	715963002	Atrichia with papular lesions	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4093932	25858008	Atrophic lichen planus	Disorder	Standard	01/30/2002	12/30/2099	110	110	70	70	Condition	SNOMED	
+4099178	2736005	Atrophoderma vermiculatum	Disorder	Standard	01/30/2002	12/30/2099	38,240	38,240	28,820	28,820	Condition	SNOMED	
+4033787	238619006	Atypical adult pityriasis rubra pilaris	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4031144	238622008	Atypical juvenile pityriasis rubra pilaris	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37117240	725148000	Atypical lichen myxedematosus	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396336	716105001	Autosomal dominant diffuse palmoplantar keratoderma Norrbotten type	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298002	403794008	Autosomal dominant familial wooly hair	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204473	783136007	Autosomal dominant focal non-epidermolytic palmoplantar keratoderma with plantar blistering	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37164548	1231284001	Autosomal dominant generalized dystrophic epidermolysis bullosa	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110126	254164007	Autosomal dominant lamellar ichthyosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714336	719518004	Autosomal dominant palmoplantar keratoderma and congenital alopecia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301403	403811007	Autosomal dominant pseudoxanthoma elasticum	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37205090	784381008	Autosomal recessive cutis laxa type 2A	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36680612	778068007	Autosomal recessive cutis laxa type 2B	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+619153	890235002	Autosomal recessive epidermolytic ichthyosis	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622337	763768001	Autosomal recessive exfoliative ichthyosis	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300454	403795009	Autosomal recessive familial wooly hair	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204285	782878007	Autosomal recessive nail dysplasia	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300458	403812000	Autosomal recessive pseudoxanthoma elasticum	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37111017	725588002	Bathing suit ichthyosis	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301160	403622009	B-cell pseudolymphoma due to drug	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4289476	69488000	Beaded hair	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4113128	255192005	Benign cephalic histiocytosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4059145	19719003	Benign lymphocytic infiltration of Jessner	Disorder	Standard	01/30/2002	12/30/2099	650	650	90	90	Condition	SNOMED	
+4142060	34250006	Benign mucous membrane pemphigoid	Disorder	Standard	01/30/2002	12/30/2099	156,710	217,360	17,500	31,820	Condition	SNOMED	
+433279	267800008	Benign mucous membrane pemphigoid with no eye involvement	Disorder	Standard	01/30/2002	12/30/2099	25,750	25,750	8,650	8,650	Condition	SNOMED	
+376189	76092003	Benign mucous membrane pemphigoid with ocular involvement	Disorder	Standard	01/30/2002	12/30/2099	31,480	31,480	5,480	5,480	Condition	SNOMED	
+37117073	15632131000119104	Bilateral fibromatosis of plantar fascia of feet	Disorder	Standard	07/30/2017	12/30/2099	10	10	10	10	Condition	SNOMED	
+36713566	717941005	Body skin hyperlaxity due to vitamin K dependent coagulation factor deficiency	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4262682	46459009	Brazilian pemphigus foliaceus	Disorder	Standard	01/30/2002	12/30/2099	260	260	210	210	Condition	SNOMED	
+45766385	703531009	Brooke-Spiegler syndrome	Disorder	Standard	07/30/2014	12/30/2099	10	10	10	10	Condition	SNOMED	
+4008702	11160000	Brown oculocutaneous albinism	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4299404	402442000	Brunsting-Perry type cicatricial pemphigoid	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4264891	6111009	Bullous lichen planus	Disorder	Standard	01/30/2002	12/30/2099	4,530	4,530	1,850	1,850	Condition	SNOMED	
+4290834	399945005	Castleman's superficial pseudotumor, involving skin	Disorder	Standard	07/30/2003	12/30/2099	70	70	30	30	Condition	SNOMED	
+4096456	26374003	Cheilitis glandularis	Disorder	Standard	01/30/2002	12/30/2099	510	510	90	90	Condition	SNOMED	
+4148466	30657009	Cheilitis glandularis, deep suppurative type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4277897	65747008	Cheilitis glandularis, superficial suppurative type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4081249	238928005	Chilblain lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	190	190	40	40	Condition	SNOMED	
+4297653	402439006	Childhood bullous pemphigoid	Disorder	Standard	07/30/2003	12/30/2099	20	20	10	10	Condition	SNOMED	
+4031099	109250009	Chronic bullous dermatosis of childhood	Disorder	Standard	01/30/2002	12/30/2099	1,080	1,080	580	580	Condition	SNOMED	
+4081248	238927000	Chronic discoid lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	290	680	130	260	Condition	SNOMED	
+4080943	238621001	Circumscribed juvenile pityriasis rubra pilaris	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033647	239073008	Circumscribed palmoplantar keratoderma	Disorder	Standard	01/30/2002	12/30/2099	0	10	0	0	Condition	SNOMED	
+4033786	238618003	Classical adult pityriasis rubra pilaris	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4033788	238620000	Classical juvenile pityriasis rubra pilaris	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165210	1251401000	Classical type acute febrile neutrophilic dermatosis	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+46272738	711154007	Cole disease	Disorder	Standard	07/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163189	1208477000	Confetti-like atrophic macular lesions of skin	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4343212	239152005	Congenital absence of skin on scalp	Disorder	Standard	01/30/2002	12/30/2099	40	40	30	30	Condition	SNOMED	
+4346280	239153000	Congenital absence of skin on scalp with epidermal nevi	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4343683	239144007	Congenital erector pili hamartoma	Disorder	Standard	01/30/2002	12/30/2099	20	40	10	20	Condition	SNOMED	
+36676714	773691007	Congenital erosive and vesicular dermatosis	Disorder	Standard	01/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+4295603	403799003	Congenital hypertrichosis lanuginosa	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163332	1208936008	Congenital ichthyosis, intellectual disability, spastic quadriplegia syndrome	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162658	1197059004	Congenital ichthyosis, microcephalus, tetraplegia syndrome	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110166	724277002	Congenital ichthyosis with hypotrichosis syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4206008	53748002	Congenital junctional epidermolysis bullosa-pyloric atresia syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716398	722391005	Congenital lethal erythroderma	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4293577	403281007	Congenital onychodysplasia of index fingers	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033196	239072003	Congenital palmoplantar and perioral keratoderma of Olmsted	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+45766363	703504006	Congenital reticular ichthyosiform erythroderma	Disorder	Standard	07/30/2014	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110263	254231002	Congenital wooly hair	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4196974	51156002	Coup de sabre scleroderma	Disorder	Standard	01/30/2002	12/30/2099	130	130	30	30	Condition	SNOMED	
+4175543	278098005	Crandall's syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4028724	128865003	Cutaneous B-cell pseudolymphoma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397666	718373005	Cutaneous B-cell pseudolymphoma caused by Borrelia	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717659	718634003	Cutaneous collagenous vasculopathy	Disorder	Standard	01/30/2017	12/30/2099	10	10	10	10	Condition	SNOMED	
+4029674	128862000	Cutaneous pseudolymphoma	Disorder	Standard	01/30/2002	12/30/2099	90	12,090	40	9,040	Condition	SNOMED	
+4028723	128864004	Cutaneous T-cell pseudolymphoma	Disorder	Standard	01/30/2002	12/30/2099	0	11,190	0	8,830	Condition	SNOMED	
+4026031	19726003	Cutis laxa, acquired type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4009171	111388003	Cutis laxa, autosomal dominant	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301025	403399001	Cutis laxa following hypersensitivity reaction	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4296370	403398009	Cutis laxa following urticaria-angioedema	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110115	254222002	Cutis laxa, recessive, type I	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299808	403400008	Cutis laxa with complement deficiency	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033483	238883003	Cytophagic histiocytic panniculitis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4174992	48611009	Darier disease	Disorder	Standard	01/30/2002	12/30/2099	1,140	1,330	210	240	Condition	SNOMED	
+37205061	784339002	Deficiency of interleukin 36 receptor antagonist	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+140487	111196000	Dermatitis herpetiformis	Disorder	Standard	01/30/2002	12/30/2099	276,450	276,450	103,680	103,680	Condition	SNOMED	
+4082499	239088003	Dermatopathia pigmentosa reticularis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676903	774209001	Didymosis aplasticosebacea	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4287318	397014001	Diffuse erythrodermic mastocytosis	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+36715422	721096008	Diffuse palmoplantar keratoderma and acrocyanosis syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36680606	778062008	Diffuse palmoplantar keratoderma with painful fissures	Disorder	Standard	01/30/2019	12/30/2099	10	10	10	10	Condition	SNOMED	
+4346278	239145008	Diffuse smooth muscle hamartoma	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+432919	79291003	Discoid lupus erythematosus of eyelid	Disorder	Standard	01/30/2002	12/30/2099	40,520	43,800	22,280	24,390	Condition	SNOMED	
+4296505	403498005	Discoid lupus erythematosus of face	Disorder	Standard	07/30/2003	12/30/2099	110	110	40	40	Condition	SNOMED	
+4299824	403501005	Discoid lupus erythematosus of foot	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4296503	403496009	Discoid lupus erythematosus of genital mucous membranes	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4295303	403500006	Discoid lupus erythematosus of hands	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4295302	403499002	Discoid lupus erythematosus of lip	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+45763765	700269001	Discoid lupus erythematosus of lower eyelid	Disorder	Standard	07/30/2014	12/30/2099	1,270	1,270	850	850	Condition	SNOMED	
+4295182	403494007	Discoid lupus erythematosus of mucous membranes	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4295301	403495008	Discoid lupus erythematosus of oral mucosa	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4296504	403497000	Discoid lupus erythematosus of scalp	Disorder	Standard	07/30/2003	12/30/2099	240	240	80	80	Condition	SNOMED	
+45763818	700334001	Discoid lupus erythematosus of upper eyelid	Disorder	Standard	07/30/2014	12/30/2099	2,010	2,010	1,260	1,260	Condition	SNOMED	
+37399362	717258005	Discrete papular lichen myxedematosus	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4296506	403502003	Disseminated discoid lupus erythematosus	Disorder	Standard	07/30/2003	12/30/2099	30	30	10	10	Condition	SNOMED	
+141650	41495000	Disseminated superficial actinic porokeratosis	Disorder	Standard	01/30/2002	12/30/2099	347,010	347,010	178,800	178,800	Condition	SNOMED	
+4008558	111389006	Dominant dystrophic epidermolysis bullosa	Disorder	Standard	01/30/2002	12/30/2099	110	110	10	10	Condition	SNOMED	
+4328228	75875004	Dominant dystrophic epidermolysis bullosa, albopapular type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4098123	2689001	Dominant dystrophic epidermolysis bullosa with absence of skin	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4222746	403629000	Drug-induced bullous pemphigoid	Disorder	Standard	07/30/2003	12/30/2099	20	20	10	10	Condition	SNOMED	
+4185596	414061000	Drug-induced cicatricial pemphigoid	Disorder	Standard	01/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301166	403632002	Drug-induced epidermolysis bullosa acquisita	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4228798	403633007	Drug-induced linear IgA disease	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+37165229	1251421004	Drug-induced palmoplantar pustular psoriasis	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301164	403626007	Drug-induced pellagra	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301165	403631009	Drug-induced pemphigus foliaceus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299976	403630005	Drug-induced pemphigus vulgaris	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297907	403670003	Drug-induced pseudoxanthoma elasticum	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301163	403625006	Drug-induced solar urticaria	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4301158	403609001	Drug-induced Stevens-Johnson syndrome	Disorder	Standard	07/30/2003	12/30/2099	420	420	230	230	Condition	SNOMED	
+45765791	702809001	Drug reaction with eosinophilia and systemic symptoms	Disorder	Standard	07/30/2014	12/30/2099	26,280	26,300	6,220	6,230	Condition	SNOMED	
+45773405	702811005	Drug reaction with eosinophilia and systemic symptoms caused by strontium ranelate	Disorder	Standard	07/30/2014	12/30/2099	10	10	10	10	Condition	SNOMED	
+4034572	239082002	Dyschromatosis universalis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301401	403809003	Dystrophic epidermolysis bullosa inverse type	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717560	722436002	Dystrophic epidermolysis bullosa nails only	Disorder	Standard	01/30/2017	12/30/2099	20	20	20	20	Condition	SNOMED	
+4032903	238832003	Elastoderma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4115299	254739004	Elastofibroma of skin	Disorder	Standard	01/30/2002	12/30/2099	230	230	40	40	Condition	SNOMED	
+4170728	49428008	Elastosis perforans serpiginosa	Disorder	Standard	01/30/2002	12/30/2099	17,600	17,600	10,340	10,340	Condition	SNOMED	
+4033488	238905009	Encephalocraniocutaneous lipomatosis	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4033929	238931006	Eosinophilic cellulitis	Disorder	Standard	01/30/2002	12/30/2099	15,280	15,280	4,950	4,950	Condition	SNOMED	
+4297652	402435000	Eosinophilic spongiosis (prebullous pemphigus)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4078931	19138001	Epidermodysplasia verruciformis	Disorder	Standard	01/30/2002	12/30/2099	370	370	150	150	Condition	SNOMED	
+4297656	402450009	Epidermolysis bullosa acquisita, Brunsting-Perry type	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4270874	402448001	Epidermolysis bullosa acquisita, bullous pemphigoid-like	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4299405	402449009	Epidermolysis bullosa acquisita, cicatricial pemphigoid-like	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4292374	402447006	Epidermolysis bullosa acquisita, classical acral type	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299406	402451008	Epidermolysis bullosa acquisita, oral mucosal involvement	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301402	403810008	Epidermolysis bullosa pruriginosa	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676591	773501006	Epidermolysis bullosa simplex due to BP230 deficiency	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676593	773503009	Epidermolysis bullosa simplex due to exophilin 5 deficiency	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396773	716699004	Epidermolysis bullosa simplex due to plakophilin deficiency	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110107	254179000	Epidermolysis bullosa simplex herpetiformis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4220198	398071000	Epidermolysis bullosa simplex, Ogna type	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37399547	716700003	Epidermolysis bullosa simplex with circinate migratory erythema	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110129	254177003	Epidermolysis bullosa simplex with hypodontia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4113743	254180002	Epidermolysis bullosa simplex with mottled pigmentation	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109579	723308003	Epidermolysis bullosa simplex with muscular dystrophy	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396774	716701004	Epidermolysis bullosa simplex with pyloric atresia	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4266331	400142003	Epidermolytic epidermal nevus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082372	239071005	Epidermolytic palmoplantar keratoderma of Vorner	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4081085	238733003	Erosive pustular dermatosis of the scalp	Disorder	Standard	01/30/2002	12/30/2099	640	640	220	220	Condition	SNOMED	
+4115278	254664008	Eruptive keratoacanthoma	Disorder	Standard	01/30/2002	12/30/2099	40	40	20	20	Condition	SNOMED	
+4242593	58872001	Erythema elevatum diutinum	Disorder	Standard	01/30/2002	12/30/2099	13,630	13,630	1,760	1,760	Condition	SNOMED	
+37169732	16898231000119107	Erythema multiforme major	Disorder	Standard	08/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622336	763767006	Erythema palmare hereditarium	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110104	254161004	Erythrodermic lamellar ichthyosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346194	239062001	Erythrokeratoderma en cocardes	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033644	239063006	Erythrokeratoderma progressiva of Gottron	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37161416	1179293006	Erythrokeratodermia cardiomyopathy syndrome	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4289750	70041004	Erythrokeratodermia variabilis	Disorder	Standard	01/30/2002	12/30/2099	30	30	0	0	Condition	SNOMED	
+37204731	783615009	Erythropoietic uroporphyria associated with myeloid malignancy	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299673	403210001	Familial actinic prurigo of lip	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674470	774066000	Familial angiolipomatosis	Disorder	Standard	01/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+4194945	79468000	Familial benign pemphigus	Disorder	Standard	01/30/2002	12/30/2099	1,130	1,130	150	150	Condition	SNOMED	
+37163786	1220590003	Familial chilblain lupus erythematosus	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4343680	239139000	Familial cutaneous collagenoma	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37204275	782823001	Familial cutaneous telangiectasia and oropharyngeal cancer predisposition syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622949	765195000	Familial generalized lentiginosis	Disorder	Standard	07/30/2018	12/30/2099	30	30	0	0	Condition	SNOMED	
+35608024	764523004	Familial isolated trichomegaly	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299407	402463003	Familial localized cutaneous amyloidosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624234	766888002	Familial multiple lipomatosis	Disorder	Standard	07/30/2018	12/30/2099	60	60	20	20	Condition	SNOMED	
+35622307	763714006	Familial multiple nevi flammei	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301513	403930008	Familial multiple pilomatrixoma	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4295607	403825008	Familial multiple trichoepitheliomata	Disorder	Standard	07/30/2003	12/30/2099	20	20	0	0	Condition	SNOMED	
+37160607	1162852008	Familial normophosphatemic tumoral calcinosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297932	403793002	Familial painful callosities	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622053	763368004	Familial progressive hyper and hypopigmentation	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37395982	715630006	Familial progressive hyperpigmentation	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37108875	15632091000119101	Fibromatosis of plantar fascia of left foot	Disorder	Standard	07/30/2017	12/30/2099	710	720	380	390	Condition	SNOMED	
+37108874	15632051000119106	Fibromatosis of plantar fascia of right foot	Disorder	Standard	07/30/2017	12/30/2099	20	30	10	20	Condition	SNOMED	
+40484002	442528007	Fibromatosis with contracture of plantar fascia	Disorder	Standard	07/30/2009	12/30/2099	40	40	30	30	Condition	SNOMED	
+4249310	73692007	Fixed drug eruption	Disorder	Standard	01/30/2002	12/30/2099	3,180	3,180	790	790	Condition	SNOMED	
+4295601	403783009	Flexural Darier's disease	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+36674469	774065001	FLOTCH syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4221801	400115004	Focal acral hyperkeratosis	Disorder	Standard	07/30/2003	12/30/2099	120	130	30	30	Condition	SNOMED	
+37311865	789157007	Focal facial dermal dysplasia type I	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37311864	789159005	Focal facial dermal dysplasia type II	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37311863	789160000	Focal facial dermal dysplasia type III	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37311862	789161001	Focal facial dermal dysplasia type IV	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622781	764963007	Focal palmoplantar and gingival keratoderma	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36680603	778051008	Focal palmoplantar keratoderma with joint keratoses	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111952	254820002	Follicular atrophoderma and basal cell epitheliomata	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4203598	53593008	Folliculitis decalvans	Disorder	Standard	01/30/2002	12/30/2099	172,980	172,980	97,470	97,470	Condition	SNOMED	
+37399021	717055000	Frontal fibrosing alopecia	Disorder	Standard	07/30/2016	12/30/2099	570	660	180	220	Condition	SNOMED	
+37204322	782946000	Gastrocutaneous syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624269	766928004	Generalized basaloid follicular hamartoma syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4235741	90496008	Generalized epidermolysis bullosa simplex	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4007445	110980006	Generalized eruptive histiocytoma	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4081094	238763007	Generalized essential telangiectasia	Disorder	Standard	01/30/2002	12/30/2099	3,380	3,380	1,440	1,440	Condition	SNOMED	
+37165152	1240462005	Generalized inflammatory peeling skin syndrome	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165153	1240463000	Generalized non-inflammatory peeling skin syndrome	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+36713788	718749004	Generalized peeling skin syndrome	Disorder	Standard	01/30/2017	12/30/2099	10	10	0	0	Condition	SNOMED	
+4031142	238612002	Generalized pustular psoriasis	Disorder	Standard	01/30/2002	12/30/2099	165,930	173,590	52,580	59,060	Condition	SNOMED	
+4080941	238613007	Generalized pustular psoriasis of pregnancy	Disorder	Standard	01/30/2002	12/30/2099	7,660	7,660	6,480	6,480	Condition	SNOMED	
+4249474	7297005	Generalized seborrheic dermatitis of infants	Disorder	Standard	01/30/2002	12/30/2099	550,820	550,820	420,290	420,290	Condition	SNOMED	
+4080945	238632001	Giant porokeratosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397551	718215008	Graham Little Piccardi Lassueur syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4184973	41352000	Granulomatosis disciformis et progressiva	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165518	1254946006	Griscelli syndrome type 1	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165519	1254947002	Griscelli syndrome type 3	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4295307	403521006	Guttate morphea	Disorder	Standard	07/30/2003	12/30/2099	20	20	0	0	Condition	SNOMED	
+4006949	205548006	Harlequin ichthyosis	Disorder	Standard	01/30/2002	12/30/2099	40	40	0	0	Condition	SNOMED	
+4292404	37702000	Hereditary acrodermatitis enteropathica	Disorder	Standard	01/30/2002	12/30/2099	540	540	40	40	Condition	SNOMED	
+4033364	238835001	Hereditary acrokeratotic poikiloderma of Weary	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116666	733467001	Hereditary anetoderma	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116668	733469003	Hereditary congenital hypomelanotic and hypermelanotic cutaneous macules, growth retardation, intellectual disability syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36675042	771306007	Hereditary fibrosing poikiloderma, tendon contractures, myopathy, pulmonary fibrosis syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109614	723362004	Hereditary hypotrichosis simplex	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397199	717256009	Hereditary hypotrichosis simplex of scalp	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110186	724350009	Hereditary hypotrichosis with recurrent skin vesicles syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396826	716774008	Hereditary keratoacanthoma	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4293710	403442005	Hereditary mucoepithelial dysplasia	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397176	717228004	Hereditary palmoplantar keratoderma Gamborg Nielsen type	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36675036	771300001	Hereditary progressive mucinous histiocytosis	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300450	403774004	Hereditary sclerosing poikiloderma of Weary	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4245912	9311003	Hermansky-Pudlak syndrome	Disorder	Standard	01/30/2002	12/30/2099	12,220	12,220	1,180	1,180	Condition	SNOMED	
+4311256	86081009	Herpes gestationis	Disorder	Standard	01/30/2002	12/30/2099	39,020	39,020	19,310	19,310	Condition	SNOMED	
+36674992	771145006	Herpetiform pemphigus	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+46272742	711159002	Histiocytosis-lymphadenopathy plus syndrome	Disorder	Standard	07/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+4005989	111030006	Howel-Evans' syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4239565	91623008	Hydroa herpetiformis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655267	860796007	Hyperphosphatemic familial tumoral calcinosis	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301302	403784003	Hypertrophic Darier's disease	Disorder	Standard	07/30/2003	12/30/2099	150	150	30	30	Condition	SNOMED	
+4295181	403492006	Hypertrophic type discoid lupus erythematosus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4292707	37548006	Hypopigmentation-immunodeficiency disease	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37204690	783555001	Hypotrichosis and deafness syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109615	723363009	Hypotrichosis, lymphedema, telangiectasia, renal defect syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622087	763404001	Ichthyosis, alopecia, eclabion, ectropion, intellectual disability syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111337	254169002	Ichthyosis bullosa of Siemens	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300452	403782004	Ichthyosis follicularis with alopecia and photophobia (IFAP)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111338	254170001	Ichthyosis hystrix of Curth-Macklin	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622084	763401009	Ichthyosis prematurity syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4032885	238775002	Idiopathic livedo reticularis with summer ulceration	Disorder	Standard	01/30/2002	12/30/2099	17,560	17,560	2,780	2,780	Condition	SNOMED	
+4032900	238821003	Idiopathic mid-dermal elastolysis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4292551	402717008	IgA pemphigus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36715591	721313009	Indeterminate dendritic cell neoplasm	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111331	254146000	Infantile myofibromatosis	Disorder	Standard	01/30/2002	12/30/2099	60	80	20	20	Condition	SNOMED	
+4031143	238616004	Infantile pustular psoriasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4266170	399904002	Infantile stiff skin syndrome	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4221968	399995006	Inflammatory linear verrucous epidermal nevus	Disorder	Standard	07/30/2003	12/30/2099	850	850	190	190	Condition	SNOMED	
+4300112	402782006	Inherited pseudoxanthoma elasticum	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4081243	238901000	Insulin lipoatrophy	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+37161213	1177176009	Intermediate epidermolysis bullosa simplex with cardiomyopathy	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301524	403988009	Intradermal nodular fasciitis	Disorder	Standard	07/30/2003	12/30/2099	10	10	10	10	Condition	SNOMED	
+37161215	1177178005	Intrauterine growth restriction, congenital multiple café au lait macules, increased sister chromatid exchange syndrome	Disorder	Standard	10/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111344	254192002	Inverse junctional epidermolysis bullosa	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36713586	717963001	Isolated anterior cervical hypertrichosis	Disorder	Standard	01/30/2017	12/30/2099	10	10	0	0	Condition	SNOMED	
+37166961	1260463008	Isolated focal non-epidermolytic palmoplantar keratoderma	Disorder	Standard	01/30/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162268	1187178004	Isolated generalized anhidrosis with normal sweat glands	Disorder	Standard	11/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+46271313	709413001	Isolated hyperchlorhidrosis	Disorder	Standard	07/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+4006657	110982003	Jadassohn-Pellizzari anetoderma	Disorder	Standard	01/30/2002	12/30/2099	1,810	1,810	1,360	1,360	Condition	SNOMED	
+4290978	400140006	Junctional epidermolysis bullosa gravis of Herlitz	Disorder	Standard	07/30/2003	12/30/2099	4,160	4,160	620	620	Condition	SNOMED	
+4114852	254196004	Junctional epidermolysis bullosa mitis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080560	277812008	Juvenile elastoma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165502	1254920007	Juvenile pityriasis rubra pilaris	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033784	238615000	Juvenile pustular psoriasis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4290848	400031009	Juvenile xanthogranuloma	Disorder	Standard	07/30/2003	12/30/2099	480	680	170	270	Condition	SNOMED	
+4111006	255013004	Juvenile xanthogranuloma of iris	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4188298	414552005	Juvenile xanthogranuloma of skin	Disorder	Standard	01/30/2005	12/30/2099	190	190	100	100	Condition	SNOMED	
+37399354	717183001	Keratoderma hereditarium mutilans with ichthyosis syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033645	239064000	Keratolytic winter erythema	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622343	763775000	Keratosis linearis, ichthyosis congenita, sclerosing keratoderma syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4080944	238626006	Keratosis pilaris decalvans	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4199911	52983002	Kerion due to Microsporum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4251485	73860009	Kerion due to Trichophyton	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4033877	238836000	Kindler's syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4133465	1271009	Knuckle pads, leukonychia, sensorineural deafness, palmoplantar hyperkeratosis syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110118	724206005	KRT14 related epidermolysis bullosa simplex	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163896	1222645005	KRT1-related diffuse nonepidermolytic keratoderma	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297927	403777006	Lamellar ichthyosis (limited type)	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37166962	1260467009	Large congenital pigmented melanocytic nevus of skin	Disorder	Standard	01/30/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716611	722675000	Laryngo-onycho-cutaneous syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676718	773698001	Late-onset focal dermal elastosis	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714279	719432000	Late-onset junctional epidermolysis bullosa	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676715	773692000	Late-onset localized junctional epidermolysis bullosa, intellectual disability syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+45766393	703541007	Legius syndrome	Disorder	Standard	07/30/2014	12/30/2099	70	70	30	30	Condition	SNOMED	
+37164305	1230026002	Lethal acantholytic erosive disorder	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674259	771184001	Leukoencephalopathy, palmoplantar keratoderma syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622352	763792009	Leukonychia totalis	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676720	773700005	Leukonychia totalis, acanthosis-nigricans-like lesions, abnormal hair syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4276173	64540004	Lichen planopilaris	Disorder	Standard	01/30/2002	12/30/2099	386,340	386,350	83,050	83,060	Condition	SNOMED	
+36715488	721180007	Lichen planopilaris of vulva	Disorder	Standard	01/30/2017	12/30/2099	10	10	10	10	Condition	SNOMED	
+4031787	238653005	Lichen planus pemphigoides	Disorder	Standard	01/30/2002	12/30/2099	90	90	10	10	Condition	SNOMED	
+37397045	717061002	Lichen planus pigmentosus	Disorder	Standard	07/30/2016	12/30/2099	70	70	30	30	Condition	SNOMED	
+4226532	403803002	Linear and whorled nevoid hypermelanosis	Disorder	Standard	07/30/2003	12/30/2099	50	50	30	30	Condition	SNOMED	
+4225360	403395007	Linear atrophoderma of Moulin	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676717	773697006	Linear focal elastosis	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4317262	95330001	Linear IgA dermatosis	Disorder	Standard	01/30/2002	12/30/2099	290	1,390	40	620	Condition	SNOMED	
+4195295	44509000	Linear lichen planus	Disorder	Standard	01/30/2002	12/30/2099	70	70	40	40	Condition	SNOMED	
+4301395	403785002	Linear/nevoid/zosteriform Darier's disease	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4331739	22784002	Linear scleroderma	Disorder	Standard	01/30/2002	12/30/2099	59,170	59,300	10,140	10,170	Condition	SNOMED	
+37164451	1231148002	Linear verrucous nevus syndrome	Disorder	Standard	06/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299851	38692000	Lipid proteinosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4297904	403652001	Lipoatrophy due to injected corticosteroid	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4295461	403661001	Lipoatrophy due to injected drug	Disorder	Standard	07/30/2003	12/30/2099	0	40	0	10	Condition	SNOMED	
+4081240	238899009	Lipodystrophia centrifugalis abdominalis infantalis	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	
+4324974	71404003	Lipomatosis dolorosa	Disorder	Standard	01/30/2002	12/30/2099	550	550	190	190	Condition	SNOMED	
+37162412	1187628000	Livedoid vasculopathy of lower limb due to varicose veins of lower limb	Disorder	Standard	01/30/2022	12/30/2099	10	10	0	0	Condition	SNOMED	
+4111336	254168005	Localized bullous ichthyosiform erythroderma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4292372	402437008	Localized bullous pemphigoid of vulva	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110109	254186008	Localized dystrophic epidermolysis bullosa	Disorder	Standard	01/30/2002	12/30/2099	0	130	0	30	Condition	SNOMED	
+4219880	400100000	Localized epidermolytic epidermal nevus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033486	238897006	Localized idiopathic lipoatrophy	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110110	254191009	Localized junctional epidermolysis bullosa	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4111342	254187004	Localized recessive dystrophic epidermolysis bullosa	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+441928	201048007	Localized scleroderma	Disorder	Standard	01/30/2002	12/30/2099	1,487,040	1,546,580	535,560	545,780	Condition	SNOMED	
+4081087	238735005	Loose anagen hair syndrome	Disorder	Standard	01/30/2002	12/30/2099	30	50	20	20	Condition	SNOMED	
+4035795	15084002	Lupus erythematosus profundus	Disorder	Standard	01/30/2002	12/30/2099	120	120	20	20	Condition	SNOMED	
+4066481	200941006	Lupus erythematosus tumidus	Disorder	Standard	01/30/2002	12/30/2099	360	360	100	100	Condition	SNOMED	
+4066482	200942004	Lupus erythematosus unguium mutilans	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4344399	239888002	Lupus panniculitis	Disorder	Standard	01/30/2002	12/30/2099	2,840	2,840	200	200	Condition	SNOMED	
+35625873	768962006	Lyell syndrome	Disorder	Standard	07/30/2018	12/30/2099	49,420	49,450	8,710	8,730	Condition	SNOMED	
+4271031	400171002	Malignant atrophic papulosis	Disorder	Standard	07/30/2003	12/30/2099	20	20	0	0	Condition	SNOMED	
+36676503	773406003	Mandibular hypoplasia, deafness, progeroid syndrome	Disorder	Standard	01/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+4114855	254234005	Marie Unna syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4295340	37770007	Melkersson's syndrome	Disorder	Standard	01/30/2002	12/30/2099	6,490	6,490	1,800	1,800	Condition	SNOMED	
+4343681	239142006	Michelin-tire baby	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160931	1172585006	MME-related autosomal dominant Charcot Marie Tooth disease type 2	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+3655582	866046008	Mucous membrane pemphigoid of penile mucosa	Disorder	Standard	07/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+45772992	707986004	Mucous membrane pemphigoid with esophageal involvement	Disorder	Standard	01/30/2015	12/30/2099	20	20	0	0	Condition	SNOMED	
+4296485	403410004	Multicentric infantile myofibromatosis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4290994	400204000	Multiple eruptive juvenile xanthogranuloma	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+37116351	733028000	Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110710	254659009	Multiple self-healing epithelioma of Ferguson-Smith	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4081244	238902007	Multiple symmetrical lipomatosis	Disorder	Standard	01/30/2002	12/30/2099	110	110	80	80	Condition	SNOMED	
+4077104	24559001	Mutilating keratoderma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297500	402340009	Nail dystrophy due to pityriasis rubra pilaris	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37398927	715535009	Naxos disease	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4312704	9418005	Necrobiosis lipoidica	Disorder	Standard	01/30/2002	12/30/2099	55,080	56,020	18,800	19,200	Condition	SNOMED	
+4208701	56391002	Necrobiosis lipoidica diabeticorum	Disorder	Standard	01/30/2002	12/30/2099	860	860	380	380	Condition	SNOMED	
+4282318	66350002	Necrobiosis lipoidica, granulomatous type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4038045	16238009	Necrobiosis lipoidica, necrobiotic type	Disorder	Standard	01/30/2002	12/30/2099	80	80	20	20	Condition	SNOMED	
+4300787	404164003	Necrobiotic xanthogranuloma	Disorder	Standard	07/30/2003	12/30/2099	10	10	10	10	Condition	SNOMED	
+4300788	404165002	Necrobiotic xanthogranuloma with paraproteinemia	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+42538762	762543009	Necrolytic acral erythema	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4173471	424114000	Nephrogenic systemic fibrosis	Disorder	Standard	01/30/2007	12/30/2099	180	180	20	20	Condition	SNOMED	
+4209834	312514006	Netherton's syndrome	Disorder	Standard	01/30/2002	12/30/2099	100	100	10	10	Condition	SNOMED	
+605843	1141661004	Neurocutaneous melanosis	Disorder	Standard	07/30/2021	12/30/2099	20	20	10	10	Condition	SNOMED	
+37163148	1208340009	Neurofibromatosis type 6	Disorder	Standard	03/30/2022	12/30/2099	20	20	10	10	Condition	SNOMED	
+36676795	773986009	NEVADA syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4343227	239140003	Nevus elasticus	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4266330	400138001	Nodular fasciitis	Disorder	Standard	07/30/2003	12/30/2099	27,420	27,430	10,910	10,920	Condition	SNOMED	
+37397200	717257000	Nodular lichen myxedematosus	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110105	254163001	Non-erythrodermic lamellar ichthyosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4302154	7806002	Non-neurologic xeroderma pigmentosum	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4299973	403610006	Non-pigmenting fixed drug eruption	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109667	723444009	Noonan syndrome-like disorder with loose anagen hair	Disorder	Standard	07/30/2017	12/30/2099	20	20	0	0	Condition	SNOMED	
+4152707	314757003	Ocular cicatricial pemphigoid	Disorder	Standard	01/30/2002	12/30/2099	3,200	3,200	150	150	Condition	SNOMED	
+4299963	403554008	Oculocerebrocutaneous syndrome	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+35608122	765146000	Oculocutaneous albinism type 1	Disorder	Standard	07/30/2018	12/30/2099	20	20	0	0	Condition	SNOMED	
+37395983	715632003	Oculocutaneous albinism type 4	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716155	722057000	Oculocutaneous albinism type 5	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716156	722058005	Oculocutaneous albinism type 6	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717202	722059002	Oculocutaneous albinism type 7	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4112848	254817005	Oculocutaneous melanocytic nevus	Disorder	Standard	01/30/2002	12/30/2099	4,730	4,730	680	680	Condition	SNOMED	
+4297654	402441007	Oral involvement by mucous membrane pemphigoid	Disorder	Standard	07/30/2003	12/30/2099	180	190	40	40	Condition	SNOMED	
+4270872	402444004	Oral mucosal involvement by dermatitis herpetiformis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297655	402446002	Oral mucosal involvement by linear IgA disease	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4270871	402440008	Oral mucous membrane involvement by bullous pemphigoid	Disorder	Standard	07/30/2003	12/30/2099	20	20	0	0	Condition	SNOMED	
+37397733	718471008	Oral pemphigoid of gingival mucous membrane	Disorder	Standard	07/30/2016	12/30/2099	10	10	0	0	Condition	SNOMED	
+4262581	361212009	Oral pemphigus vulgaris	Disorder	Standard	01/30/2002	12/30/2099	60	60	20	20	Condition	SNOMED	
+4215114	39427000	Pachyonychia congenita syndrome	Disorder	Standard	01/30/2002	12/30/2099	110	110	20	20	Condition	SNOMED	
+4298005	403802007	Pachyonychia congenita type III of Schafer-Brunauer	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298004	403801000	Pachyonychia congenita type II of Jackson-Lawler	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297929	403787005	Palmar pitting due to Darier disease	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4297931	403790004	Palmoplantar hyperkeratosis-hyperpigmentation syndrome of Cantu	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033648	239076000	Palmoplantar hyperkeratosis sclerodactyly syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716257	722205008	Palmoplantar keratoderma Nagashima type	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37206120	785725008	Palmoplantar keratoderma, spastic paralysis syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110131	724224007	Palmoplantar keratoderma with clinodactyly syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204373	783014007	Panniculitis induced localized lipodystrophy	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4220949	40158001	Papillon-Lefèvre syndrome	Disorder	Standard	01/30/2002	12/30/2099	80	80	10	10	Condition	SNOMED	
+37163191	1208479002	Papular elastorrhexis	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+36675145	771473004	Papular epidermal nevi with skyline basal cell layers syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397201	717259002	Papular mucinosis of infancy	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622974	765221009	Papular xanthoma	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204372	783013001	Parana hard skin syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165453	1254862001	Paraproteinemia-associated scleredema	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4300583	403989001	Parosteal nodular fasciitis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+434310	418186002	Pellagra	Disorder	Standard	01/30/2006	12/30/2099	11,150	11,160	4,700	4,700	Condition	SNOMED	
+4106554	29834003	Pellagra neuropathy	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4292373	402438003	Pemphigoid nodularis	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033931	238940005	Pemphigoid vegetans	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4279526	36739006	Pemphigus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	7,460	7,460	1,880	1,880	Condition	SNOMED	
+4148690	35154004	Pemphigus foliaceus	Disorder	Standard	01/30/2002	12/30/2099	39,560	47,280	4,800	6,890	Condition	SNOMED	
+4291435	402718003	Pemphigus paraneoplastica	Disorder	Standard	07/30/2003	12/30/2099	6,200	6,200	800	800	Condition	SNOMED	
+4216037	81285006	Pemphigus vegetans	Disorder	Standard	01/30/2002	12/30/2099	4,150	4,150	1,110	1,110	Condition	SNOMED	
+4033040	238937005	Pemphigus vegetans of Neumann type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4170723	49420001	Pemphigus vulgaris	Disorder	Standard	01/30/2002	12/30/2099	205,500	209,710	26,950	28,080	Condition	SNOMED	
+37396140	715840006	Pemphigus vulgaris of gingival mucous membrane	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298208	77333008	Perifolliculitis capitis abscedens et suffodiens	Disorder	Standard	01/30/2002	12/30/2099	870	870	470	470	Condition	SNOMED	
+36674461	773984007	Piebald trait with neurologic defects syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4201901	5387003	Pigmented hairy epidermal nevus	Disorder	Standard	01/30/2002	12/30/2099	1,080	1,090	360	360	Condition	SNOMED	
+37208341	1081501000119107	Pigmented hairy epidermal nevus of left lower limb	Disorder	Standard	07/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+37208340	1081471000119101	Pigmented hairy epidermal nevus of left upper limb	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37208343	1081541000119109	Pigmented hairy epidermal nevus of right lower limb	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37208342	1081511000119105	Pigmented hairy epidermal nevus of right upper limb	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37208249	687571000119101	Pigmented hairy epidermal nevus of trunk	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4072211	21926007	Pili annulati	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37397280	717360009	Pili bifurcati	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4177217	42829009	Pili multigemini	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4283945	67817003	Pili torti-deafness syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396392	716194005	Pili torti with developmental delay and neurological abnormality syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4066483	200948000	Pityriasis rubra (Hebra)	Disorder	Standard	01/30/2002	12/30/2099	20	20	20	20	Condition	SNOMED	
+136774	3755001	Pityriasis rubra pilaris	Disorder	Standard	01/30/2002	12/30/2099	82,210	82,240	23,410	23,430	Condition	SNOMED	
+606041	1142046003	Pityriasis rubra pilaris due to human immunodeficiency virus infection	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37151521	1237509001	PLACK syndrome	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+134460	13370002	Plantar fascial fibromatosis	Disorder	Standard	01/30/2002	12/30/2099	46,047,420	46,048,200	14,180,210	14,180,640	Condition	SNOMED	
+4134289	128458002	Plaque morphea	Disorder	Standard	01/30/2002	12/30/2099	180	180	30	30	Condition	SNOMED	
+36675666	772126000	Poikiloderma with neutropenia	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165342	1252747005	Polymorphic eruption of pregnancy	Disorder	Standard	12/30/2022	12/30/2099	1,400	1,400	640	640	Condition	SNOMED	
+4105017	193193007	Polyneuropathy in pellagra	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4213059	80432009	Porokeratosis of Mibelli	Disorder	Standard	01/30/2002	12/30/2099	390	390	130	130	Condition	SNOMED	
+37397553	718218005	Porokeratosis plantaris palmaris et disseminata	Disorder	Standard	07/30/2016	12/30/2099	10	10	10	10	Condition	SNOMED	
+4033208	239118007	Porokeratotic eccrine ostial and dermal duct nevus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37166029	1258980000	Post-infectious scleredema	Disorder	Standard	11/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4296369	403397004	Post-inflammatory cutis laxa	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4296347	403325003	Postmenopausal frontal fibrosing alopecia	Disorder	Standard	07/30/2003	12/30/2099	90	90	40	40	Condition	SNOMED	
+4028726	128873007	Post-scabetic nodules	Disorder	Standard	01/30/2002	12/30/2099	90	90	50	50	Condition	SNOMED	
+4081221	238829001	Primary anetoderma	Disorder	Standard	01/30/2002	12/30/2099	10	6,090	0	4,580	Condition	SNOMED	
+37164069	1228842003	Primary cutaneous plasmacytosis	Disorder	Standard	05/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622903	765135003	Primary essential cutis verticis gyrata	Disorder	Standard	07/30/2018	12/30/2099	10	10	0	0	Condition	SNOMED	
+37396776	716704007	Primary localized cutaneous nodular amyloidosis	Disorder	Standard	07/30/2016	12/30/2099	30	30	10	10	Condition	SNOMED	
+36680596	778044004	Primary non-essential cutis verticis gyrata	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37167651	1268699008	Primary pilomatrix carcinoma of skin	Disorder	Standard	03/30/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674738	770567006	Progeroid syndrome Petty type	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110132	254193007	Progressive junctional epidermolysis bullosa (neurotrophic)	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622908	765141005	Progressive nodular histiocytosis	Disorder	Standard	07/30/2018	12/30/2099	10	10	0	0	Condition	SNOMED	
+4082371	239070006	Progressive palmoplantar keratoderma of Greither	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4110714	254678009	Proliferating pilar cyst	Disorder	Standard	01/30/2002	12/30/2099	30	100	20	60	Condition	SNOMED	
+4031100	109253006	Proliferating trichilemmal cyst of scalp	Disorder	Standard	01/30/2002	12/30/2099	70	70	40	40	Condition	SNOMED	
+4299575	402748000	Pseudolymphomatous eruption due to drug	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4343205	238731001	Pseudopelade	Disorder	Standard	07/30/2003	12/30/2099	5,350	5,350	2,820	2,820	Condition	SNOMED	
+4090976	252246005	Pseudoxanthoma elasticum	Disorder	Standard	01/30/2002	12/30/2099	380	390	110	110	Condition	SNOMED	
+37169843	1254939002	Pseudoxanthoma elasticum caused by penicillamine	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165515	1254936009	Pseudoxanthoma elasticum due to hemoglobinopathy	Disorder	Standard	10/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622433	764105002	Pseudoxanthoma elasticum-like papillary dermal elastolysis	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165098	1237573001	Punctate acrokeratoderma freckle-like pigmentation	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4265776	62144003	Punctate oculocutaneous albinoidism	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397140	717184007	Punctate palmoplantar keratoderma type 1	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+35612540	765096001	Punctate palmoplantar keratoderma type 2	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4148213	3533007	Pustular bacterid	Disorder	Standard	01/30/2002	12/30/2099	130	130	20	20	Condition	SNOMED	
+4100184	27520001	Pustular psoriasis of palms and soles	Disorder	Standard	01/30/2002	12/30/2099	379,160	379,390	60,330	60,410	Condition	SNOMED	
+37206119	785724007	Pyoderma gangrenosum, acne, suppurative hidradenitis syndrome	Disorder	Standard	07/30/2019	12/30/2099	10	10	0	0	Condition	SNOMED	
+4274633	64036004	Reactive perforating collagenosis	Disorder	Standard	01/30/2002	12/30/2099	7,390	7,390	3,400	3,400	Condition	SNOMED	
+37109696	723500009	Recessive aplasia cutis congenita of limbs	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110883	725407006	Recessive dystrophic epidermolysis bullosa non-Hallopeau Siemens type	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4141144	33760009	Relapsing febrile nodular nonsuppurative panniculitis	Disorder	Standard	01/30/2002	12/30/2099	7,110	7,110	1,870	1,870	Condition	SNOMED	
+4346198	239133004	Reticulate acropigmentation of Kitamura	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396825	716772007	Roch Leri mesosomatous lipomatosis	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716063	721904001	Rombo syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301052	403493001	Rosaceous type discoid lupus erythematosus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4272022	63450009	Rufous albinism	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676902	774208009	SCALP syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4007447	110983008	Schweninger-Buzzi anetoderma	Disorder	Standard	01/30/2002	12/30/2099	4,270	4,270	3,220	3,220	Condition	SNOMED	
+4319301	95323007	Scleredema	Disorder	Standard	01/30/2002	12/30/2099	1,580	1,580	350	350	Condition	SNOMED	
+4297661	402468007	Scleromyxedema	Disorder	Standard	07/30/2003	12/30/2099	230	230	40	40	Condition	SNOMED	
+4099696	252997008	Sebaceous trichofolliculoma	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204307	782910009	Seborrhea-like dermatitis with psoriasiform elements	Disorder	Standard	07/30/2019	12/30/2099	20	20	20	20	Condition	SNOMED	
+36713695	718632004	Self-healing collodion baby	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033932	238947008	Self-healing juvenile cutaneous mucinosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033031	238898001	Semicircular lipoatrophy	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4318373	95334005	Senile ichthyosis	Disorder	Standard	01/30/2002	12/30/2099	50	50	30	30	Condition	SNOMED	
+36676905	774211005	Severe dermatitis, multiple allergies, metabolic wasting syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109841	723716009	Severe generalized recessive dystrophic epidermolysis bullosa	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4006297	111303009	Sjögren-Larsson syndrome	Disorder	Standard	01/30/2002	12/30/2099	1,460	1,460	280	280	Condition	SNOMED	
+36680588	778010006	Skin fragility, wooly hair, palmoplantar keratoderma syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4264113	397013007	Solitary cutaneous mastocytoma	Disorder	Standard	07/30/2003	12/30/2099	300	300	160	160	Condition	SNOMED	
+4299809	403409009	Solitary infantile myofibromatosis	Disorder	Standard	07/30/2003	12/30/2099	20	20	0	0	Condition	SNOMED	
+4301657	404101009	Solitary T-cell pseudolymphoma	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714143	719255000	Spinocerebellar ataxia type 34	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714184	719306007	Steatocystoma multiplex with natal tooth syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37119160	724833000	Stevens-Johnson and toxic epidermal necrolysis overlap syndrome caused by drug	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+141651	73442001	Stevens-Johnson syndrome	Disorder	Standard	01/30/2002	12/30/2099	303,040	303,460	58,950	59,180	Condition	SNOMED	
+46273453	124911000119100	Stevens Johnson syndrome AND toxic epidermal necrolysis overlap	Disorder	Standard	08/31/2013	12/30/2099	11,800	11,800	3,130	3,130	Condition	SNOMED	
+35625857	768946000	Stevens-Johnson syndrome, toxic epidermal necrolysis spectrum	Disorder	Standard	07/30/2018	12/30/2099	10	364,720	10	71,050	Condition	SNOMED	
+35622942	765187004	Stiff skin syndrome	Disorder	Standard	07/30/2018	12/30/2099	10	20	0	0	Condition	SNOMED	
+35622776	764958008	Striate palmoplantar keratoderma	Disorder	Standard	07/30/2018	12/30/2099	10	10	0	0	Condition	SNOMED	
+4343923	239891002	Subacute cutaneous lupus erythematosus	Disorder	Standard	01/30/2002	12/30/2099	185,430	185,450	46,080	46,080	Condition	SNOMED	
+4299822	403489007	Subacute cutaneous lupus erythematosus, annular/polycyclic type	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+4295180	403490003	Subacute cutaneous lupus erythematosus, papulosquamous type	Disorder	Standard	07/30/2003	12/30/2099	10	10	0	0	Condition	SNOMED	
+134117	25147002	Subcorneal pustular dermatosis	Disorder	Standard	01/30/2002	12/30/2099	30,010	30,010	11,520	11,520	Condition	SNOMED	
+4300798	403217003	Subcorneal pustular dermatosis with paraproteinemia	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4296516	403522004	Subcutaneous morphea	Disorder	Standard	07/30/2003	12/30/2099	40	40	20	20	Condition	SNOMED	
+4292677	402747005	Sweet's disease due to drug	Disorder	Standard	07/30/2003	12/30/2099	30	30	10	10	Condition	SNOMED	
+4296208	403216007	Sweet's disease following infection	Disorder	Standard	07/30/2003	12/30/2099	120	120	40	40	Condition	SNOMED	
+4082497	239085000	Symmetrical dyschromatosis of extremities	Disorder	Standard	01/30/2002	12/30/2099	30	30	20	20	Condition	SNOMED	
+37397027	717041008	Syndromic recessive X-linked ichthyosis	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4346195	239108002	Systematized epidermal nevus	Disorder	Standard	07/30/2003	12/30/2099	240	240	30	30	Condition	SNOMED	
+4266650	400000002	Systematized epidermolytic epidermal nevus	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301161	403623004	T-cell pseudolymphoma due to drug	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+4078538	19087001	Tinea kerion	Disorder	Standard	01/30/2002	12/30/2099	620	640	410	420	Condition	SNOMED	
+4167083	274083001	Tinea kerion of beard	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298728	402744003	Toxic epidermal necrolysis due to drug	Disorder	Standard	07/30/2003	12/30/2099	30	30	20	20	Condition	SNOMED	
+4292357	402359006	Toxic epidermal necrolysis due to graft-versus-host disease	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+35625872	768961004	Toxic epidermal necrolysis due to infection	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109720	723553000	Transient bullous dermolysis of newborn	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109715	723544007	Trichodysplasia spinulosa caused by Polyomavirus	Disorder	Standard	07/30/2017	12/30/2099	10	10	0	0	Condition	SNOMED	
+35624198	766812005	Trichodysplasia xeroderma syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4172078	274899008	Trichofolliculoma	Disorder	Standard	01/30/2002	12/30/2099	90	90	20	20	Condition	SNOMED	
+4024103	19604005	Triglyceride storage disease with ichthyosis	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4264174	61778004	Tumoral calcinosis	Disorder	Standard	01/30/2002	12/30/2099	140	140	50	50	Condition	SNOMED	
+4033856	238719003	Twenty nail dystrophy	Disorder	Standard	01/30/2002	12/30/2099	1,550	1,550	260	260	Condition	SNOMED	
+4096151	26336006	Tyrosinase-positive oculocutaneous albinism	Disorder	Standard	01/30/2002	12/30/2099	1,770	14,000	700	1,880	Condition	SNOMED	
+4177031	51057008	Ulerythema of cheeks	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4266806	400126005	Ulerythema ophryogenes	Disorder	Standard	07/30/2003	12/30/2099	20	30	10	20	Condition	SNOMED	
+44784221	698253007	Ultraviolet sensitive syndrome	Disorder	Standard	01/30/2014	12/30/2099	280	280	220	220	Condition	SNOMED	
+4110262	254230001	Uncombable hair syndrome	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4111926	254676008	Warty dyskeratoma	Disorder	Standard	01/30/2002	12/30/2099	60	60	40	40	Condition	SNOMED	
+4169027	294705005	Weber-Cockayne syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622132	763475004	White fibrous papulosis of neck	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4308059	389203001	White sponge nevus	Disorder	Standard	01/30/2003	12/30/2099	40	40	20	20	Condition	SNOMED	
+36714549	719835006	Wooly hair and palmoplantar keratoderma with dilated cardiomyopathy syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4343206	239124001	Wooly hair nevus	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622435	764108000	Wooly hair with palmoplantar keratoderma syndrome	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4033884	238875009	Wrinkly skin syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4290841	399970005	Xanthoma disseminatum	Disorder	Standard	07/30/2003	12/30/2099	250	250	60	60	Condition	SNOMED	
+4195318	44600005	Xeroderma pigmentosum	Disorder	Standard	01/30/2002	12/30/2099	32,050	32,060	10,380	10,380	Condition	SNOMED	
+36714536	719819004	Xeroderma pigmentosum and Cockayne syndrome complex	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4183734	43477006	Xeroderma pigmentosum, group A	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4027757	1073003	Xeroderma pigmentosum, group B	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4093617	25784009	Xeroderma pigmentosum, group C	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4287562	68637004	Xeroderma pigmentosum, group D	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4210300	56048001	Xeroderma pigmentosum, group E	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4175019	42530008	Xeroderma pigmentosum, group F	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4264814	36454001	Xeroderma pigmentosum, group G	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4230648	88877002	Xeroderma pigmentosum, variant form	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+605203	1010628009	X-linked congenital generalized hypertrichosis	Disorder	Standard	01/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4219258	72523005	X-linked ichthyosis with steryl-sulfatase deficiency	Disorder	Standard	01/30/2002	12/30/2099	6,780	6,780	2,000	2,000	Condition	SNOMED	
+37399028	717224002	X-linked reticulate pigmentary disorder with systemic manifestation syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4219610	82342003	Yellow mutant oculocutaneous albinism	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	

@@ -1,0 +1,397 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+4217370	71988008	Aase syndrome	Disorder	Standard	01/30/2002	12/30/2099	260	260	150	150	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4101597	191298004	Acquired factor II deficiency	Disorder	Standard	01/30/2002	12/30/2099	110	110	60	60	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4141269	33820001	Acquired factor X deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	20	20	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Factor X deficiency'"">1"
+4139556	307343001	Acquired hemoglobin H disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4319149	95843009	Acquired hypoplasminogenemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Hypoplasminogenemia'"">1"
+4170982	295315008	Acquired methemoglobinemia	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37163601	1217409009	Acquired protein S deficiency	Disorder	Standard	04/29/2022	12/30/2099	40	40	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37117819	725157006	Acquired purpura fulminans	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4204900	439007008	Acquired thrombotic thrombocytopenic purpura	Disorder	Standard	01/30/2009	12/30/2099	50	50	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4125641	234451005	Acquired von Willebrand disease	Disorder	Standard	01/30/2002	12/30/2099	1,750	1,770	480	500	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+40485018	444108000	Acute sickle cell splenic sequestration crisis	Disorder	Standard	01/30/2010	12/30/2099	29,890	29,890	6,420	6,420	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Sickle cell-hemoglobin SS disease'"">1"
+603018	1153415008	Acute splenic sequestration due to sickle cell hemoglobin C disease with crisis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Sickle cell-hemoglobin SS disease'"">1"
+607430	1153413001	Acute splenic sequestration of spleen due to sickle cell thalassemia with crisis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Sickle cell-hemoglobin SS disease'"">1"
+36715009	720465002	Adult-onset autosomal recessive sideroblastic anemia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+35623407	765748009	Adult pure red cell aplasia	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4242755	5967006	A-gamma beta+ HPFH AND beta0 thalassemia in cis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Hereditary persistence of fetal hemoglobin thalassemiaBeta thalassemia'"">2"
+4232474	89810003	Agamma delta beta0 thalassemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Delta beta thalassemiaBeta thalassemia'"">2"
+4271753	36467003	Alpha plus thalassemia	Disorder	Standard	01/30/2002	12/30/2099	50	60	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Alpha thalassemia'"">1"
+4311397	86242003	Alpha plus thalassemia deletion type	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Alpha thalassemia'"">1"
+4311538	85422000	Alpha plus thalassemia non deletion type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Alpha thalassemia'"">1"
+4287844	68913001	Alpha thalassemia	Disorder	Standard	01/30/2002	12/30/2099	248,360	251,790	71,190	73,170	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4121113	234385007	Alpha thalassemia-2 trait	Disorder	Standard	01/30/2002	12/30/2099	170	170	70	70	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Alpha thalassemia'"">1"
+42539413	734349003	Alpha-thalassemia intellectual disability syndrome linked to chromosome 16	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Alpha thalassemia'"">1"
+37399441	715342005	Alpha thalassemia X-linked intellectual disability syndrome	Disorder	Standard	07/30/2016	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Alpha thalassemia'"">1"
+4098749	191187006	Alpha trait thalassemia	Disorder	Standard	01/30/2002	12/30/2099	2,700	2,700	1,720	1,720	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Alpha thalassemia'"">1"
+4278816	66055002	Alpha zero thalassemia	Disorder	Standard	01/30/2002	12/30/2099	50	50	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Alpha thalassemia'"">1"
+36715351	720982007	Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome	Disorder	Standard	01/30/2017	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Hereditary elliptocytosis'"">1"
+4131930	127213008	Angiofollicular lymph node hyperplasia, hyaline-vascular type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Castleman disease'"">1"
+4131295	127214002	Angiofollicular lymph node hyperplasia, plasma cell type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Castleman disease'"">1"
+36713763	718716008	Autoimmune hemolytic anemia mixed type	Disorder	Standard	01/30/2017	12/30/2099	3,110	3,110	580	580	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4230266	438476003	Autoimmune thrombotic thrombocytopenic purpura	Disorder	Standard	01/30/2009	12/30/2099	40	40	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acquired thrombotic thrombocytopenic purpuraThrombotic thrombocytopenic purpura'"">2"
+36680584	778006008	Autosomal dominant aplasia and myelodysplasia	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4318106	95842004	Autosomal dominant deficiency of plasminogen	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Hypoplasminogenemia'"">1"
+36715053	720521008	Autosomal dominant macrothrombocytopenia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37204525	783202008	Autosomal dominant secondary polycythemia	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37162293	1187252002	Autosomal dominant thrombocytopenia with platelet secretion defect	Disorder	Standard	11/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+35624651	767497003	Autosomal recessive congenital methemoglobinemia	Disorder	Standard	07/30/2018	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Congenital methemoglobinemia'"">1"
+35624653	767499000	Autosomal recessive congenital methemoglobinemia type I	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Congenital methemoglobinemia'"">1"
+35624652	767498008	Autosomal recessive congenital methemoglobinemia type II	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Congenital methemoglobinemia'"">1"
+37204848	783766005	Autosomal recessive secondary polycythemia not associated with VHL (Von Hippel Lindau) gene	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37397036	717050005	Autosomal recessive sideroblastic anemia	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4185078	54569005	Bernard Soulier syndrome	Disorder	Standard	01/30/2002	12/30/2099	50	50	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4196206	79592006	Beta plus thalassemia	Disorder	Standard	01/30/2002	12/30/2099	60	19,900	30	2,830	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Beta thalassemia'"">1"
+4187256	47084006	Beta plus thalassemia normal hemoglobin A-2 type 1 silent	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Beta thalassemia'"">1"
+4278669	65959000	Beta thalassemia	Disorder	Standard	01/30/2002	12/30/2099	490,850	539,550	74,240	84,630	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4100992	191189009	Beta thalassemia intermedia	Disorder	Standard	01/30/2002	12/30/2099	70	70	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4035988	15326009	beta+ Thalassemia normal Hb A-2 type 2	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Beta thalassemia'"">1"
+4149681	269175006	Beta thalassemia trait	Disorder	Standard	01/30/2002	12/30/2099	5,790	5,790	3,140	3,140	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Beta thalassemia'"">1"
+37397537	718196002	Beta thalassemia X-linked thrombocytopenia syndrome	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4315393	86715000	Beta zero thalassemia	Disorder	Standard	01/30/2002	12/30/2099	40	15,460	20	1,770	Condition	SNOMED	
+4099005	27080008	Beta zero thalassemia deletion type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4009304	111572002	Beta zero thalassemia non deletion type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37203819	782934004	Bleeding diathesis due to collagen receptor defect	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204520	783194008	Bleeding diathesis due to thromboxane synthesis deficiency	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110748	725105006	Bleeding disorder due to calcium and DAG-regulated guanine exchange factor-1 deficiency	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4118225	207036003	Castleman disease	Disorder	Standard	01/30/2002	12/30/2099	83,200	83,360	6,640	6,710	Condition	SNOMED	
+37018059	714460000	Castleman disease co-occurrent with infection caused by Human herpesvirus 8	Disorder	Standard	01/30/2016	12/30/2099	20	20	10	10	Condition	SNOMED	
+37166060	1259049004	Castleman disease with immunoglobulin M monoclonal gammopathy of uncertain significance	Disorder	Standard	12/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4290834	399945005	Castleman's superficial pseudotumor, involving skin	Disorder	Standard	07/30/2003	12/30/2099	70	70	30	30	Condition	SNOMED	
+4131128	127055007	Chronic cold agglutinin disease	Disorder	Standard	01/30/2002	12/30/2099	340	380	50	60	Condition	SNOMED	
+4130194	127056008	Chronic cold agglutinin disease associated with B-cell neoplasm	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+318397	13172003	Chronic idiopathic thrombocytopenic purpura	Disorder	Standard	01/30/2002	12/30/2099	4,420	4,420	680	680	Condition	SNOMED	
+36674691	770407006	Chuvash erythrocytosis	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37398930	715559004	Combined deficiency of factor V and factor VIII	Disorder	Standard	07/30/2016	12/30/2099	10	10	10	10	Condition	SNOMED	
+4305930	154818001	Congenital afibrinogenemia	Disorder	Standard	01/30/2009	12/30/2099	80	80	20	20	Condition	SNOMED	
+37399549	716746003	Congenital alpha-2-antiplasmin deficiency	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+37396502	716336002	Congenital amegakaryocytic thrombocytopenia	Disorder	Standard	07/30/2016	12/30/2099	10	10	0	0	Condition	SNOMED	
+36713768	718721006	Congenital analbuminemia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4009784	111571009	Congenital atransferrinemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37163213	1208617001	Congenital autosomal recessive small-platelet thrombocytopenia	Disorder	Standard	03/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4267433	62578003	Congenital defect of folate absorption	Disorder	Standard	01/30/2002	12/30/2099	230	230	80	80	Condition	SNOMED	
+4121109	234361004	Congenital deficiency of intrinsic factor	Disorder	Standard	01/30/2002	12/30/2099	110	110	40	40	Condition	SNOMED	
+4241982	59548005	Congenital dyserythropoietic anemia, type I	Disorder	Standard	01/30/2002	12/30/2099	180	180	0	0	Condition	SNOMED	
+4286660	68870007	Congenital dyserythropoietic anemia, type II	Disorder	Standard	01/30/2002	12/30/2099	210	210	0	0	Condition	SNOMED	
+4097214	26409005	Congenital dyserythropoietic anemia, type III	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714288	719453009	Congenital dyserythropoietic anemia type IV	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4207877	441134009	Congenital dysmegakaryopoietic thrombocytopenia, Paris Trousseau type	Disorder	Standard	01/30/2009	12/30/2099	10	10	0	0	Condition	SNOMED	
+4120611	234444001	Congenital factor IX deficiency variant	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4122942	234445000	Congenital factor IX deficiency with inhibitor	Disorder	Standard	01/30/2002	12/30/2099	80	80	0	0	Condition	SNOMED	
+4144441	426199009	Congenital factor IX deficiency without inhibitor	Disorder	Standard	07/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+4258290	439145006	Congenital hypofibrinogenemia	Disorder	Standard	01/30/2009	12/30/2099	10	10	10	10	Condition	SNOMED	
+4122934	234395000	Congenital methemoglobinaema with defective methemoglobin-reducing system	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4146093	267550008	Congenital methemoglobinemia	Disorder	Standard	01/30/2002	12/30/2099	6,320	6,340	1,540	1,540	Condition	SNOMED	
+4120456	234396004	Congenital methemoglobinemia with abnormal methemoglobins	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37397281	717407006	Congenital plasminogen activator inhibitor deficiency type 1	Disorder	Standard	07/30/2016	12/30/2099	230	230	70	70	Condition	SNOMED	
+37161030	1172901009	Cytosolic phospholipase-A2 alpha deficiency associated bleeding disorder	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+607984	1156468009	Deep partial thickness burn	Disorder	Standard	07/30/2021	12/30/2099	0	1,000	0	380	Condition	SNOMED	
+4052066	211782003	Deep partial thickness burn of abdominal wall	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4055315	211976006	Deep partial thickness burn of ankle	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4052077	211844000	Deep partial thickness burn of axilla	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4059711	211783008	Deep partial thickness burn of back (excluding buttock)	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4059862	211913005	Deep partial thickness burn of back of hand	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4052065	211780006	Deep partial thickness burn of breast	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4059712	211784002	Deep partial thickness burn of buttock	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4057626	211711000	Deep partial thickness burn of cheek	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4055163	211781005	Deep partial thickness burn of chest wall	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4059576	211706002	Deep partial thickness burn of chin	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4059861	211911007	Deep partial thickness burn of digit of hand	Disorder	Standard	01/30/2002	12/30/2099	730	770	240	260	Condition	SNOMED	
+4059575	211703005	Deep partial thickness burn of ear	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4055175	211842001	Deep partial thickness burn of elbow	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+42539154	762471001	Deep partial thickness burn of face	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674777	770615001	Deep partial thickness burn of finger	Disorder	Standard	01/30/2019	12/30/2099	40	40	20	20	Condition	SNOMED	
+4054656	211975005	Deep partial thickness burn of foot	Disorder	Standard	01/30/2002	12/30/2099	30	30	20	20	Condition	SNOMED	
+4055174	211841008	Deep partial thickness burn of forearm	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+4059577	211709009	Deep partial thickness burn of forehead	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4057643	211785001	Deep partial thickness burn of genitalia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+42536579	735509000	Deep partial thickness burn of hand	Disorder	Standard	01/30/2018	12/30/2099	10	800	10	280	Condition	SNOMED	
+42539153	762467004	Deep partial thickness burn of head	Disorder	Standard	01/30/2018	12/30/2099	0	10	0	0	Condition	SNOMED	
+42538711	762483004	Deep partial thickness burn of hip	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4057792	211978007	Deep partial thickness burn of knee	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4054657	211977002	Deep partial thickness burn of lower leg	Disorder	Standard	01/30/2002	12/30/2099	20	20	20	20	Condition	SNOMED	
+42538712	762484005	Deep partial thickness burn of lower limb	Disorder	Standard	01/30/2018	12/30/2099	0	110	0	60	Condition	SNOMED	
+4059579	211712007	Deep partial thickness burn of neck	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4051926	211707006	Deep partial thickness burn of nose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4055185	211912000	Deep partial thickness burn of palm of hand	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+42539541	735503004	Deep partial thickness burn of perineum	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4055074	211708001	Deep partial thickness burn of scalp	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4059729	211846003	Deep partial thickness burn of scapular region	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4057776	211845004	Deep partial thickness burn of shoulder	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674895	770781006	Deep partial thickness burn of skin of upper and lower lip	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4059991	211979004	Deep partial thickness burn of thigh	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+4059860	211909003	Deep partial thickness burn of thumb	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4055314	211974009	Deep partial thickness burn of toe(s)	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+42538704	762474009	Deep partial thickness burn of trunk	Disorder	Standard	01/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4055176	211843006	Deep partial thickness burn of upper arm	Disorder	Standard	01/30/2002	12/30/2099	40	40	20	20	Condition	SNOMED	
+42538706	762477002	Deep partial thickness burn of upper limb	Disorder	Standard	01/30/2018	12/30/2099	10	870	10	320	Condition	SNOMED	
+4059863	211914004	Deep partial thickness burn of wrist	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37110834	725291001	Defect of purinergic receptor p2y G protein-coupled 12	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4049434	124178006	Deficiency of dihydrofolate reductase	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4050618	124128009	Deficiency of phosphogluconate dehydrogenase	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37399453	715526002	Dehydrated hereditary stomatocytosis	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4122930	234388009	Delta-beta-Lepore thalassemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4038772	16360009	Delta beta thalassemia	Disorder	Standard	01/30/2002	12/30/2099	5,750	5,750	2,400	2,400	Condition	SNOMED	
+4297017	76336008	Delta beta zero thalassemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4190190	373421000	Diarrhea-associated hemolytic uremic syndrome	Disorder	Standard	07/30/2002	12/30/2099	120	120	20	20	Condition	SNOMED	
+37396761	716682000	Dominant beta-thalassemia	Disorder	Standard	07/30/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+4146936	309742004	Drug-induced autoimmune hemolytic anemia	Disorder	Standard	01/30/2002	12/30/2099	39,920	39,930	12,470	12,470	Condition	SNOMED	
+4131919	127060006	Drug-induced immune hemolytic anemia, hapten type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4082917	18323000	Drug-induced immune hemolytic anemia, immune complex type	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4258261	441322009	Drug induced thrombotic thrombocytopenic purpura	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676519	773422002	East Texas bleeding disorder	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4267549	400131007	Epithelioid hemangioma of skin	Disorder	Standard	07/30/2003	12/30/2099	10	10	10	10	Condition	SNOMED	
+4248254	73190000	Epsilon gamma delta beta0 thalassemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4052711	23371004	Epsilon gamma delta beta thalassemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+438383	109994006	Essential thrombocythemia	Disorder	Standard	01/30/2002	12/30/2099	6,987,240	6,987,240	1,274,520	1,274,520	Condition	SNOMED	
+436956	75331009	Evans syndrome	Disorder	Standard	01/30/2002	12/30/2099	153,050	153,050	10,630	10,630	Condition	SNOMED	
+606929	1148862002	Factor X deficiency due to systemic amyloidosis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4227574	88540000	Factor XI deficiency, type I	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4140543	33169001	Factor XI deficiency, type II	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4187663	45963004	Factor XI deficiency, type III	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+433741	17342003	Familial erythrocytosis	Disorder	Standard	01/30/2002	12/30/2099	339,380	339,540	97,100	97,150	Condition	SNOMED	
+4130682	127065001	Familial erythrocytosis due to diphosphoglycerate mutase deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110713	725034002	Familial platelet syndrome with predisposition to acute myelogenous leukemia	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4131920	127066000	Familial polycythemia vera	Disorder	Standard	01/30/2002	12/30/2099	120	120	40	40	Condition	SNOMED	
+37397197	717254007	Familial pseudohyperkalemia	Disorder	Standard	07/30/2016	12/30/2099	10	10	0	0	Condition	SNOMED	
+36715327	720950009	Familial thrombocytosis	Disorder	Standard	01/30/2017	12/30/2099	20	20	10	10	Condition	SNOMED	
+37204552	783256001	Familial thrombomodulin anomalies	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4046563	22933009	G-6-PD class I variant anemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4167506	48250002	Gaisbock's syndrome	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	
+37311954	788944005	Gamma delta beta thalassemia	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4281620	36799008	Glutamate-cysteine ligase deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4035266	237926007	Glutathione synthase deficiency without 5-oxoprolinuria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4197685	51720005	Gray platelet syndrome	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+4313581	86225009	Hapten type high affinity hemolytic anemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4196102	44206008	Hapten type low affinity hemolytic anemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+3657472	1239381000000101	HbE (haemoglobin E) beta plus thalassaemia	Disorder	Standard	08/04/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+3657471	1239371000000103	HbE (haemoglobin E) beta zero thalassaemia	Disorder	Standard	08/04/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4316372	95605009	HELLP syndrome	Disorder	Standard	01/30/2002	12/30/2099	126,070	126,070	47,030	47,030	Condition	SNOMED	
+4200254	5300004	Hemoglobin Bart's hydrops syndrome	Disorder	Standard	01/30/2002	12/30/2099	60	60	40	40	Condition	SNOMED	
+606961	1148910003	Hemoglobin C beta thalassemia	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+760845	119691000119106	Hemoglobin C/beta thalassemia disease	Disorder	Standard	02/28/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4176425	51053007	Hemoglobin C disease	Disorder	Standard	01/30/2002	12/30/2099	530	570	190	210	Condition	SNOMED	
+4125628	234386008	Hemoglobin Constant Spring trait	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+765176	119701000119106	Hemoglobin D/beta thalassemia disease	Disorder	Standard	02/28/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4280961	66729008	Hemoglobin D disease	Disorder	Standard	01/30/2002	12/30/2099	50	50	40	40	Condition	SNOMED	
+4120455	234392002	Hemoglobin E/beta thalassemia disease	Disorder	Standard	01/30/2002	12/30/2099	70,510	70,510	19,850	19,850	Condition	SNOMED	
+4094597	25065001	Hemoglobin E disease	Disorder	Standard	01/30/2002	12/30/2099	160	70,670	70	19,920	Condition	SNOMED	
+40491316	447117006	Hemoglobin H constant spring thalassemia	Disorder	Standard	01/30/2011	12/30/2099	40	40	10	10	Condition	SNOMED	
+4168911	48553001	Hemoglobin H disease	Disorder	Standard	01/30/2002	12/30/2099	190	190	20	20	Condition	SNOMED	
+4121114	234387004	Hemoglobin Lepore trait	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+4327189	74912001	Hemoglobin M disease	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37204287	782880001	Hemoglobinopathy Toms River	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+602960	1148897000	Hemoglobin Paksé disease	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+606952	1148899002	Hemoglobin Seal Rock disease	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+26942	417425009	Hemoglobin SS disease with crisis	Disorder	Standard	07/30/2005	12/30/2099	6,088,400	6,128,720	149,360	157,000	Condition	SNOMED	
+30683	416180004	Hemoglobin SS disease without crisis	Disorder	Standard	07/30/2005	12/30/2099	4,247,330	4,247,330	219,790	219,790	Condition	SNOMED	
+4209085	440206000	Hemoglobin SS disease with vasoocclusive crisis	Disorder	Standard	01/30/2009	12/30/2099	10,430	10,430	1,220	1,220	Condition	SNOMED	
+35624317	766982000	Hemolytic anemia due to adenylate kinase deficiency	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4203291	5315003	Hemolytic anemia due to erythrocyte adenosine deaminase overproduction	Disorder	Standard	01/30/2002	12/30/2099	60	60	10	10	Condition	SNOMED	
+4098013	191177007	Hemolytic anemia due to hexokinase deficiency	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37167956	1269225005	Hemolytic uremic syndrome with DGKE deficiency	Disorder	Standard	04/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204306	782909004	Hemorrhagic disease due to alpha-1-antitrypsin Pittsburgh mutation	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4009307	111588002	Heparin-induced thrombocytopenia with thrombosis	Disorder	Standard	01/30/2002	12/30/2099	170	170	50	50	Condition	SNOMED	
+4231771	439699000	Hereditary antithrombin III deficiency	Disorder	Standard	01/30/2009	12/30/2099	40	40	10	10	Condition	SNOMED	
+37119232	724356003	Hereditary combined deficiency of vitamin K-dependent clotting factors	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37160586	1162804003	Hereditary congenital prekallikrein deficiency	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+36676579	773489008	Hereditary cryohydrocytosis with normal stomatin	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204308	782911008	Hereditary cryohydrocytosis with reduced stomatin	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4163846	45366001	Hereditary dysfibrinogenemia	Disorder	Standard	01/30/2002	12/30/2099	50	50	20	20	Condition	SNOMED	
+4327824	75443009	Hereditary elliptocytosis due to abnormal protein 4.1	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4228681	8857001	Hereditary elliptocytosis due to alpha spectrin defect	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4281394	66262001	Hereditary elliptocytosis due to beta spectrin-ankyrin interaction	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4218794	73073009	Hereditary elliptocytosis due to beta spectrin defect in self-association	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4243676	5994005	Hereditary elliptocytosis due to deficiency of protein 4.1	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4034711	15121005	Hereditary elliptocytosis due to glycophorin C deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4125633	234410008	Hereditary elliptocytosis with transient poikilocytosis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4135472	31925001	Hereditary factor I deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	0	140	0	50	Condition	SNOMED	
+4142629	33297000	Hereditary factor II deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	120	120	50	50	Condition	SNOMED	
+436678	41788008	Hereditary factor IX deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	309,010	309,380	23,730	23,740	Condition	SNOMED	
+4230147	438372000	Hereditary factor IX deficiency disease with inhibitor	Disorder	Standard	01/30/2009	12/30/2099	10	10	0	0	Condition	SNOMED	
+4231189	438792009	Hereditary factor IX deficiency disease without inhibitor	Disorder	Standard	01/30/2009	12/30/2099	0	280	0	10	Condition	SNOMED	
+4228064	88776002	Hereditary factor V deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	2,060	2,060	700	700	Condition	SNOMED	
+4252387	40855001	Hereditary factor VII deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	2,650	2,650	50	50	Condition	SNOMED	
+434007	28293008	Hereditary factor VIII deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	1,547,270	1,549,330	118,890	119,120	Condition	SNOMED	
+4125639	234442002	Hereditary factor VIII deficiency disease with inhibitor	Disorder	Standard	01/30/2002	12/30/2099	220	360	10	20	Condition	SNOMED	
+4207272	438360006	Hereditary factor VIII deficiency disease without inhibitor	Disorder	Standard	01/30/2009	12/30/2099	230	650	60	100	Condition	SNOMED	
+4290771	37350004	Hereditary factor X deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	130	130	10	10	Condition	SNOMED	
+437256	49762007	Hereditary factor XI deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	103,530	103,530	31,500	31,500	Condition	SNOMED	
+4183313	43217004	Hereditary factor XII deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	60	60	20	20	Condition	SNOMED	
+4258538	439460003	Hereditary factor XIII A subunit and B subunit deficiency	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+4234479	439455002	Hereditary factor XIII A subunit deficiency	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+4231634	439459008	Hereditary factor XIII B subunit deficiency	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+4177169	50189006	Hereditary factor XIII deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4318105	95841006	Hereditary hypoplasminogenemia	Disorder	Standard	01/30/2002	12/30/2099	10	30	0	10	Condition	SNOMED	
+37204551	783255002	Hereditary isolated aplastic anemia	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4203904	54006005	Hereditary persistence of fetal hemoglobin delta beta plus thalassemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4264017	61395005	Hereditary persistence of fetal hemoglobin G gamma beta plus thalassemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4061151	16964007	Hereditary persistence of fetal hemoglobin thalassemia	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37204550	783254003	Hereditary persistence of fetal hemoglobin with sickle cell disease syndrome	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4206974	439274008	Hereditary protein C deficiency	Disorder	Standard	01/30/2009	12/30/2099	140	180	50	60	Condition	SNOMED	
+4205934	439702007	Hereditary protein S deficiency	Disorder	Standard	01/30/2009	12/30/2099	90	130	20	30	Condition	SNOMED	
+24909	55995005	Hereditary spherocytosis	Disorder	Standard	01/30/2002	12/30/2099	361,950	361,960	63,700	63,700	Condition	SNOMED	
+4320651	69981004	Hereditary spherocytosis due to beta spectrin defect	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4168441	47516005	Hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4144956	33905008	Hereditary spherocytosis due to deficiency of protein 4.2	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4099224	25266006	Hereditary spherocytosis due to spectrin deficiency	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37160983	1172699002	Hereditary thrombocytopenia with early-onset myelofibrosis	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204548	783251006	Hereditary thrombocytopenia with normal platelets	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204547	783250007	Hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4236277	438827002	Hereditary thrombophilic dysfibrinogenemia	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+37166157	1259242002	Hereditary von Willebrand disease	Disorder	Standard	11/29/2022	12/30/2099	450	450	140	140	Condition	SNOMED	
+4027379	128106003	Hereditary von Willebrand disease type 1	Disorder	Standard	01/30/2002	12/30/2099	8,000	8,020	1,990	2,010	Condition	SNOMED	
+4230368	359700009	Hereditary von Willebrand disease type 1A	Disorder	Standard	01/30/2002	12/30/2099	20	20	20	20	Condition	SNOMED	
+4133987	128113003	Hereditary von Willebrand disease type 1B	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4028068	128114009	Hereditary von Willebrand disease type 1C	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4027380	128107007	Hereditary von Willebrand disease type 2	Disorder	Standard	01/30/2002	12/30/2099	480	1,940	160	460	Condition	SNOMED	
+4234868	359711001	Hereditary von Willebrand disease type 2A	Disorder	Standard	01/30/2002	12/30/2099	630	630	90	90	Condition	SNOMED	
+4231757	359717002	Hereditary von Willebrand disease type 2B	Disorder	Standard	01/30/2002	12/30/2099	500	500	90	90	Condition	SNOMED	
+4233544	359725000	Hereditary von Willebrand disease type 2M	Disorder	Standard	01/30/2002	12/30/2099	240	240	70	70	Condition	SNOMED	
+4234870	359732009	Hereditary von Willebrand disease type 2N	Disorder	Standard	01/30/2002	12/30/2099	90	90	50	50	Condition	SNOMED	
+4133986	128108002	Hereditary von Willebrand disease type 3	Disorder	Standard	01/30/2002	12/30/2099	430	430	90	90	Condition	SNOMED	
+4209490	441101007	Heterozygous protein C deficiency	Disorder	Standard	01/30/2009	12/30/2099	30	30	10	10	Condition	SNOMED	
+4259712	440988005	Heterozygous protein S deficiency	Disorder	Standard	01/30/2009	12/30/2099	40	40	10	10	Condition	SNOMED	
+4099461	27312002	High molecular weight kininogen deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4190447	3947004	High oxygen affinity hemoglobin polycythemia	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+4265915	62268000	HNSHA due to diphosphoglycerate mutase deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4181143	52413004	HNSHA due to glucose phosphate isomerase deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4178731	52212006	HNSHA due to glutathione reductase deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4174701	42484009	HNSHA due to hexokinase deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4145277	34194007	HNSHA due to pyrimidine-5'-nucleotidase deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4254249	74703006	HNSHA (hereditary nonspherocytic hemolytic anemia) due to pyruvate kinase deficiency	Disorder	Standard	01/30/2002	12/30/2099	1,380	1,380	140	140	Condition	SNOMED	
+4120454	234383000	Homozygous alpha thalassemia	Disorder	Standard	01/30/2002	12/30/2099	50	50	30	30	Condition	SNOMED	
+4132431	26682008	Homozygous beta thalassemia	Disorder	Standard	01/30/2002	12/30/2099	750	750	40	40	Condition	SNOMED	
+760844	119641000119103	Homozygous hemoglobin H constant spring thalassemia	Disorder	Standard	02/29/2016	12/30/2099	0	0	0	0	Condition	SNOMED	
+607421	1153399000	Homozygous hereditary elliptocytosis	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4209496	441188004	Homozygous protein C deficiency	Disorder	Standard	01/30/2009	12/30/2099	10	10	0	0	Condition	SNOMED	
+4236581	441189007	Homozygous protein S deficiency	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+4213820	39586009	HPFH A gamma beta+ thalassemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4311673	85557000	HPFH deletion type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4231453	89459006	HPFH linked to beta-globulin gene cluster	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4206913	56205004	HPFH nondeletion type	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4140101	32855007	HPFH unlinked to beta-globulin gene cluster	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110181	724344004	Hypercoagulability syndrome due to glycosylphosphatidylinositol deficiency	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+46272744	711161006	Hypochromic microcytic anemia with iron overload	Disorder	Standard	07/30/2015	12/30/2099	20	20	20	20	Condition	SNOMED	
+4125645	234458004	Hypodysfibrinogenemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4098145	191256002	Idiopathic aplastic anemia	Disorder	Standard	01/30/2002	12/30/2099	133,030	133,030	12,430	12,430	Condition	SNOMED	
+4273847	6398009	Idiopathic chronic cold agglutinin disease	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+4308623	423294001	Idiopathic hypereosinophilic syndrome	Disorder	Standard	01/30/2007	12/30/2099	12,520	12,520	2,880	2,880	Condition	SNOMED	
+4271197	62871001	Idiopathic paroxysmal cold hemoglobinuria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716126	722005000	Iron-refractory iron deficiency anemia	Disorder	Standard	01/30/2017	12/30/2099	480	480	150	150	Condition	SNOMED	
+37169636	1659471000000105	JAK2-negative PV (polycythaemia vera)	Disorder	Standard	04/11/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+37169635	1659461000000103	JAK2-positive PV (polycythaemia vera)	Disorder	Standard	04/11/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4314802	86635005	Kasabach-Merritt syndrome	Disorder	Standard	01/30/2002	12/30/2099	1,030	1,030	30	30	Condition	SNOMED	
+4122929	234380002	Kell isoimmunization of the newborn	Disorder	Standard	01/30/2002	12/30/2099	40	40	10	10	Condition	SNOMED	
+37163529	1217208003	L-ferritin deficiency	Disorder	Standard	04/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+608047	1156784009	Localized Castleman disease	Disorder	Standard	07/30/2021	12/30/2099	20	20	10	10	Condition	SNOMED	
+37160971	1172685001	Macrothrombocytopenia, lymphedema, developmental delay, facial dysmorphism, camptodactyly syndrome	Disorder	Standard	09/29/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674972	771075004	Macrothrombocytopenia with mitral valve insufficiency	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36713636	718554005	Medich giant platelet syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4034963	237617006	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37168769	1285665003	Mild hereditary factor IX deficiency disease with high response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4235968	440868005	Mild hereditary factor IX deficiency disease with inhibitor	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+37168770	1285666002	Mild hereditary factor IX deficiency disease with low response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4236582	441192006	Mild hereditary factor IX deficiency disease without inhibitor	Disorder	Standard	01/30/2009	12/30/2099	50	50	0	0	Condition	SNOMED	
+4094223	26029002	Mild hereditary factor VIII deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	410	410	50	50	Condition	SNOMED	
+37168759	1285655009	Mild hereditary factor VIII deficiency disease with high response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4138178	425949001	Mild hereditary factor VIII deficiency disease with inhibitor	Disorder	Standard	07/30/2007	12/30/2099	0	0	0	0	Condition	SNOMED	
+37168760	1285656005	Mild hereditary factor VIII deficiency disease with low response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4208753	440820004	Mild hereditary factor VIII deficiency disease without inhibitor	Disorder	Standard	01/30/2009	12/30/2099	20	20	0	0	Condition	SNOMED	
+4093515	24975009	Mild hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4138560	32648007	Mild hereditary spherocytosis due to spectrin deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4134437	128100009	Mixed alpha granule and dense body deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37168767	1285663005	Moderate hereditary factor IX deficiency disease with high response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4235527	440867000	Moderate hereditary factor IX deficiency disease with inhibitor	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+37168768	1285664004	Moderate hereditary factor IX deficiency disease with low response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4236248	441191004	Moderate hereditary factor IX deficiency disease without inhibitor	Disorder	Standard	01/30/2009	12/30/2099	70	70	0	0	Condition	SNOMED	
+4140661	33344008	Moderate hereditary factor VIII deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	90	90	20	20	Condition	SNOMED	
+37168763	1285659003	Moderate hereditary factor VIII deficiency disease with high response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4203831	438599002	Moderate hereditary factor VIII deficiency disease with inhibitor	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+37168764	1285660008	Moderate hereditary factor VIII deficiency disease with low response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4235661	441006000	Moderate hereditary factor VIII deficiency disease without inhibitor	Disorder	Standard	01/30/2009	12/30/2099	20	20	0	0	Condition	SNOMED	
+608063	1156805003	Multicentric Castleman disease	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37116351	733028000	Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4003186	109998009	Myelodysplastic syndrome with ring sideroblasts and single lineage dysplasia	Disorder	Standard	01/30/2002	12/30/2099	479,430	479,430	18,980	18,980	Condition	SNOMED	
+37016797	712922002	MYH9 related disease	Disorder	Standard	01/30/2016	12/30/2099	200	200	80	80	Condition	SNOMED	
+4291461	402851000	Neonatal purpura fulminans due to homozygous protein C deficiency	Disorder	Standard	07/30/2003	12/30/2099	0	0	0	0	Condition	SNOMED	
+36716203	722125003	Overhydrated hereditary stomatocytosis	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+36674474	774071007	Pancytopenia with developmental delay syndrome	Disorder	Standard	01/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+4131917	127057004	Paroxysmal cold hemoglobinuria	Disorder	Standard	01/30/2002	12/30/2099	200	200	10	10	Condition	SNOMED	
+4130195	127058009	Paroxysmal cold hemoglobinuria associated with tertiary syphilis	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35622391	763864008	Persistent polyclonal B-cell lymphocytosis	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+4246348	9417000	Platelet dense granule deficiency	Disorder	Standard	01/30/2002	12/30/2099	70	70	30	30	Condition	SNOMED	
+4027378	128101008	Platelet factor V deficiency (factor V Quebec)	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4198185	80126007	Plummer-Vinson syndrome	Disorder	Standard	01/30/2002	12/30/2099	124,140	124,140	48,580	48,580	Condition	SNOMED	
+37165245	1251448003	Polyclonal hyperviscosity syndrome	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+135214	109992005	Polycythemia vera (clinical)	Disorder	Standard	01/30/2002	12/30/2099	5,273,590	5,273,710	655,490	655,530	Condition	SNOMED	
+37169699	16740451000119109	Postpartum hemolysis-elevated liver enzymes-low platelet count syndrome	Disorder	Standard	07/30/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4149042	35703006	Post-viral paroxysmal cold hemoglobinuria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+607385	1153349004	Primary familial polycythemia due to erythropoietin receptor mutation	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+37167224	1264010001	Primary hypereosinophilic syndrome	Disorder	Standard	02/27/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4098753	191211009	Primary warm-type hemolytic anemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4133988	128115005	Pseudo von Willebrand disease	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+37117164	723512008	Revesz syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4290596	37272000	Rh deficiency syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4256226	409617000	Ricin poisoning	Disorder	Standard	07/30/2004	12/30/2099	0	0	0	0	Condition	SNOMED	
+4027375	128098009	Scott syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37165106	1237617004	Secondary hypereosinophilic syndrome	Disorder	Standard	09/29/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4174376	50253007	Secondary paroxysmal cold hemoglobinuria	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4130191	127052005	Secondary warm autoimmune hemolytic anemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4101578	191213007	Secondary warm-type hemolytic anemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4121110	234363001	Selective malabsorption of cyanocobalamin	Disorder	Standard	01/30/2002	12/30/2099	5,460	5,460	920	920	Condition	SNOMED	
+37162402	1187614006	Severe autosomal recessive macrothrombocytopenia	Disorder	Standard	01/30/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+37110923	725463007	Severe congenital hypochromic anemia with ringed sideroblasts	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37168765	1285661007	Severe hereditary factor IX deficiency disease with high response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4209366	440866009	Severe hereditary factor IX deficiency disease with inhibitor	Disorder	Standard	01/30/2009	12/30/2099	0	0	0	0	Condition	SNOMED	
+37168766	1285662000	Severe hereditary factor IX deficiency disease with low response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4261944	441190003	Severe hereditary factor IX deficiency disease without inhibitor	Disorder	Standard	01/30/2009	12/30/2099	160	160	10	10	Condition	SNOMED	
+4056830	16872008	Severe hereditary factor VIII deficiency disease	Disorder	Standard	01/30/2002	12/30/2099	550	550	40	40	Condition	SNOMED	
+37168761	1285657001	Severe hereditary factor VIII deficiency disease with high response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4230148	438373005	Severe hereditary factor VIII deficiency disease with inhibitor	Disorder	Standard	01/30/2009	12/30/2099	140	140	10	10	Condition	SNOMED	
+37168762	1285658006	Severe hereditary factor VIII deficiency disease with low response inhibitor	Disorder	Standard	06/29/2023	12/30/2099	0	0	0	0	Condition	SNOMED	
+4259713	440993008	Severe hereditary factor VIII deficiency disease without inhibitor	Disorder	Standard	01/30/2009	12/30/2099	380	380	40	40	Condition	SNOMED	
+4021466	10564005	Severe hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4298813	77413008	Severe hereditary spherocytosis due to spectrin deficiency	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4232178	89454001	Shwachman syndrome	Disorder	Standard	01/30/2002	12/30/2099	740	740	40	40	Condition	SNOMED	
+45757146	10759351000119103	Sickle cell anemia in mother complicating childbirth	Disorder	Standard	07/30/2014	12/30/2099	50	50	20	20	Condition	SNOMED	
+4131914	127045008	Sickle cell anemia with coexistent alpha-thalassemia	Disorder	Standard	01/30/2002	12/30/2099	20	20	20	20	Condition	SNOMED	
+4121115	234391009	Sickle cell anemia with high hemoglobin F	Disorder	Standard	01/30/2002	12/30/2099	30	30	10	10	Condition	SNOMED	
+4130068	127043001	Sickle cell-beta0-thalassemia	Disorder	Standard	01/30/2002	12/30/2099	15,420	15,420	1,750	1,750	Condition	SNOMED	
+4130678	127042006	Sickle cell beta plus thalassemia	Disorder	Standard	01/30/2002	12/30/2099	19,840	19,840	2,800	2,800	Condition	SNOMED	
+4130067	127041004	Sickle cell-beta-thalassemia	Disorder	Standard	01/30/2002	12/30/2099	940	36,200	180	4,730	Condition	SNOMED	
+4131913	127044007	Sickle cell-delta beta0-thalassemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+24006	35434009	Sickle cell-hemoglobin C disease	Disorder	Standard	01/30/2002	12/30/2099	3,200	1,105,620	740	107,000	Condition	SNOMED	
+443721	417517009	Sickle cell-hemoglobin C disease with crisis	Disorder	Standard	07/30/2005	12/30/2099	551,740	551,740	51,820	51,820	Condition	SNOMED	
+443726	417683006	Sickle cell-hemoglobin C disease without crisis	Disorder	Standard	07/30/2005	12/30/2099	550,680	550,680	54,440	54,440	Condition	SNOMED	
+4103763	25472008	Sickle cell-hemoglobin D disease	Disorder	Standard	01/30/2002	12/30/2099	120	280	20	120	Condition	SNOMED	
+4167364	417748003	Sickle cell-hemoglobin D disease with crisis	Disorder	Standard	07/30/2005	12/30/2099	140	140	100	100	Condition	SNOMED	
+4166099	416214006	Sickle cell-hemoglobin D disease without crisis	Disorder	Standard	07/30/2005	12/30/2099	20	20	0	0	Condition	SNOMED	
+4264046	47024008	Sickle cell-hemoglobin E disease	Disorder	Standard	01/30/2002	12/30/2099	80	80	20	20	Condition	SNOMED	
+4219568	416484003	Sickle cell-hemoglobin E disease with crisis	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+4211932	416638004	Sickle cell-hemoglobin E disease without crisis	Disorder	Standard	07/30/2005	12/30/2099	0	0	0	0	Condition	SNOMED	
+22281	127040003	Sickle cell-hemoglobin SS disease	Disorder	Standard	01/30/2002	12/30/2099	230,090	10,606,240	28,260	405,100	Condition	SNOMED	
+4130189	127046009	Sickle cell trait with coexistent alpha-thalassemia	Disorder	Standard	01/30/2002	12/30/2099	80	80	30	30	Condition	SNOMED	
+37109813	723674005	Simple cryoglobulinemia	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37109777	723623002	Southeast Asian ovalocytosis	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4211545	57020009	Stokvis' disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4264909	61777009	Thalassemia-hemoglobin C disease	Disorder	Standard	01/30/2002	12/30/2099	40	40	20	20	Condition	SNOMED	
+46272950	711407000	Thrombocytopathy, asplenia and miosis	Disorder	Standard	07/30/2015	12/30/2099	0	0	0	0	Condition	SNOMED	
+37162802	1197595004	Thrombomodulin-related bleeding disorder	Disorder	Standard	02/27/2022	12/30/2099	0	0	0	0	Condition	SNOMED	
+4301602	78129009	Thrombotic thrombocytopenic purpura	Disorder	Standard	01/30/2002	12/30/2099	1,300	10,910	450	3,220	Condition	SNOMED	
+4029726	237934001	Transcobalamin II deficiency	Disorder	Standard	01/30/2002	12/30/2099	85,020	85,020	21,310	21,310	Condition	SNOMED	
+36715588	721307000	Transient abnormal myelopoiesis	Disorder	Standard	01/30/2017	12/30/2099	30	100	0	10	Condition	SNOMED	
+37110399	724643004	Transient abnormal myelopoiesis co-occurrent with Down syndrome	Disorder	Standard	07/30/2017	12/30/2099	70	70	10	10	Condition	SNOMED	
+4125499	234375006	Transient erythroblastopenia of childhood	Disorder	Standard	01/30/2002	12/30/2099	120	120	50	50	Condition	SNOMED	
+4082253	18273004	Unstable hemoglobin disease	Disorder	Standard	01/30/2002	12/30/2099	30	30	0	0	Condition	SNOMED	
+4159966	373420004	Upshaw-Schulman syndrome	Disorder	Standard	07/30/2002	12/30/2099	9,520	9,520	2,730	2,730	Condition	SNOMED	
+45768673	707151000	Uremic pruritus	Disorder	Standard	01/30/2015	12/30/2099	160	160	80	80	Condition	SNOMED	
+4164944	41106001	von Willebrand factor inhibitor disorder	Disorder	Standard	01/30/2002	12/30/2099	20	20	20	20	Condition	SNOMED	
+4219853	3978000	Warm autoimmune hemolytic anemia	Disorder	Standard	01/30/2002	12/30/2099	52,480	208,640	6,600	17,810	Condition	SNOMED	
+36713635	718553004	White platelet syndrome	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4060269	21412009	X chromosome-linked pyridoxine refractory sideroblastic anemia	Disorder	Standard	01/30/2002	12/30/2099	60	60	0	0	Condition	SNOMED	
+4102056	25443007	X chromosome-linked pyridoxine responsive sideroblastic anemia	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+40599994	48983004	X chromosome-linked sideroblastic anemia	Disorder	Standard	07/30/2018	12/30/2099	106,170	106,230	45,280	45,280	Condition	SNOMED	
+36716460	722475006	X-linked congenital dyserythropoietic anemia with thrombocytopenia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+37204236	782759001	X-linked dyserythropoietic anemia with abnormal platelets and neutropenia	Disorder	Standard	07/30/2019	12/30/2099	0	0	0	0	Condition	SNOMED	
+36714533	719816006	X-linked sideroblastic anemia with spinocerebellar ataxia	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	

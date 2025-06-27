@@ -1,0 +1,124 @@
+Id	Code	Name	Class	Standard Concept Caption	Valid Start Date	Valid End Date	RC	DRC	PC	DPC	Domain	Vocabulary	Ancestors
+4166500	295125005	Accidental acetaminophen overdose	Disorder	Standard	01/30/2002	12/30/2099	60	60	40	40	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning caused by acetaminophen'"">1"
+4159373	290134002	Accidental acetaminophen poisoning	Disorder	Standard	01/30/2002	12/30/2099	320	380	280	320	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning caused by acetaminophen'"">1"
+4171957	296486006	Accidental colchicine overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by colchicine'"">1"
+4159915	291385005	Accidental colchicine poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by colchicine'"">1"
+4095362	291992008	Accidental digoxin poisoning	Disorder	Standard	01/30/2002	12/30/2099	10	20	0	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by Digitalis glycoside'"">1"
+4176850	295724001	Accidental fluorouracil overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by fluorouracil'"">1"
+4156621	290699005	Accidental fluorouracil poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by fluorouracil'"">1"
+4176844	295698000	Accidental mercuric oxide overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Toxic effect of mercury and/or mercury compound'"">1"
+4158855	290677002	Accidental mercuric oxide poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Toxic effect of mercury and/or mercury compound'"">1"
+4179881	297039006	Accidental mersalyl overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Toxic effect of mercury and/or mercury compound'"">1"
+4168424	295702001	Accidental methotrexate overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Methotrexate poisoning'"">1"
+4161089	290681002	Accidental methotrexate poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Methotrexate poisoning'"">1"
+4174930	296322006	Accidental overdose by cocaine	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by cocaine'"">1"
+4178856	296326009	Accidental overdose by crack cocaine	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by cocaine'"">1"
+4054385	242261003	Accidental overdose of digoxin	Disorder	Standard	01/30/2002	12/30/2099	10	10	10	10	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by Digitalis glycoside'"">1"
+4314247	216583009	Accidental poisoning by cocaine	Disorder	Standard	01/30/2002	12/30/2099	84,830	84,840	67,770	67,770	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by cocaine'"">1"
+4159809	291261004	Accidental poisoning by crack cocaine	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by cocaine'"">1"
+4316335	216740001	Accidental poisoning by cyanide	Disorder	Standard	01/30/2002	12/30/2099	890	890	270	270	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Toxic effect of cyanide'"">1"
+4314517	216780005	Accidental poisoning by lead fumes	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Lead and/or lead compound poisoning'"">1"
+436300	216640006	Accidental poisoning by methyl alcohol	Disorder	Standard	01/30/2002	12/30/2099	2,180	2,180	1,780	1,780	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Methyl alcohol causing toxic effect'"">1"
+4310223	216729009	Accidental poisoning by organic mercurials	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Toxic effect of mercury and/or mercury compound'"">1"
+4316331	216726002	Accidental poisoning by paraquat	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Paraquat toxicity'"">1"
+606504	1145156006	Accidental poisoning caused by lead and/or lead compound	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Lead and/or lead compound poisoning'"">1"
+4173525	295124009	Acetaminophen overdose	Disorder	Standard	01/30/2002	12/30/2099	9,400	9,660	6,060	6,220	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning caused by acetaminophen'"">1"
+37166842	1260191006	Acute radiation syndrome	Disorder	Standard	01/30/2023	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+37167938	1269177007	Acute tricyclic antidepressant poisoning	Disorder	Standard	03/30/2023	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4230052	89629006	Argyria of skin	Disorder	Standard	01/30/2002	12/30/2099	60	60	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4020149	212737004	Chlormerodrin poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Toxic effect of mercury and/or mercury compound'"">1"
+4101256	27956007	Cocaine intoxication	Disorder	Standard	01/30/2002	12/30/2099	241,750	267,000	70,760	78,810	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by cocaine'"">1"
+4290062	70328006	Cocaine intoxication delirium	Disorder	Standard	01/30/2002	12/30/2099	25,250	25,250	8,050	8,050	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by cocaine'"">1"
+4176387	296485005	Colchicine overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by colchicine'"">1"
+37311595	789291002	Consumption coagulopathy caused by snake venom	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by venomous snake'"">1"
+4166667	45328004	Digitalis purpurea poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by Digitalis glycoside'"">1"
+4213169	80471007	Digitalis species poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by Digitalis glycoside'"">1"
+4178258	297062008	Digoxin overdose	Disorder	Standard	01/30/2002	12/30/2099	50	60	20	30	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by Digitalis glycoside'"">1"
+4084023	241816009	Effect of spitting cobra venom on conjunctiva	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by venomous snake'"">1"
+4139367	426692001	Ethylene glycol poisoning	Disorder	Standard	07/30/2007	12/30/2099	30	30	20	20	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4172878	295722002	Fluorouracil overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by fluorouracil'"">1"
+37109690	723489005	Hematopoietic subsyndrome of acute radiation syndrome	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Acute radiation syndrome'"">1"
+35622322	763740000	Infantile mercury poisoning	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: ''"">0"
+4166531	47980004	Inorganic mercury poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Toxic effect of mercury and/or mercury compound'"">1"
+4160957	290544006	Intentional cocaine poisoning	Disorder	Standard	01/30/2002	12/30/2099	15,880	15,880	8,640	8,640	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by cocaine'"">1"
+4179004	296487002	Intentional colchicine overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by colchicine'"">1"
+4159916	291386006	Intentional colchicine poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by colchicine'"">1"
+4178259	297063003	Intentional digoxin overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by Digitalis glycoside'"">1"
+4096136	291993003	Intentional digoxin poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by Digitalis glycoside'"">1"
+4172879	295725000	Intentional fluorouracil overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by fluorouracil'"">1"
+4158859	290700006	Intentional fluorouracil poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Poisoning by fluorouracil'"">1"
+4172873	295699008	Intentional mercuric oxide overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Toxic effect of mercury and/or mercury compound'"">1"
+4161088	290678007	Intentional mercuric oxide poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	"$parents[1].showAncestorsModal(d.CONCEPT_ID), tooltip: 'Toxic effect of mercury and/or mercury compound'"">1"
+4173992	297040008	Intentional mersalyl overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4174310	295703006	Intentional methotrexate overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4156616	290682009	Intentional methotrexate poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4178853	296323001	Intentional overdose by cocaine	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4178857	296327000	Intentional overdose by crack cocaine	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4055123	242824002	Intentional paracetamol overdose	Disorder	Standard	01/30/2002	12/30/2099	200	200	120	120	Condition	SNOMED	
+4157354	290135001	Intentional paracetamol poisoning	Disorder	Standard	01/30/2002	12/30/2099	10	210	0	120	Condition	SNOMED	
+4160239	291263001	Intentional poisoning by crack cocaine	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4170729	49434001	Jamaican vomiting sickness	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37111583	726613003	Ketamine-induced biliary dilatation	Disorder	Standard	07/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+606503	1145155005	Lead and/or lead compound poisoning	Disorder	Standard	07/30/2021	12/30/2099	384,910	454,780	241,200	271,670	Condition	SNOMED	
+4019862	212738009	Mercaptomerin poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4173991	297037008	Mercurial diuretic overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4176843	295697005	Mercuric oxide overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4158280	290676006	Mercuric oxide poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4178255	297038003	Mersalyl overdose	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4020447	212739001	Mersalyl poisoning	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4176846	295701008	Methotrexate overdose	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4158281	290680001	Methotrexate poisoning	Disorder	Standard	01/30/2002	12/30/2099	20	420	10	30	Condition	SNOMED	
+441761	212809004	Methyl alcohol causing toxic effect	Disorder	Standard	01/30/2002	12/30/2099	6,760	8,940	2,930	4,710	Condition	SNOMED	
+4214834	39640004	Minamata disease	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+37311603	789283006	Neurotoxicity caused by snake venom	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+4030749	129666005	Neurotoxicity due to methotrexate	Disorder	Standard	01/30/2002	12/30/2099	390	390	20	20	Condition	SNOMED	
+4299094	77721001	Opioid intoxication	Disorder	Standard	01/30/2002	12/30/2099	1,222,180	1,316,730	168,620	190,020	Condition	SNOMED	
+4199769	52866005	Opioid intoxication delirium	Disorder	Standard	01/30/2002	12/30/2099	94,550	94,550	21,400	21,400	Condition	SNOMED	
+4319116	22130008	Organic mercury poisoning	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4171797	296321004	Overdose of cocaine	Disorder	Standard	01/30/2002	12/30/2099	80	90	60	60	Condition	SNOMED	
+4178855	296325008	Overdose of crack cocaine	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+600648	1148724006	Overdose of Digitalis glycoside	Disorder	Standard	07/30/2021	12/30/2099	0	60	0	30	Condition	SNOMED	
+4326240	75017004	Paraquat toxicity	Disorder	Standard	01/30/2002	12/30/2099	60	60	40	40	Condition	SNOMED	
+4223288	420775008	Poisoning by Centruroides exilicauda	Disorder	Standard	07/30/2006	12/30/2099	0	0	0	0	Condition	SNOMED	
+4322698	9982009	Poisoning by cocaine	Disorder	Standard	01/30/2002	12/30/2099	111,030	478,840	51,670	206,950	Condition	SNOMED	
+4087729	24354007	Poisoning by colchicine	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4083717	241761001	Poisoning by crack cocaine	Disorder	Standard	01/30/2002	12/30/2099	10	10	0	0	Condition	SNOMED	
+4029027	12876009	Poisoning by Digitalis glycoside	Disorder	Standard	01/30/2002	12/30/2099	80	1,370	20	330	Condition	SNOMED	
+4015597	10385009	Poisoning by digoxin	Disorder	Standard	01/30/2002	12/30/2099	1,200	1,270	270	300	Condition	SNOMED	
+4137934	32393008	Poisoning by fluorouracil	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4266230	61288004	Poisoning by venomous snake	Disorder	Standard	01/30/2002	12/30/2099	31,420	39,950	18,480	23,270	Condition	SNOMED	
+4322306	70273001	Poisoning caused by acetaminophen	Disorder	Standard	01/30/2002	12/30/2099	449,560	459,550	159,660	166,160	Condition	SNOMED	
+35622870	765090007	Poisoning caused by monochloroacetic acid	Disorder	Standard	07/30/2018	12/30/2099	0	0	0	0	Condition	SNOMED	
+36717629	717125005	Poisoning caused by tiger snake venom	Disorder	Standard	01/30/2017	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084466	241810003	Poisoning due to boomslang venom	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4086580	241808000	Poisoning due to cobra family snake venom	Disorder	Standard	01/30/2002	12/30/2099	0	330	0	210	Condition	SNOMED	
+4313120	217651002	Poisoning due to cobra venom	Disorder	Standard	01/30/2002	12/30/2099	60	60	40	40	Condition	SNOMED	
+4314074	217652009	Poisoning due to copperhead snake venom	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4314075	217653004	Poisoning due to coral snake venom	Disorder	Standard	01/30/2002	12/30/2099	270	270	170	170	Condition	SNOMED	
+4083842	241805002	Poisoning due to European adder venom	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4316175	217654005	Poisoning due to fer de lance venom	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4313121	217656007	Poisoning due to krait venom	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4314077	217657003	Poisoning due to mamba venom	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084020	241807005	Poisoning due to pit viper venom	Disorder	Standard	01/30/2002	12/30/2099	0	8,200	0	4,580	Condition	SNOMED	
+4084464	241806001	Poisoning due to puff adder venom	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4314078	217659000	Poisoning due to rattlesnake venom	Disorder	Standard	01/30/2002	12/30/2099	8,180	8,180	4,570	4,570	Condition	SNOMED	
+4318502	217670007	Poisoning due to scorpion venom	Disorder	Standard	01/30/2002	12/30/2099	44,370	44,370	33,680	33,680	Condition	SNOMED	
+4314079	217660005	Poisoning due to sea snake venom	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084019	241804003	Poisoning due to true viper venom	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4084465	241809008	Poisoning due to venom of back-fanged snake	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4318500	217661009	Poisoning due to viper venom	Disorder	Standard	01/30/2002	12/30/2099	0	8,200	0	4,580	Condition	SNOMED	
+4313123	217662002	Poisoning due to water moccasin venom	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4073369	242837004	Self poisoning by paraquat	Disorder	Standard	01/30/2002	12/30/2099	20	20	20	20	Condition	SNOMED	
+37311600	789286003	Shock caused by snake venom	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+37311597	789289005	Skin and subcutaneous tissue damage caused by snake venom	Disorder	Standard	01/30/2020	12/30/2099	0	0	0	0	Condition	SNOMED	
+435697	66207005	Toxic effect of cyanide	Disorder	Standard	01/30/2002	12/30/2099	4,010	4,900	2,440	2,710	Condition	SNOMED	
+441759	72446009	Toxic effect of inorganic lead compound	Disorder	Standard	01/30/2002	12/30/2099	59,620	59,620	23,280	23,280	Condition	SNOMED	
+4323851	70842005	Toxic effect of lead acetate	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4284693	67121008	Toxic effect of lead dioxide	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+35624506	767299002	Toxic effect of mercury and/or mercury compound	Disorder	Standard	07/30/2018	12/30/2099	48,140	48,590	20,140	20,430	Condition	SNOMED	
+433394	78405005	Toxic effect of organic lead compound	Disorder	Standard	01/30/2002	12/30/2099	10,230	10,230	7,180	7,180	Condition	SNOMED	
+4170069	48152004	Toxic effect of tetraethyl lead	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+603112	1156340006	Toxic encephalopathy caused by monomethyl mercury	Disorder	Standard	07/30/2021	12/30/2099	0	0	0	0	Condition	SNOMED	
+4201276	51399001	Toxic encephalopathy due to lead	Disorder	Standard	01/30/2002	12/30/2099	20	20	10	10	Condition	SNOMED	
+4210046	55623006	Toxic encephalopathy due to mercury	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
+4343929	239910001	Toxic oil syndrome	Disorder	Standard	01/30/2002	12/30/2099	0	0	0	0	Condition	SNOMED	
